@@ -1,0 +1,3074 @@
+{
+    "data": {
+        "itemids": [
+            "12",
+            "1260000646",
+            "1260108189",
+            "7326",
+            "7662",
+            "15017",
+            "3250",
+            "1654",
+            "13307",
+            "9278",
+            "15520",
+            "1260066571",
+            "1260011373",
+            "1260087189",
+            "1260106586",
+            "1260108191",
+            "3613",
+            "1260125771",
+            "363",
+            "1260128800"
+        ],
+        "items": {
+            "12": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Mahadev",
+                "categoryId": 12,
+                "contentId": 12,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4&avsCategoryId=12&contentId=12&offset=0&size=20&tao=0&tas=5",
+                "id": 4,
+                "description": "He is the supreme being and the destroyer of evil. Witness lord Shiva's story, his avatars, and a union that shaped the universe - his marriage to Parvati.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Period",
+                                "engValue": "Period"
+                            },
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Power Struggle",
+                                "engValue": "Power Struggle"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Supernatural",
+                                "engValue": "Supernatural"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            },
+                            {
+                                "value": "Modern History",
+                                "engValue": "Modern History"
+                            },
+                            {
+                                "value": "Religion",
+                                "engValue": "Religion"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 820,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8977/1378977-b-68c951d21522",
+                    "h": "sources/r1/cms/prod/587/860587-h",
+                    "i": "sources/r1/cms/prod/8976/1378976-i-7e26d648962a",
+                    "t": "sources/r1/cms/prod/8978/1378978-t-af33668fb12c",
+                    "v": "sources/r1/cms/prod/2876/862876-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8977/1378977-b-68c951d21522",
+                        "h": "sources/r1/cms/prod/587/860587-h",
+                        "i": "sources/r1/cms/prod/8976/1378976-i-7e26d648962a",
+                        "t": "sources/r1/cms/prod/8978/1378978-t-af33668fb12c",
+                        "v": "sources/r1/cms/prod/2876/862876-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2876/862876-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/587/860587-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8976/1378976-i-7e26d648962a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8977/1378977-b-68c951d21522",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8978/1378978-t-af33668fb12c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000184786"
+                ],
+                "seasonCnt": 36,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000184786",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "363": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Savdhaan India",
+                "categoryId": 362,
+                "contentId": 363,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=26&avsCategoryId=362&contentId=363&offset=0&size=20&tao=0&tas=5",
+                "id": 26,
+                "description": "From a dangerous murder plot to a thoroughly planned robbery, unmask the gory face of terror through a dramatised version of the crimes happening around you!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 2348,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7869/1427869-b-879ff06d8c22",
+                    "h": "sources/r1/cms/prod/8757/1308757-h-fdbb4e2fc8e1",
+                    "i": "sources/r1/cms/prod/7868/1427868-i-bfbc204c45f8",
+                    "t": "sources/r1/cms/prod/7870/1427870-t-4ff6f355d505",
+                    "v": "sources/r1/cms/prod/8758/1308758-v-4ac1eb2a614d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7869/1427869-b-879ff06d8c22",
+                        "h": "sources/r1/cms/prod/8757/1308757-h-fdbb4e2fc8e1",
+                        "i": "sources/r1/cms/prod/7868/1427868-i-bfbc204c45f8",
+                        "t": "sources/r1/cms/prod/7870/1427870-t-4ff6f355d505",
+                        "v": "sources/r1/cms/prod/8758/1308758-v-4ac1eb2a614d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7868/1427868-i-bfbc204c45f8",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7869/1427869-b-879ff06d8c22",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7870/1427870-t-4ff6f355d505",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8757/1308757-h-fdbb4e2fc8e1",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8758/1308758-v-4ac1eb2a614d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 73,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1654": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "SuperCops",
+                "categoryId": 1618,
+                "contentId": 1654,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=87&avsCategoryId=1618&contentId=1654&offset=0&size=20&tao=0&tas=5",
+                "id": 87,
+                "description": "ACP Diler and his team of supercops fight deadly villains, mutants and monsters for the safety of the common man.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Fantasy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 277,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/593/1390593-b-0055456c1560",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/1654/1654/1654-h",
+                    "i": "sources/r1/cms/prod/592/1390592-i-cce02543d965",
+                    "t": "sources/r1/cms/prod/594/1390594-t-c31e8dc2610e",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1654/1654/1654-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/593/1390593-b-0055456c1560",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/1654/1654/1654-h",
+                        "i": "sources/r1/cms/prod/592/1390592-i-cce02543d965",
+                        "t": "sources/r1/cms/prod/594/1390594-t-c31e8dc2610e",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1654/1654/1654-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/592/1390592-i-cce02543d965",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/593/1390593-b-0055456c1560",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/594/1390594-t-c31e8dc2610e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/1654/1654/1654-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/1654/1654/1654-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 11,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "3250": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kalash...Ek Vishwaas",
+                "categoryId": 3190,
+                "contentId": 3250,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=210&avsCategoryId=3190&contentId=3250&offset=0&size=20&tao=0&tas=5",
+                "id": 210,
+                "description": "Kalash Ek Vishwaas is a family drama. Ambitious Devika wants to study and stand on her own feet, while her traditional grandmother has other ideas!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 518,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8557/1418557-b-3d9edbd42adb",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/3250/3250/3250-h",
+                    "i": "sources/r1/cms/prod/8556/1418556-i-95f141ef910b",
+                    "t": "sources/r1/cms/prod/8558/1418558-t-6322a0050efd",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/3250/3250/3250-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8557/1418557-b-3d9edbd42adb",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/3250/3250/3250-h",
+                        "i": "sources/r1/cms/prod/8556/1418556-i-95f141ef910b",
+                        "t": "sources/r1/cms/prod/8558/1418558-t-6322a0050efd",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/3250/3250/3250-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8556/1418556-i-95f141ef910b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8557/1418557-b-3d9edbd42adb",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8558/1418558-t-6322a0050efd",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/3250/3250/3250-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/3250/3250/3250-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 10,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "3613": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Piya Rangrezz",
+                "categoryId": 3550,
+                "contentId": 3613,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=225&avsCategoryId=3550&contentId=3613&offset=0&size=20&tao=0&tas=5",
+                "id": 225,
+                "description": "Sher Singh, a powerful man for the society only worships his mother, Bhanwari Devi. However, his priorities change when the soft-spoken Shraddha enters his life.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 275,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8550/1418550-b-fbd828e03ce2",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/3613/3613/3613-h",
+                    "i": "sources/r1/cms/prod/8549/1418549-i-dcbe2ee37afa",
+                    "t": "sources/r1/cms/prod/8551/1418551-t-9f8b601e12a2",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/3613/3613/3613-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8550/1418550-b-fbd828e03ce2",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/3613/3613/3613-h",
+                        "i": "sources/r1/cms/prod/8549/1418549-i-dcbe2ee37afa",
+                        "t": "sources/r1/cms/prod/8551/1418551-t-9f8b601e12a2",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/3613/3613/3613-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8549/1418549-i-dcbe2ee37afa",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8550/1418550-b-fbd828e03ce2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8551/1418551-t-9f8b601e12a2",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/3613/3613/3613-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/3613/3613/3613-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 6,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "7326": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bahu Humari Rajni_Kant",
+                "categoryId": 7219,
+                "contentId": 7326,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=470&avsCategoryId=7219&contentId=7326&offset=0&size=20&tao=0&tas=5",
+                "id": 470,
+                "description": "Shaan, a scientist creates a robot, Rajni, as a one-stop-solution for humans. When he ends up marrying her, his life becomes a hilarious circus.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Science Fiction"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Science Fiction"
+                ],
+                "genome": [
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Sitcom",
+                                "engValue": "Sitcom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "A.I. & Robots",
+                                "engValue": "A.I. & Robots"
+                            },
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 262,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8622/1418622-b-54d6bf4d3962",
+                    "h": "sources/r1/cms/prod/4785/294785-h",
+                    "i": "sources/r1/cms/prod/8621/1418621-i-54b219d0531e",
+                    "m": "sources/r1/cms/prod/4791/294791-m",
+                    "t": "sources/r1/cms/prod/8623/1418623-t-8347f1f6dc0e",
+                    "v": "sources/r1/cms/prod/4790/294790-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8622/1418622-b-54d6bf4d3962",
+                        "h": "sources/r1/cms/prod/4785/294785-h",
+                        "i": "sources/r1/cms/prod/8621/1418621-i-54b219d0531e",
+                        "m": "sources/r1/cms/prod/4791/294791-m",
+                        "t": "sources/r1/cms/prod/8623/1418623-t-8347f1f6dc0e",
+                        "v": "sources/r1/cms/prod/4790/294790-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4785/294785-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4790/294790-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4791/294791-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8621/1418621-i-54b219d0531e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8622/1418622-b-54d6bf4d3962",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8623/1418623-t-8347f1f6dc0e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 15055,
+                        "name": "Science Fiction",
+                        "engName": "Science Fiction",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15055&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 9,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "7662": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "May I Come in Madam",
+                "categoryId": 7553,
+                "contentId": 7662,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=482&avsCategoryId=7553&contentId=7662&offset=0&size=20&tao=0&tas=5",
+                "id": 482,
+                "description": "Tired of his intrusive in-laws and lack of privacy with his wife, Kashmira, Sajan finds an escape in his authoritative yet attractive new boss, but has he?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy"
+                ],
+                "engGenre": [
+                    "Comedy"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            },
+                            {
+                                "value": "Weird",
+                                "engValue": "Weird"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            },
+                            {
+                                "value": "Sitcom",
+                                "engValue": "Sitcom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Corporate Set-up",
+                                "engValue": "Corporate Set-up"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 385,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2275/1412275-b-f31b10b30c4d",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/7662/7662/7662-h",
+                    "i": "sources/r1/cms/prod/2274/1412274-i-e73f94d2f416",
+                    "t": "sources/r1/cms/prod/2276/1412276-t-9bbfb48f7a7b",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/7662/7662/7662-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2275/1412275-b-f31b10b30c4d",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/7662/7662/7662-h",
+                        "i": "sources/r1/cms/prod/2274/1412274-i-e73f94d2f416",
+                        "t": "sources/r1/cms/prod/2276/1412276-t-9bbfb48f7a7b",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/7662/7662/7662-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2274/1412274-i-e73f94d2f416",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2275/1412275-b-f31b10b30c4d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2276/1412276-t-9bbfb48f7a7b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/7662/7662/7662-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/7662/7662/7662-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 9,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "9278": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Nagarjun Ek Yoddha",
+                "categoryId": 9163,
+                "contentId": 9278,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=611&avsCategoryId=9163&contentId=9278&offset=0&size=20&tao=0&tas=5",
+                "id": 611,
+                "description": "A puzzling mystery surrounds Arjun, a 20-year-old boy, who in order to save his loved ones must unearth some deep secrets related to his past.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mystery",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Mystery",
+                    "Fantasy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 165,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8640/1378640-b-64a9a0583cb2",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/9278/9278/9278-h",
+                    "i": "sources/r1/cms/prod/8639/1378639-i-bff5199f9d60",
+                    "t": "sources/r1/cms/prod/8641/1378641-t-2de28d75114a",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/9278/9278/9278-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8640/1378640-b-64a9a0583cb2",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/9278/9278/9278-h",
+                        "i": "sources/r1/cms/prod/8639/1378639-i-bff5199f9d60",
+                        "t": "sources/r1/cms/prod/8641/1378641-t-2de28d75114a",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/9278/9278/9278-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8639/1378639-i-bff5199f9d60",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8640/1378640-b-64a9a0583cb2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8641/1378641-t-2de28d75114a",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/9278/9278/9278-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/9278/9278/9278-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15062,
+                        "name": "Mystery",
+                        "engName": "Mystery",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15062&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000190810"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000190810",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "13307": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Chandrakanta",
+                "categoryId": 13147,
+                "contentId": 13307,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1037&avsCategoryId=13147&contentId=13307&offset=0&size=20&tao=0&tas=5",
+                "id": 1037,
+                "description": "The twisted love tale of Prince Virendra and Princess Chandrakanta, who are reborn to fight the evil forces of Maricha.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Romance",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Romance",
+                    "Fantasy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 52,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2500/1422500-b-2d153a74e814",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/3307/13307/13307-h",
+                    "i": "sources/r1/cms/prod/2499/1422499-i-35f3260eded0",
+                    "t": "sources/r1/cms/prod/2501/1422501-t-0bd7d24457ea",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/3307/13307/13307-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2500/1422500-b-2d153a74e814",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/3307/13307/13307-h",
+                        "i": "sources/r1/cms/prod/2499/1422499-i-35f3260eded0",
+                        "t": "sources/r1/cms/prod/2501/1422501-t-0bd7d24457ea",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/3307/13307/13307-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2499/1422499-i-35f3260eded0",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2500/1422500-b-2d153a74e814",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2501/1422501-t-0bd7d24457ea",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/3307/13307/13307-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/3307/13307/13307-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000184719"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000184719",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "15017": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kya Haal Mr. Paanchal",
+                "categoryId": 14847,
+                "contentId": 15017,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1179&avsCategoryId=14847&contentId=15017&offset=0&size=20&tao=0&tas=5",
+                "id": 1179,
+                "description": "Kunti's innocent wish of a perfect bride for her son Kanhaiya, lands her up with five daughters-in-laws, each with a unique quality, leading to a comical ride.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy"
+                ],
+                "engGenre": [
+                    "Comedy"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            },
+                            {
+                                "value": "Sitcom",
+                                "engValue": "Sitcom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Meerut",
+                                "engValue": "Meerut"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 424,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8112/1378112-b-e3ed890f639d",
+                    "h": "sources/r1/cms/prod/2270/142270-h",
+                    "i": "sources/r1/cms/prod/8111/1378111-i-41dd00c8be38",
+                    "m": "sources/r1/cms/prod/2272/142272-m",
+                    "t": "sources/r1/cms/prod/8113/1378113-t-f14b9085b4f2",
+                    "v": "sources/r1/cms/prod/2271/142271-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8112/1378112-b-e3ed890f639d",
+                        "h": "sources/r1/cms/prod/2270/142270-h",
+                        "i": "sources/r1/cms/prod/8111/1378111-i-41dd00c8be38",
+                        "m": "sources/r1/cms/prod/2272/142272-m",
+                        "t": "sources/r1/cms/prod/8113/1378113-t-f14b9085b4f2",
+                        "v": "sources/r1/cms/prod/2271/142271-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2270/142270-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2271/142271-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2272/142272-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8111/1378111-i-41dd00c8be38",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8112/1378112-b-e3ed890f639d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8113/1378113-t-f14b9085b4f2",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000186863"
+                ],
+                "seasonCnt": 6,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000186863",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "15520": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kaal Bhairav Rahasya",
+                "categoryId": 15345,
+                "contentId": 15520,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1287&avsCategoryId=15345&contentId=15520&offset=0&size=20&tao=0&tas=5",
+                "id": 1287,
+                "description": "Heirs of Kanakgarh's Royal family don't survive beyond the age of 30. Will Veer and his lady love Archana free the family from the 150-year-old curse?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Thriller",
+                    "Mystery"
+                ],
+                "engGenre": [
+                    "Thriller",
+                    "Mystery"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 272,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8137/1378137-b-d4d633791cbd",
+                    "h": "sources/r1/cms/prod/3876/273876-h",
+                    "i": "sources/r1/cms/prod/8136/1378136-i-df9ff0d0a81a",
+                    "m": "sources/r1/cms/prod/3878/273878-m",
+                    "t": "sources/r1/cms/prod/8138/1378138-t-667bf1a92828",
+                    "v": "sources/r1/cms/prod/3877/273877-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8137/1378137-b-d4d633791cbd",
+                        "h": "sources/r1/cms/prod/3876/273876-h",
+                        "i": "sources/r1/cms/prod/8136/1378136-i-df9ff0d0a81a",
+                        "m": "sources/r1/cms/prod/3878/273878-m",
+                        "t": "sources/r1/cms/prod/8138/1378138-t-667bf1a92828",
+                        "v": "sources/r1/cms/prod/3877/273877-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3876/273876-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3877/273877-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3878/273878-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8136/1378136-i-df9ff0d0a81a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8137/1378137-b-d4d633791cbd",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8138/1378138-t-667bf1a92828",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    },
+                    {
+                        "id": 15062,
+                        "name": "Mystery",
+                        "engName": "Mystery",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15062&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000227286"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227286",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260000646": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "RadhaKrishn",
+                "categoryId": 1260000646,
+                "contentId": 1260000646,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1695&avsCategoryId=1260000646&contentId=1260000646&offset=0&size=20&tao=0&tas=5",
+                "id": 1695,
+                "description": "Radha and Krishna are the epitome of eternal love and sacrifice, transcending eras and emotions. Here's a never-seen-before retelling of this supreme romance.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Period",
+                                "engValue": "Period"
+                            },
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            },
+                            {
+                                "value": "Romance",
+                                "engValue": "Romance"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 1145,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3233/1423233-b-989003ed5983",
+                    "h": "sources/r1/cms/prod/3227/1423227-h-1e07ce45fc2e",
+                    "i": "sources/r1/cms/prod/3232/1423232-i-050f622bde39",
+                    "m": "sources/r1/cms/prod/8947/38947-m",
+                    "t": "sources/r1/cms/prod/3230/1423230-t-ba8a293e17af",
+                    "v": "sources/r1/cms/prod/3229/1423229-v-38316a3e497f"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3233/1423233-b-989003ed5983",
+                        "h": "sources/r1/cms/prod/3227/1423227-h-1e07ce45fc2e",
+                        "i": "sources/r1/cms/prod/3232/1423232-i-050f622bde39",
+                        "m": "sources/r1/cms/prod/8947/38947-m",
+                        "t": "sources/r1/cms/prod/3230/1423230-t-ba8a293e17af",
+                        "v": "sources/r1/cms/prod/3229/1423229-v-38316a3e497f"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3227/1423227-h-1e07ce45fc2e",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3229/1423229-v-38316a3e497f",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3230/1423230-t-ba8a293e17af",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 883
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3232/1423232-i-050f622bde39",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3233/1423233-b-989003ed5983",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8947/38947-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260129351"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260129351",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260011373": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Maa Vaishnodevi",
+                "categoryId": 1260011373,
+                "contentId": 1260011373,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2353&avsCategoryId=1260011373&contentId=1260011373&offset=0&size=20&tao=0&tas=5",
+                "id": 2353,
+                "description": "A riveting story of Goddess Vaishno Devi, an amalgamation of supreme powers to fight every battle against evil and save the mankind.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Historical",
+                                "engValue": "Historical"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Tough Gals",
+                                "engValue": "Tough Gals"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 207,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9105/1379105-b-c3f27d71e839",
+                    "h": "sources/r1/cms/prod/8355/718355-h",
+                    "i": "sources/r1/cms/prod/9104/1379104-i-139f9d1b9858",
+                    "t": "sources/r1/cms/prod/9106/1379106-t-e6f2cbb1691b",
+                    "v": "sources/r1/cms/prod/8357/718357-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9105/1379105-b-c3f27d71e839",
+                        "h": "sources/r1/cms/prod/8355/718355-h",
+                        "i": "sources/r1/cms/prod/9104/1379104-i-139f9d1b9858",
+                        "t": "sources/r1/cms/prod/9106/1379106-t-e6f2cbb1691b",
+                        "v": "sources/r1/cms/prod/8357/718357-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8355/718355-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8357/718357-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9104/1379104-i-139f9d1b9858",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9105/1379105-b-c3f27d71e839",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9106/1379106-t-e6f2cbb1691b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260036307"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260036307",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260066571": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Tera Mera Saath Rahe",
+                "categoryId": 1260066571,
+                "contentId": 1260066571,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3460&avsCategoryId=1260066571&contentId=1260066571&offset=0&size=20&tao=0&tas=5",
+                "id": 3460,
+                "description": "Talented but timid Gopika fails to match up to her husband's expectations. When she finds a mentor in her mother-in-law, Meethila, things take a turn.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Family"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 220,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1034/1441034-b-b97bba431594",
+                    "h": "sources/r1/cms/prod/8857/1058857-h-69906000acd9",
+                    "i": "sources/r1/cms/prod/1033/1441033-i-94820f048bb0",
+                    "t": "sources/r1/cms/prod/1035/1441035-t-adc192cd04cb",
+                    "v": "sources/r1/cms/prod/8858/1058858-v-ce3304123423"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1034/1441034-b-b97bba431594",
+                        "h": "sources/r1/cms/prod/8857/1058857-h-69906000acd9",
+                        "i": "sources/r1/cms/prod/1033/1441033-i-94820f048bb0",
+                        "t": "sources/r1/cms/prod/1035/1441035-t-adc192cd04cb",
+                        "v": "sources/r1/cms/prod/8858/1058858-v-ce3304123423"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1033/1441033-i-94820f048bb0",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1034/1441034-b-b97bba431594",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1035/1441035-t-adc192cd04cb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8857/1058857-h-69906000acd9",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8858/1058858-v-ce3304123423",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260066478"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260066478",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260087189": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Woh Toh Hai Albelaa",
+                "categoryId": 1260087189,
+                "contentId": 1260087189,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3833&avsCategoryId=1260087189&contentId=1260087189&offset=0&size=20&tao=0&tas=5",
+                "id": 3833,
+                "description": "Where there is love, there’s a clash! Krishna and Sayuri have had a picture-perfect marriage. But with an obsessive Chaman keeping tabs, will true love prevail?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 303,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1264/1441264-b-cc25893fcef2",
+                    "h": "sources/r1/cms/prod/8802/1308802-h-72105cba3e89",
+                    "i": "sources/r1/cms/prod/1263/1441263-i-4f049042fffe",
+                    "t": "sources/r1/cms/prod/1265/1441265-t-672a8791f8d4",
+                    "v": "sources/r1/cms/prod/8803/1308803-v-92e2188d682a"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1264/1441264-b-cc25893fcef2",
+                        "h": "sources/r1/cms/prod/8802/1308802-h-72105cba3e89",
+                        "i": "sources/r1/cms/prod/1263/1441263-i-4f049042fffe",
+                        "t": "sources/r1/cms/prod/1265/1441265-t-672a8791f8d4",
+                        "v": "sources/r1/cms/prod/8803/1308803-v-92e2188d682a"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1263/1441263-i-4f049042fffe",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1264/1441264-b-cc25893fcef2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1265/1441265-t-672a8791f8d4",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8802/1308802-h-72105cba3e89",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8803/1308803-v-92e2188d682a",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260133478",
+                    "1260132416"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260133478",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260106586": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Channa Mereya",
+                "categoryId": 1260106586,
+                "contentId": 1260106586,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4045&avsCategoryId=1260106586&contentId=1260106586&offset=0&size=20&tao=0&tas=5",
+                "id": 4045,
+                "description": "Aditya, an NRI aspires to be a sought-after hotelier but is weighed down by his family. Things take an interesting turn when he meets Ginni, a countryside chef.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 110,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/608/1440608-b-8d51e9d2cf43",
+                    "h": "sources/r1/cms/prod/8784/1308784-h-d409c2e59665",
+                    "i": "sources/r1/cms/prod/607/1440607-i-8a6a851f55db",
+                    "t": "sources/r1/cms/prod/609/1440609-t-153744aa32be",
+                    "v": "sources/r1/cms/prod/8788/1308788-v-f25e8bfd657b"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/608/1440608-b-8d51e9d2cf43",
+                        "h": "sources/r1/cms/prod/8784/1308784-h-d409c2e59665",
+                        "i": "sources/r1/cms/prod/607/1440607-i-8a6a851f55db",
+                        "t": "sources/r1/cms/prod/609/1440609-t-153744aa32be",
+                        "v": "sources/r1/cms/prod/8788/1308788-v-f25e8bfd657b"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/607/1440607-i-8a6a851f55db",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/608/1440608-b-8d51e9d2cf43",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/609/1440609-t-153744aa32be",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8784/1308784-h-d409c2e59665",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8788/1308788-v-f25e8bfd657b",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260106868"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260106868",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260108189": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Na Umra Ki Seema Ho",
+                "categoryId": 1260108189,
+                "contentId": 1260108189,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4098&avsCategoryId=1260108189&contentId=1260108189&offset=0&size=20&tao=0&tas=5",
+                "id": 4098,
+                "description": "Vidhi, a young woman, falls in love with Devratha, a middle-aged tycoon. Together they embark on a journey of love and acceptance beyond the barrier of age.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 208,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1103/1441103-b-e3e173ce9919",
+                    "h": "sources/r1/cms/prod/8055/1308055-h-1a3debfc48da",
+                    "i": "sources/r1/cms/prod/1102/1441102-i-2bf100c07e9e",
+                    "t": "sources/r1/cms/prod/1104/1441104-t-8195a2a196c0",
+                    "v": "sources/r1/cms/prod/8056/1308056-v-b52e223ef46d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1103/1441103-b-e3e173ce9919",
+                        "h": "sources/r1/cms/prod/8055/1308055-h-1a3debfc48da",
+                        "i": "sources/r1/cms/prod/1102/1441102-i-2bf100c07e9e",
+                        "t": "sources/r1/cms/prod/1104/1441104-t-8195a2a196c0",
+                        "v": "sources/r1/cms/prod/8056/1308056-v-b52e223ef46d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1102/1441102-i-2bf100c07e9e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1103/1441103-b-e3e173ce9919",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1104/1441104-t-8195a2a196c0",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8055/1308055-h-1a3debfc48da",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8056/1308056-v-b52e223ef46d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260133476",
+                    "1260132415"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260133476",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260108191": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ajooni",
+                "categoryId": 1260108191,
+                "contentId": 1260108191,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4099&avsCategoryId=1260108191&contentId=1260108191&offset=0&size=20&tao=0&tas=5",
+                "id": 4099,
+                "description": "Surpassing personal conflicts, Ajooni and Rajveer embrace love. But with conspiracies brewing within the family, their relationship must stand the test of time.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 208,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/685/1440685-b-eadd7e6e989e",
+                    "h": "sources/r1/cms/prod/8058/1308058-h-56bf878eebab",
+                    "i": "sources/r1/cms/prod/684/1440684-i-b79208bfb739",
+                    "t": "sources/r1/cms/prod/686/1440686-t-efca6b9e5cff",
+                    "v": "sources/r1/cms/prod/8059/1308059-v-db2c7f4e505d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/685/1440685-b-eadd7e6e989e",
+                        "h": "sources/r1/cms/prod/8058/1308058-h-56bf878eebab",
+                        "i": "sources/r1/cms/prod/684/1440684-i-b79208bfb739",
+                        "t": "sources/r1/cms/prod/686/1440686-t-efca6b9e5cff",
+                        "v": "sources/r1/cms/prod/8059/1308059-v-db2c7f4e505d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/684/1440684-i-b79208bfb739",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/685/1440685-b-eadd7e6e989e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/686/1440686-t-efca6b9e5cff",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8058/1308058-h-56bf878eebab",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8059/1308059-v-db2c7f4e505d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260133475",
+                    "1260132412"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260133475",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260125771": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Dheere Dheere Se",
+                "categoryId": 1260125771,
+                "contentId": 1260125771,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4316&avsCategoryId=1260125771&contentId=1260125771&offset=0&size=20&tao=0&tas=5",
+                "id": 4316,
+                "description": "Tragedy follows a grieving widow Bhawana as she navigates through the hardships of life. In pursuit of a better future, she must brave against the odds.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 89,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/447/1430447-b-a077055e8b5e",
+                    "h": "sources/r1/cms/prod/439/1430439-h-7461e6744907",
+                    "i": "sources/r1/cms/prod/444/1430444-i-7cb39866b347",
+                    "t": "sources/r1/cms/prod/441/1430441-t-e9104e542a06",
+                    "v": "sources/r1/cms/prod/440/1430440-v-a4752401320e"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/447/1430447-b-a077055e8b5e",
+                        "h": "sources/r1/cms/prod/439/1430439-h-7461e6744907",
+                        "i": "sources/r1/cms/prod/444/1430444-i-7cb39866b347",
+                        "t": "sources/r1/cms/prod/441/1430441-t-e9104e542a06",
+                        "v": "sources/r1/cms/prod/440/1430440-v-a4752401320e"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/439/1430439-h-7461e6744907",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/440/1430440-v-a4752401320e",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/441/1430441-t-e9104e542a06",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 445
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/444/1430444-i-7cb39866b347",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/447/1430447-b-a077055e8b5e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260132413"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132413",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260128800": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Meri Saas Bhoot Hai",
+                "categoryId": 1260128800,
+                "contentId": 1260128800,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4360&avsCategoryId=1260128800&contentId=1260128800&offset=0&size=20&tao=0&tas=5",
+                "id": 4360,
+                "description": "Gaura’s world goes into a tailspin after her deceased mother-in-law haunts her. With a spooky-yet-sassy Saas keeping tabs, will she be able to change her fate?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Comedy"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Comedy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 53,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/4801/1464801-b-72bbc17cf017",
+                    "h": "sources/r1/cms/prod/9286/1449286-h-bc76ea4a87b7",
+                    "i": "sources/r1/cms/prod/4800/1464800-i-08c1245e839c",
+                    "t": "sources/r1/cms/prod/4799/1464799-t-32ca8b2affce",
+                    "v": "sources/r1/cms/prod/9287/1449287-v-3dd82ab57e8d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/4801/1464801-b-72bbc17cf017",
+                        "h": "sources/r1/cms/prod/9286/1449286-h-bc76ea4a87b7",
+                        "i": "sources/r1/cms/prod/4800/1464800-i-08c1245e839c",
+                        "t": "sources/r1/cms/prod/4799/1464799-t-32ca8b2affce",
+                        "v": "sources/r1/cms/prod/9287/1449287-v-3dd82ab57e8d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4799/1464799-t-32ca8b2affce",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 417
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4800/1464800-i-08c1245e839c",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4801/1464801-b-72bbc17cf017",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9286/1449286-h-bc76ea4a87b7",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9287/1449287-v-3dd82ab57e8d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260133477",
+                    "1260132414"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "PG",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260133477",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true
+            }
+        },
+        "updated_at": 1679640801,
+        "next_page_url": "/v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/reco-collection?channel=Star+Bharat&content_type=show&fallback=true&offset=20"
+    },
+    "status": true
+}

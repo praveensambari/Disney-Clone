@@ -1,0 +1,1329 @@
+{
+    "data": {
+        "itemids": [
+            "1260118821",
+            "1260128386",
+            "586",
+            "1260132510",
+            "1260132190",
+            "1540022076",
+            "1260132522",
+            "1540022631"
+        ],
+        "items": {
+            "586": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Yeh Rishta",
+                "categoryId": 587,
+                "contentId": 586,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=43&avsCategoryId=587&contentId=586&offset=0&size=20&tao=0&tas=5",
+                "id": 43,
+                "description": "A personal tragedy creates a rift in Abhimanyu and Akshara’s marital life. Years later, when destiny offers a second chance, will the duo embrace love?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heartfelt",
+                                "engValue": "Heartfelt"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Parenthood",
+                                "engValue": "Parenthood"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Rajasthan",
+                                "engValue": "Rajasthan"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 4010,
+                "premium": false,
+                "vip": false,
+                "line2": "Yeh Rishta Kya Kehlata Hai",
+                "line3": "Drama, Hindi, 2014",
+                "images": {
+                    "b": "sources/r1/cms/prod/3953/1413953-b-7cb875964e59",
+                    "h": "sources/r1/cms/prod/4266/1364266-h-470552ba960d",
+                    "i": "sources/r1/cms/prod/3952/1413952-i-54fd63bb80e5",
+                    "m": "sources/r1/cms/prod/1854/411854-m",
+                    "t": "sources/r1/cms/prod/3954/1413954-t-e0f1aeb912fd",
+                    "v": "sources/r1/cms/prod/4267/1364267-v-59ed5cfdea3a"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3953/1413953-b-7cb875964e59",
+                        "h": "sources/r1/cms/prod/4266/1364266-h-470552ba960d",
+                        "i": "sources/r1/cms/prod/3952/1413952-i-54fd63bb80e5",
+                        "m": "sources/r1/cms/prod/1854/411854-m",
+                        "t": "sources/r1/cms/prod/3954/1413954-t-e0f1aeb912fd",
+                        "v": "sources/r1/cms/prod/4267/1364267-v-59ed5cfdea3a"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1854/411854-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3952/1413952-i-54fd63bb80e5",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3953/1413953-b-7cb875964e59",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3954/1413954-t-e0f1aeb912fd",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4266/1364266-h-470552ba960d",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4267/1364267-v-59ed5cfdea3a",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260132811"
+                ],
+                "seasonCnt": 67,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132811",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260118821": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Black Panther: Wakanda Forever",
+                "contentId": 1260118821,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1031922&contentId=1260118821&offset=0&size=20&tao=0&tas=5",
+                "id": 1031922,
+                "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers after the death of beloved King T’Challa.",
+                "duration": 9678,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Action",
+                    "Superhero"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Superhero"
+                ],
+                "lang": [
+                    "English",
+                    "Malayalam",
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1675238400,
+                "endDate": 1706725740,
+                "year": 2022,
+                "line2": "Black Panther: Wakanda Forever",
+                "line3": "Action, English, 2022",
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260118821",
+                "images": {
+                    "h": "sources/r1/cms/prod/5119/1455119-h-2a917e92adac",
+                    "v": "sources/r1/cms/prod/5120/1455120-v-114e62176f39"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/5119/1455119-h-2a917e92adac",
+                        "v": "sources/r1/cms/prod/5120/1455120-v-114e62176f39"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2445/1462445-v-2a48363cb7e6",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3981/1463981-i-76197ed0f4b9",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3982/1463982-b-05424dace1e1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5108/1455108-t-c884ad383174",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 499
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5112/1455112-h-d61280c52c02",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 95,
+                "studioName": "Marvel",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 15048,
+                        "name": "Superhero",
+                        "engName": "Superhero",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15048&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "NO_COMPROMISE",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260128134"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Intense Sequences, Mild Language, Fantasy Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260128134",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260128386": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Anger Tales",
+                "categoryId": 1260128386,
+                "contentId": 1260128386,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4354&avsCategoryId=1260128386&contentId=1260128386&offset=0&size=20&tao=0&tas=5",
+                "id": 4354,
+                "description": "Four people, four stories, one problem and only one solution - revolt!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Drama"
+                ],
+                "lang": [
+                    "Telugu",
+                    "Hindi",
+                    "Tamil",
+                    "Malayalam",
+                    "Kannada",
+                    "Bengali",
+                    "Marathi"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 4,
+                "premium": true,
+                "vip": true,
+                "line2": "Anger Tales",
+                "line3": "Drama, Telugu, 2023",
+                "images": {
+                    "h": "sources/r1/cms/prod/1744/1481744-h-7fc4ff56e25d",
+                    "v": "sources/r1/cms/prod/1746/1481746-v-e625327a9655"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/1744/1481744-h-7fc4ff56e25d",
+                        "v": "sources/r1/cms/prod/1746/1481746-v-e625327a9655"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1739/1481739-h-251401d917d2",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1740/1481740-v-a55b1b24dabf",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3610/1483610-t-da1f670f0f88",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 652
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8141/1448141-i-fd0898f75410",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8142/1448142-b-08e719c2a8d6",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "FAN MADE FILMS",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260132970",
+                    "1260128424",
+                    "1260132371",
+                    "1260132649",
+                    "1260132868",
+                    "1260132869"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132970",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260128424",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260132371",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260132649",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260132868",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260132869",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260132190": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kaduva",
+                "contentId": 1260132190,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1059271&contentId=1260132190&offset=0&size=20&tao=0&tas=5",
+                "id": 1059271,
+                "description": "An intense rivalry with IG Joseph lands Kaduva in jail. But when he gets released, the battle for supremacy continues, wherein losing is not an option.",
+                "duration": 8940,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Drama",
+                    "Action"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Action"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1677503938,
+                "endDate": 4102424940,
+                "year": 2022,
+                "line2": "Kaduva",
+                "line3": "Drama, Hindi, 2022",
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260132190",
+                "images": {
+                    "b": "sources/r1/cms/prod/6760/1476760-b-4d958b73e0bd",
+                    "h": "sources/r1/cms/prod/6756/1476756-h-309c8858e0b2",
+                    "i": "sources/r1/cms/prod/6759/1476759-i-81b5fbbb55b1",
+                    "t": "sources/r1/cms/prod/6758/1476758-t-ad8fbf5661e5",
+                    "v": "sources/r1/cms/prod/6757/1476757-v-a8b0daa00556"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6760/1476760-b-4d958b73e0bd",
+                        "h": "sources/r1/cms/prod/6756/1476756-h-309c8858e0b2",
+                        "i": "sources/r1/cms/prod/6759/1476759-i-81b5fbbb55b1",
+                        "t": "sources/r1/cms/prod/6758/1476758-t-ad8fbf5661e5",
+                        "v": "sources/r1/cms/prod/6757/1476757-v-a8b0daa00556"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6756/1476756-h-309c8858e0b2",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6757/1476757-v-a8b0daa00556",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6758/1476758-t-ad8fbf5661e5",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 810
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6759/1476759-i-81b5fbbb55b1",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6760/1476760-b-4d958b73e0bd",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Violence, Some Coarse Language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260132510": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "The Legend",
+                "contentId": 1260132510,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1059788&contentId=1260132510&offset=0&size=20&tao=0&tas=5",
+                "id": 1059788,
+                "description": "A sophisticated scholar Saravanan arrives at his native town to serve the people. But chaos ensues when he lands in the crosshairs of medical mafia.",
+                "duration": 9612,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "The Legend New Saravana Stores",
+                "cpDisplayName": "The Legend New Saravana Stores",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Action",
+                    "Science Fiction"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Science Fiction"
+                ],
+                "lang": [
+                    "Tamil",
+                    "Malayalam",
+                    "Hindi",
+                    "Telugu"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1677826800,
+                "endDate": 1740940140,
+                "year": 2022,
+                "line2": "The Legend",
+                "line3": "Action, Tamil, 2022",
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260132510",
+                "images": {
+                    "h": "sources/r1/cms/prod/9760/1479760-h-123d9846ab36",
+                    "v": "sources/r1/cms/prod/9759/1479759-v-540edf5a9a32"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/9760/1479760-h-123d9846ab36",
+                        "v": "sources/r1/cms/prod/9759/1479759-v-540edf5a9a32"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9745/1479745-h-e32053ef3d84",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9747/1479747-v-f079dabffd5e",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9748/1479748-t-730a22414346",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 122,
+                        "width": 1080
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9749/1479749-i-7c5e55d5db24",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9750/1479750-b-11af563dbe42",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 455,
+                "studioName": "The Legend New Saravana Stores",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 15055,
+                        "name": "Science Fiction",
+                        "engName": "Science Fiction",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15055&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260132556"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Violence, Some Disturbing Scenes",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132556",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260132522": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Chashni",
+                "categoryId": 1260132522,
+                "contentId": 1260132522,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4411&avsCategoryId=1260132522&contentId=1260132522&offset=0&size=20&tao=0&tas=5",
+                "id": 4411,
+                "description": "As different as chalk and cheese, Chandni and Roshni grow up as inseparable sisters. What happens when a tragedy sours their relationship?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Family"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 6,
+                "premium": false,
+                "vip": false,
+                "line2": "Chashni",
+                "line3": "Drama, Hindi, 2023",
+                "images": {
+                    "b": "sources/r1/cms/prod/9912/1479912-b-eed4ca31611b",
+                    "h": "sources/r1/cms/prod/9118/1479118-h-55baf9c21b50",
+                    "i": "sources/r1/cms/prod/9911/1479911-i-d3c84a7dad23",
+                    "t": "sources/r1/cms/prod/9910/1479910-t-8ff71f7c0ad7",
+                    "v": "sources/r1/cms/prod/9119/1479119-v-4710519500ae"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9912/1479912-b-eed4ca31611b",
+                        "h": "sources/r1/cms/prod/9118/1479118-h-55baf9c21b50",
+                        "i": "sources/r1/cms/prod/9911/1479911-i-d3c84a7dad23",
+                        "t": "sources/r1/cms/prod/9910/1479910-t-8ff71f7c0ad7",
+                        "v": "sources/r1/cms/prod/9119/1479119-v-4710519500ae"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9118/1479118-h-55baf9c21b50",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9119/1479119-v-4710519500ae",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9910/1479910-t-8ff71f7c0ad7",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 435
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9911/1479911-i-d3c84a7dad23",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9912/1479912-b-eed4ca31611b",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260132906"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132906",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "btv": false
+            },
+            "1540022076": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "India Win Series, Enter WTC Final",
+                "contentId": 1540022076,
+                "uri": "https://api.hotstar.com/o/v1/match/detail?id=1055526&contentId=1540022076&siMatchId=707811&offset=0&size=20&tao=0&tas=5",
+                "id": 1055526,
+                "description": "India drew the fourth Mastercard Test against Australia to win the Border-Gavaskar Trophy and enter the ICC World Test Championship Final",
+                "duration": 621,
+                "entityType": "MATCH",
+                "contentType": "SPORT_MATCH_HIGHLIGHTS",
+                "contentProvider": "Star",
+                "cpDisplayName": "Star",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MATCH",
+                "genre": [
+                    "Cricket"
+                ],
+                "engGenre": [
+                    "Cricket"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu"
+                ],
+                "gameName": "CRICKET",
+                "sportsSeasonId": 978,
+                "sportsSeasonName": "Australia Tour of India 2023",
+                "siMatchId": "707811",
+                "premium": false,
+                "highlight": true,
+                "replay": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": true,
+                "startDate": 1678701339,
+                "endDate": 4102444799,
+                "broadCastDate": 1678701339,
+                "line1": "Australia Tour of India 2023",
+                "line2": "India Win Series, Enter WTC Final",
+                "line3": "10 min",
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1540022076",
+                "images": {
+                    "b": "sources/r1/cms/prod/6575/1486575-b-f23f5af798e6",
+                    "h": "sources/r1/cms/prod/6573/1486573-h-b7c189e798a8",
+                    "i": "sources/r1/cms/prod/6577/1486577-i-10a64e49d958",
+                    "t": "sources/r1/cms/prod/6147/1486147-t-622f690035b6"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6575/1486575-b-f23f5af798e6",
+                        "h": "sources/r1/cms/prod/6573/1486573-h-b7c189e798a8",
+                        "i": "sources/r1/cms/prod/6577/1486577-i-10a64e49d958",
+                        "t": "sources/r1/cms/prod/6147/1486147-t-622f690035b6"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6147/1486147-t-622f690035b6",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 229,
+                        "width": 888
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6573/1486573-h-b7c189e798a8",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6575/1486575-b-f23f5af798e6",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6577/1486577-i-10a64e49d958",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 26,
+                        "name": "Cricket",
+                        "engName": "Cricket",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=26&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 2,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false
+            },
+            "1540022631": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Resolute Lions Too Good for Giants",
+                "contentId": 1540022631,
+                "uri": "https://api.hotstar.com/o/v1/match/detail?id=1061466&contentId=1540022631&siMatchId=707981&offset=0&size=20&tao=0&tas=5",
+                "id": 1061466,
+                "description": "Asia Lions dominated in all departments as they dismantled World Giants in a rain curtailed match in Legends League Cricket Masters 2023",
+                "duration": 570,
+                "entityType": "MATCH",
+                "contentType": "SPORT_MATCH_HIGHLIGHTS",
+                "contentProvider": "Star",
+                "cpDisplayName": "Star",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MATCH",
+                "genre": [
+                    "Cricket"
+                ],
+                "engGenre": [
+                    "Cricket"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "gameName": "CRICKET",
+                "sportsSeasonId": 985,
+                "sportsSeasonName": "Legends League Cricket Masters 2023",
+                "siMatchId": "707981",
+                "premium": false,
+                "highlight": true,
+                "replay": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": true,
+                "startDate": 1678732950,
+                "endDate": 4102444799,
+                "broadCastDate": 1678732950,
+                "line1": "Legends League Cricket Masters 2023",
+                "line2": "Resolute Lions Too Good for Giants",
+                "line3": "9 min",
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1540022631",
+                "images": {
+                    "b": "sources/r1/cms/prod/7283/1487283-b-c55c848c52aa",
+                    "h": "sources/r1/cms/prod/7282/1487282-h-43980a6f183b",
+                    "i": "sources/r1/cms/prod/7284/1487284-i-ce3578173690",
+                    "t": "sources/r1/cms/prod/7285/1487285-t-d9813aaa7f75"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7283/1487283-b-c55c848c52aa",
+                        "h": "sources/r1/cms/prod/7282/1487282-h-43980a6f183b",
+                        "i": "sources/r1/cms/prod/7284/1487284-i-ce3578173690",
+                        "t": "sources/r1/cms/prod/7285/1487285-t-d9813aaa7f75"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7282/1487282-h-43980a6f183b",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7283/1487283-b-c55c848c52aa",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7284/1487284-i-ce3578173690",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7285/1487285-t-d9813aaa7f75",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 250,
+                        "width": 848
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 26,
+                        "name": "Cricket",
+                        "engName": "Cricket",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=26&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 2,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false
+            }
+        },
+        "updated_at": 1678770963798
+    },
+    "status": true
+}

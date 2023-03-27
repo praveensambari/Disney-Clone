@@ -1,0 +1,1310 @@
+{
+    "data": {
+        "itemids": [
+            "1260122141",
+            "1260127328",
+            "1260109696",
+            "1260005171",
+            "8435",
+            "1260006710",
+            "9693",
+            "1260131773",
+            "1260131138",
+            "1260058623"
+        ],
+        "items": {
+            "8435": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Primal Survivor",
+                "categoryId": 8325,
+                "contentId": 8435,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=554&avsCategoryId=8325&contentId=8435&offset=0&size=20&tao=0&tas=5",
+                "id": 554,
+                "description": "Join survival instructor Hazen Audel as he tackles some of mankind’s most rigorous journeys, relying on skills learned from native inhabitants.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel"
+                ],
+                "engGenre": [
+                    "Travel"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil",
+                    "Kannada"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 58,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2590/742590-h",
+                    "v": "sources/r1/cms/prod/2591/742591-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2590/742590-h",
+                        "v": "sources/r1/cms/prod/2591/742591-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3084/1383084-i-4eeb389ca4ca",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3086/1383086-b-9af4e826e31e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3088/1383088-t-1e9756f9650f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3233/913233-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3234/913234-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260054870"
+                ],
+                "seasonCnt": 9,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260054870",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "9693": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Vihari",
+                "categoryId": 9572,
+                "contentId": 9693,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=647&avsCategoryId=9572&contentId=9693&offset=0&size=20&tao=0&tas=5",
+                "id": 647,
+                "description": "Vihari is a Telugu reality show on Maa TV. It is a travel-based show that covers various tourist locations across India and abroad.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel"
+                ],
+                "engGenre": [
+                    "Travel"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 37,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/656/1420656-b-609ea3b0fdeb",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/9693/9693/9693-h",
+                    "i": "sources/r1/cms/prod/655/1420655-i-f72d71db3006",
+                    "t": "sources/r1/cms/prod/657/1420657-t-eb559d55f2b9",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/9693/9693/9693-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/656/1420656-b-609ea3b0fdeb",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/9693/9693/9693-h",
+                        "i": "sources/r1/cms/prod/655/1420655-i-f72d71db3006",
+                        "t": "sources/r1/cms/prod/657/1420657-t-eb559d55f2b9",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/9693/9693/9693-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/655/1420655-i-f72d71db3006",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/656/1420656-b-609ea3b0fdeb",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/657/1420657-t-eb559d55f2b9",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 560
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/9693/9693/9693-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/9693/9693/9693-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "seasonCnt": 2,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260005171": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Cannes Connection",
+                "categoryId": 1260005171,
+                "contentId": 1260005171,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2167&avsCategoryId=1260005171&contentId=1260005171&offset=0&size=20&tao=0&tas=5",
+                "id": 2167,
+                "description": "From exclusive celeb interviews to sizzling red carpet looks, Anupama Chopra gives a complete rundown of Cannes Film Festival directly from the French Riviera.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel"
+                ],
+                "engGenre": [
+                    "Travel"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 5,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2597/1422597-b-80aa3da46d3f",
+                    "h": "sources/r1/cms/prod/9454/449454-h",
+                    "i": "sources/r1/cms/prod/2596/1422596-i-6ff6868b2d3d",
+                    "m": "sources/r1/cms/prod/9457/449457-m",
+                    "t": "sources/r1/cms/prod/2598/1422598-t-a6fbd91ad911",
+                    "v": "sources/r1/cms/prod/9455/449455-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2597/1422597-b-80aa3da46d3f",
+                        "h": "sources/r1/cms/prod/9454/449454-h",
+                        "i": "sources/r1/cms/prod/2596/1422596-i-6ff6868b2d3d",
+                        "m": "sources/r1/cms/prod/9457/449457-m",
+                        "t": "sources/r1/cms/prod/2598/1422598-t-a6fbd91ad911",
+                        "v": "sources/r1/cms/prod/9455/449455-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2596/1422596-i-6ff6868b2d3d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2597/1422597-b-80aa3da46d3f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2598/1422598-t-a6fbd91ad911",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9454/449454-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9455/449455-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9457/449457-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Film Companion",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260006710": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Egypt with World's Greatest Explorer",
+                "categoryId": 1260006710,
+                "contentId": 1260006710,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2208&avsCategoryId=1260006710&contentId=1260006710&offset=0&size=20&tao=0&tas=5",
+                "id": 2208,
+                "description": "Sir Ranulph Fiennes celebrates the 50th anniversary of his iconic 1968 expedition of River Nile with his famous cousin, actor Joseph Fiennes.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel"
+                ],
+                "engGenre": [
+                    "Travel"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 3,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2078/742078-h",
+                    "v": "sources/r1/cms/prod/2079/742079-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2078/742078-h",
+                        "v": "sources/r1/cms/prod/2079/742079-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3396/753396-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3397/753397-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4413/504413-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8452/1378452-i-256b1468e3fc",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8453/1378453-b-241c779d95ec",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8454/1378454-t-d0ae5089f99a",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260038871"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038871",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260058623": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Earth Moods",
+                "categoryId": 1260058623,
+                "contentId": 1260058623,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3318&avsCategoryId=1260058623&contentId=1260058623&offset=0&size=20&tao=0&tas=5",
+                "id": 3318,
+                "description": "Escape everyday life with Earth Moods. Viewers relax and reset as they travel to blue glaciers, swirling dunes, bustling cities and lush rainforests.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Travel",
+                    "Family"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 5,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/2110/1412110-b-85217701ad65",
+                    "h": "sources/r1/cms/prod/6615/966615-h",
+                    "i": "sources/r1/cms/prod/2109/1412109-i-6da7b71fe801",
+                    "t": "sources/r1/cms/prod/2111/1412111-t-d7160aa1b290",
+                    "v": "sources/r1/cms/prod/6616/966616-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2110/1412110-b-85217701ad65",
+                        "h": "sources/r1/cms/prod/6615/966615-h",
+                        "i": "sources/r1/cms/prod/2109/1412109-i-6da7b71fe801",
+                        "t": "sources/r1/cms/prod/2111/1412111-t-d7160aa1b290",
+                        "v": "sources/r1/cms/prod/6616/966616-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2109/1412109-i-6da7b71fe801",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2110/1412110-b-85217701ad65",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2111/1412111-t-d7160aa1b290",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6615/966615-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6616/966616-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260052650"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260052650",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260109696": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Songs of the River",
+                "categoryId": 1260109696,
+                "contentId": 1260109696,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4131&avsCategoryId=1260109696&contentId=1260109696&offset=0&size=20&tao=0&tas=5",
+                "id": 4131,
+                "description": "Music composer Shantanu Moitra journeys across the river Ganges, capturing indelible sights and spectrums of sound to render an epic music album.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel",
+                    "Documentary"
+                ],
+                "engGenre": [
+                    "Travel",
+                    "Documentary"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 6,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/7677/1317677-h-86e1f3d9f930",
+                    "v": "sources/r1/cms/prod/7678/1317678-v-3c0130e6c9b6"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7677/1317677-h-86e1f3d9f930",
+                        "v": "sources/r1/cms/prod/7678/1317678-v-3c0130e6c9b6"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7677/1317677-h-86e1f3d9f930",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7678/1317678-v-3c0130e6c9b6",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "OML",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Documentary",
+                        "engName": "Documentary",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=16&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260109763"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260109763",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false
+            },
+            "1260122141": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Dum Laga Ke India",
+                "categoryId": 1260122141,
+                "contentId": 1260122141,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4285&avsCategoryId=1260122141&contentId=1260122141&offset=0&size=20&tao=0&tas=5",
+                "id": 4285,
+                "description": "Savour the taste of tradition! Ranveer Brar journeys across vibrant cities, uncovering the indelible history and unheard stories of culinary culture in India.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Food",
+                    "Travel"
+                ],
+                "engGenre": [
+                    "Food",
+                    "Travel"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 4,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1968/1431968-b-d7384383d061",
+                    "h": "sources/r1/cms/prod/8686/1408686-h-87bf40ad3e90",
+                    "i": "sources/r1/cms/prod/1967/1431967-i-3c6e238be3fe",
+                    "t": "sources/r1/cms/prod/1969/1431969-t-73c6669591ec",
+                    "v": "sources/r1/cms/prod/8687/1408687-v-eb26ba8a8aa6"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1968/1431968-b-d7384383d061",
+                        "h": "sources/r1/cms/prod/8686/1408686-h-87bf40ad3e90",
+                        "i": "sources/r1/cms/prod/1967/1431967-i-3c6e238be3fe",
+                        "t": "sources/r1/cms/prod/1969/1431969-t-73c6669591ec",
+                        "v": "sources/r1/cms/prod/8687/1408687-v-eb26ba8a8aa6"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1967/1431967-i-3c6e238be3fe",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1968/1431968-b-d7384383d061",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1969/1431969-t-73c6669591ec",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 262
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8686/1408686-h-87bf40ad3e90",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8687/1408687-v-eb26ba8a8aa6",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "RUSK MEDIA PRIVATE LIMITED",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15067,
+                        "name": "Food",
+                        "engName": "Food",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15067&offset=0&size=20"
+                    },
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260122200"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260122200",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false
+            },
+            "1260127328": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Postcards from Maharashtra",
+                "categoryId": 1260127328,
+                "contentId": 1260127328,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4343&avsCategoryId=1260127328&contentId=1260127328&offset=0&size=20&tao=0&tas=5",
+                "id": 4343,
+                "description": "A travel documentary exploring the beauty of Maharashtra. The host travels all across the state, experiencing different cuisines, history and spiritualism. \t",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Documentary",
+                    "Travel"
+                ],
+                "engGenre": [
+                    "Documentary",
+                    "Travel"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil",
+                    "Kannada"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 7,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2479/1442479-h-9dba6beaf2c7",
+                    "v": "sources/r1/cms/prod/2480/1442480-v-bcec7b4b264d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2479/1442479-h-9dba6beaf2c7",
+                        "v": "sources/r1/cms/prod/2480/1442480-v-bcec7b4b264d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2332/1442332-t-0e40ebfa8354",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 479
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2333/1442333-i-d8db257f5c1b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2334/1442334-b-2dedbbb3e2c0",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4378/1484378-h-3100979ece96",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4379/1484379-v-baa10831d097",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 16,
+                        "name": "Documentary",
+                        "engName": "Documentary",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=16&offset=0&size=20"
+                    },
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260127386"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260127386",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260131138": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "One for the Road",
+                "categoryId": 1260131138,
+                "contentId": 1260131138,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4396&avsCategoryId=1260131138&contentId=1260131138&offset=0&size=20&tao=0&tas=5",
+                "id": 4396,
+                "description": "An ensemble of Tastemade’s most adventurous travelers take on the world in this solo travel series.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel",
+                    "Food"
+                ],
+                "engGenre": [
+                    "Travel",
+                    "Food"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Tastemade",
+                "episodeCnt": 5,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1359/1471359-b-64f7864c8987",
+                    "h": "sources/r1/cms/prod/1355/1471355-h-c4f092d1a681",
+                    "i": "sources/r1/cms/prod/1358/1471358-i-706dd4c31456",
+                    "t": "sources/r1/cms/prod/1357/1471357-t-ea067b29836e",
+                    "v": "sources/r1/cms/prod/1356/1471356-v-27661dfb4533"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1359/1471359-b-64f7864c8987",
+                        "h": "sources/r1/cms/prod/1355/1471355-h-c4f092d1a681",
+                        "i": "sources/r1/cms/prod/1358/1471358-i-706dd4c31456",
+                        "t": "sources/r1/cms/prod/1357/1471357-t-ea067b29836e",
+                        "v": "sources/r1/cms/prod/1356/1471356-v-27661dfb4533"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1355/1471355-h-c4f092d1a681",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1356/1471356-v-27661dfb4533",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1357/1471357-t-ea067b29836e",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 264
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1358/1471358-i-706dd4c31456",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1359/1471359-b-64f7864c8987",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Tastemade Inc",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    },
+                    {
+                        "id": 15067,
+                        "name": "Food",
+                        "engName": "Food",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15067&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 92,
+                    "name": "Tastemade",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=92&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2018",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260131773": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Origins",
+                "categoryId": 1260131773,
+                "contentId": 1260131773,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4401&avsCategoryId=1260131773&contentId=1260131773&offset=0&size=20&tao=0&tas=5",
+                "id": 4401,
+                "description": "Erwan Heussaff explores some of the lesser-known islands in the Philippines, meeting the people and getting a rare glimpse into their unique traditions. ",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Travel",
+                    "Food"
+                ],
+                "engGenre": [
+                    "Travel",
+                    "Food"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Tastemade",
+                "episodeCnt": 8,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/4184/1474184-b-e8046ac93a7c",
+                    "h": "sources/r1/cms/prod/4177/1474177-h-79799ff366fa",
+                    "i": "sources/r1/cms/prod/4183/1474183-i-51a4e8948583",
+                    "t": "sources/r1/cms/prod/4182/1474182-t-32b25b984f96",
+                    "v": "sources/r1/cms/prod/4179/1474179-v-f647995568b6"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/4184/1474184-b-e8046ac93a7c",
+                        "h": "sources/r1/cms/prod/4177/1474177-h-79799ff366fa",
+                        "i": "sources/r1/cms/prod/4183/1474183-i-51a4e8948583",
+                        "t": "sources/r1/cms/prod/4182/1474182-t-32b25b984f96",
+                        "v": "sources/r1/cms/prod/4179/1474179-v-f647995568b6"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4177/1474177-h-79799ff366fa",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4179/1474179-v-f647995568b6",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4182/1474182-t-32b25b984f96",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 813
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4183/1474183-i-51a4e8948583",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4184/1474184-b-e8046ac93a7c",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Tastemade Inc",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 13,
+                        "name": "Travel",
+                        "engName": "Travel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=13&offset=0&size=20"
+                    },
+                    {
+                        "id": 15067,
+                        "name": "Food",
+                        "engName": "Food",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15067&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 92,
+                    "name": "Tastemade",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=92&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2018",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "",
+        "updated_at": 0
+    },
+    "status": true
+}

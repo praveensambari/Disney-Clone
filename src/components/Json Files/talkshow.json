@@ -1,0 +1,2647 @@
+{
+    "data": {
+        "itemids": [
+            "1260117141",
+            "3748",
+            "1857",
+            "4072",
+            "1584",
+            "5496",
+            "4885",
+            "1260027111",
+            "1260097202",
+            "1484",
+            "1525",
+            "5438",
+            "18239",
+            "1260051452",
+            "15225",
+            "1260003832",
+            "1260132890",
+            "8907",
+            "1260065652",
+            "1260001283"
+        ],
+        "items": {
+            "1484": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Namma Veetu Kalyanam",
+                "categoryId": 1449,
+                "contentId": 1484,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=71&avsCategoryId=1449&contentId=1484&offset=0&size=20&tao=0&tas=5",
+                "id": 71,
+                "description": "Your favourite celebrities relive happy moments from their wedding celebrations, and share some entertaining anecdotes on Namma Veetu Kalyanam. \n",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 284,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7916/1427916-b-5db3a39f8567",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/1484/1484/1484-h",
+                    "i": "sources/r1/cms/prod/7914/1427914-i-e2befb16c084",
+                    "t": "sources/r1/cms/prod/7917/1427917-t-48ccf4b79ef8",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1484/1484/1484-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7916/1427916-b-5db3a39f8567",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/1484/1484/1484-h",
+                        "i": "sources/r1/cms/prod/7914/1427914-i-e2befb16c084",
+                        "t": "sources/r1/cms/prod/7917/1427917-t-48ccf4b79ef8",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1484/1484/1484-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7914/1427914-i-e2befb16c084",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7916/1427916-b-5db3a39f8567",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7917/1427917-t-48ccf4b79ef8",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/1484/1484/1484-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/1484/1484/1484-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "seasonCnt": 10,
+                "yearLatestSeason": "2014",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1525": {
+                "imageAttributes": "script_lang=eng,callout_lang=eng,variant=ucb_1525,logic=lang",
+                "title": "Koffee With Karan",
+                "categoryId": 1490,
+                "contentId": 1525,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=74&avsCategoryId=1490&contentId=1525&offset=0&size=20&tao=0&tas=5",
+                "id": 74,
+                "description": "Dig into gripping inside scoops with Karan Johar as he returns with your favourite celebs to explore what's brewing in B-Town.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Curious",
+                                "engValue": "Curious"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            },
+                            {
+                                "value": "People and Culture",
+                                "engValue": "People and Culture"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Competition",
+                                "engValue": "Competition"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Celebrities",
+                                "engValue": "Celebrities"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Mumbai",
+                                "engValue": "Mumbai"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Star World",
+                "episodeCnt": 147,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/7497/1487497-h-67f034d61601",
+                    "v": "sources/r1/cms/prod/7499/1487499-v-930f621a26b5"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7497/1487497-h-67f034d61601",
+                        "v": "sources/r1/cms/prod/7499/1487499-v-930f621a26b5"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3433/1373433-h-8f3d5ebc9909",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3434/1373434-v-509c9dbd22dc",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/639/1420639-i-8484528c0be7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/640/1420640-b-9191de456784",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/642/1420642-t-44349d7cf5ac",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 392
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 8,
+                    "name": "Star World",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=8&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260106724"
+                ],
+                "seasonCnt": 7,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260106724",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1584": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Neeya Naana",
+                "categoryId": 1548,
+                "contentId": 1584,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=80&avsCategoryId=1548&contentId=1584&offset=0&size=20&tao=0&tas=5",
+                "id": 80,
+                "description": "A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Contemplative",
+                                "engValue": "Contemplative"
+                            },
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Hard-hitting",
+                                "engValue": "Hard-hitting"
+                            },
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Mind-Bending",
+                                "engValue": "Mind-Bending"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Community Centric",
+                                "engValue": "Community Centric"
+                            },
+                            {
+                                "value": "Controversial",
+                                "engValue": "Controversial"
+                            },
+                            {
+                                "value": "Showbiz",
+                                "engValue": "Showbiz"
+                            },
+                            {
+                                "value": "Taking on the System",
+                                "engValue": "Taking on the System"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Current Affairs",
+                                "engValue": "Current Affairs"
+                            },
+                            {
+                                "value": "Social Issues",
+                                "engValue": "Social Issues"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 832,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/5382/1395382-b-c40d6cf7212a",
+                    "h": "sources/r1/cms/prod/5377/1395377-h-593e298ca41f",
+                    "i": "sources/r1/cms/prod/5381/1395381-i-1a1637ed0b32",
+                    "m": "sources/r1/cms/prod/6635/386635-m",
+                    "t": "sources/r1/cms/prod/5380/1395380-t-27f8435d02fa",
+                    "v": "sources/r1/cms/prod/5379/1395379-v-9bc21408b343"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5382/1395382-b-c40d6cf7212a",
+                        "h": "sources/r1/cms/prod/5377/1395377-h-593e298ca41f",
+                        "i": "sources/r1/cms/prod/5381/1395381-i-1a1637ed0b32",
+                        "m": "sources/r1/cms/prod/6635/386635-m",
+                        "t": "sources/r1/cms/prod/5380/1395380-t-27f8435d02fa",
+                        "v": "sources/r1/cms/prod/5379/1395379-v-9bc21408b343"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5377/1395377-h-593e298ca41f",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5379/1395379-v-9bc21408b343",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5380/1395380-t-27f8435d02fa",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 504
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5381/1395381-i-1a1637ed0b32",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5382/1395382-b-c40d6cf7212a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6635/386635-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000202702"
+                ],
+                "seasonCnt": 23,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000202702",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1857": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Star Verdict",
+                "categoryId": 1820,
+                "contentId": 1857,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=108&avsCategoryId=1820&contentId=1857&offset=0&size=20&tao=0&tas=5",
+                "id": 108,
+                "description": "Anupama Chopra interviews your favourite Bollywood celebrities, and shares her candid, qualitative reviews of latest Hindi films on Star Verdict.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 40,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2904/1382904-b-4cc1cccdb53d",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/1857/1857/1857-h",
+                    "i": "sources/r1/cms/prod/2903/1382903-i-e927b7ce3392",
+                    "t": "sources/r1/cms/prod/2905/1382905-t-0aab4b2b7efb",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1857/1857/1857-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2904/1382904-b-4cc1cccdb53d",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/1857/1857/1857-h",
+                        "i": "sources/r1/cms/prod/2903/1382903-i-e927b7ce3392",
+                        "t": "sources/r1/cms/prod/2905/1382905-t-0aab4b2b7efb",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1857/1857/1857-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2903/1382903-i-e927b7ce3392",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2904/1382904-b-4cc1cccdb53d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2905/1382905-t-0aab4b2b7efb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/1857/1857/1857-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/1857/1857/1857-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260010597"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260010597",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "3748": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bombay Velvet Club",
+                "categoryId": 3684,
+                "contentId": 3748,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=231&avsCategoryId=3684&contentId=3748&offset=0&size=20&tao=0&tas=5",
+                "id": 231,
+                "description": "Koffee time host Karan Johar, stirs up a storm with his Bombay Velvet colleagues Ranbir Kapoor, Anushka Sharma and Anurag Kashyap.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Utsav",
+                "episodeCnt": 10,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/569/1420569-b-42a12b643d4e",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/3748/3748/3748-h",
+                    "i": "sources/r1/cms/prod/568/1420568-i-bbf77de164b8",
+                    "t": "sources/r1/cms/prod/570/1420570-t-63c6dd70d49c",
+                    "v": "sources/r1/cms/prod/1914/121914-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/569/1420569-b-42a12b643d4e",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/3748/3748/3748-h",
+                        "i": "sources/r1/cms/prod/568/1420568-i-bbf77de164b8",
+                        "t": "sources/r1/cms/prod/570/1420570-t-63c6dd70d49c",
+                        "v": "sources/r1/cms/prod/1914/121914-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1914/121914-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/568/1420568-i-bbf77de164b8",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/569/1420569-b-42a12b643d4e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/570/1420570-t-63c6dd70d49c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/3748/3748/3748-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 13,
+                    "name": "Star Utsav",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=13&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "4072": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Cruising with DDD",
+                "categoryId": 4005,
+                "contentId": 4072,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=242&avsCategoryId=4005&contentId=4072&offset=0&size=20&tao=0&tas=5",
+                "id": 242,
+                "description": "Get aboard for a fun ride with the cast of Dil Dhadakne Do.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 5,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/607/1420607-b-06c9e9c4f16e",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/4072/4072/4072-h",
+                    "i": "sources/r1/cms/prod/606/1420606-i-4ce880dc13bb",
+                    "t": "sources/r1/cms/prod/608/1420608-t-cdeb2b0e44eb",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/4072/4072/4072-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/607/1420607-b-06c9e9c4f16e",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/4072/4072/4072-h",
+                        "i": "sources/r1/cms/prod/606/1420606-i-4ce880dc13bb",
+                        "t": "sources/r1/cms/prod/608/1420608-t-cdeb2b0e44eb",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/4072/4072/4072-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/606/1420606-i-4ce880dc13bb",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/607/1420607-b-06c9e9c4f16e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/608/1420608-t-cdeb2b0e44eb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/4072/4072/4072-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/4072/4072/4072-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "4885": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bangistan Theory",
+                "categoryId": 4812,
+                "contentId": 4885,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=288&avsCategoryId=4812&contentId=4885&offset=0&size=20&tao=0&tas=5",
+                "id": 288,
+                "description": "The Big Bangistan Theory is an explosive interview with two terrorists who are unlike any you've known before.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 4,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/4601/1424601-b-97b964f24881",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/4885/4885/4885-h",
+                    "i": "sources/r1/cms/prod/4599/1424599-i-c140c5bf29d9",
+                    "t": "sources/r1/cms/prod/4602/1424602-t-3e08538005ad",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/4885/4885/4885-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/4601/1424601-b-97b964f24881",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/4885/4885/4885-h",
+                        "i": "sources/r1/cms/prod/4599/1424599-i-c140c5bf29d9",
+                        "t": "sources/r1/cms/prod/4602/1424602-t-3e08538005ad",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/4885/4885/4885-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4599/1424599-i-c140c5bf29d9",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4601/1424601-b-97b964f24881",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4602/1424602-t-3e08538005ad",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/4885/4885/4885-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/4885/4885/4885-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "5438": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Andamaina Jeevitam",
+                "categoryId": 5360,
+                "contentId": 5438,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=319&avsCategoryId=5360&contentId=5438&offset=0&size=20&tao=0&tas=5",
+                "id": 319,
+                "description": "Andamaina Jeevitham is a Telugu talk show aired on Maa TV. A panel of experts give advice on dealing with issues faced in arranged and love marriages. Watch Andamaina Jeevitham full show online on Hotstar.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 22,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/619/1420619-b-e421a4e35934",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/5438/5438/5438-h",
+                    "i": "sources/r1/cms/prod/618/1420618-i-0847a36c59ee",
+                    "t": "sources/r1/cms/prod/620/1420620-t-2f8b988c3840",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5438/5438/5438-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/619/1420619-b-e421a4e35934",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/5438/5438/5438-h",
+                        "i": "sources/r1/cms/prod/618/1420618-i-0847a36c59ee",
+                        "t": "sources/r1/cms/prod/620/1420620-t-2f8b988c3840",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5438/5438/5438-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/618/1420618-i-0847a36c59ee",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/619/1420619-b-e421a4e35934",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/620/1420620-t-2f8b988c3840",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/5438/5438/5438-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/5438/5438/5438-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "seasonCnt": 2,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "5496": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "M Bole Toh",
+                "categoryId": 5418,
+                "contentId": 5496,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=323&avsCategoryId=5418&contentId=5496&offset=0&size=20&tao=0&tas=5",
+                "id": 323,
+                "description": "M for madness, M for masti, M for Malishka! Fasten your seat belts as zany host Malishka takes you on a fun ride with Bollywood’s hottest stars.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 14,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8613/1418613-b-bb5d45438d31",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/5496/5496/5496-h",
+                    "i": "sources/r1/cms/prod/8612/1418612-i-ce24ea9dddb5",
+                    "t": "sources/r1/cms/prod/8614/1418614-t-fa1ac811ff28",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5496/5496/5496-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8613/1418613-b-bb5d45438d31",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/5496/5496/5496-h",
+                        "i": "sources/r1/cms/prod/8612/1418612-i-ce24ea9dddb5",
+                        "t": "sources/r1/cms/prod/8614/1418614-t-fa1ac811ff28",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5496/5496/5496-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8612/1418612-i-ce24ea9dddb5",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8613/1418613-b-bb5d45438d31",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8614/1418614-t-fa1ac811ff28",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/5496/5496/5496-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/5496/5496/5496-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "8907": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "24 - Time Starts Now",
+                "categoryId": 8793,
+                "contentId": 8907,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=594&avsCategoryId=8793&contentId=8907&offset=0&size=20&tao=0&tas=5",
+                "id": 594,
+                "description": "24 - Time Starts Now is a Telugu show on Maa TV, featuring a special interview with superstar Suriya, along with director, Vikram Kumar about their latest movie release, 24. Watch full episode of 24 - Time Starts Now online on Hotstar.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 2,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/790/1440790-b-2aabca09d51e",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/8907/8907/8907-h",
+                    "i": "sources/r1/cms/prod/789/1440789-i-13aa89513b57",
+                    "t": "sources/r1/cms/prod/791/1440791-t-fcc020d69f7e",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/8907/8907/8907-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/790/1440790-b-2aabca09d51e",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/8907/8907/8907-h",
+                        "i": "sources/r1/cms/prod/789/1440789-i-13aa89513b57",
+                        "t": "sources/r1/cms/prod/791/1440791-t-fcc020d69f7e",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/8907/8907/8907-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/789/1440789-i-13aa89513b57",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/790/1440790-b-2aabca09d51e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/791/1440791-t-fcc020d69f7e",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 450
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/8907/8907/8907-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/8907/8907/8907-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "15225": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Subho Muharat",
+                "categoryId": 15055,
+                "contentId": 15225,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1226&avsCategoryId=15055&contentId=15225&offset=0&size=20&tao=0&tas=5",
+                "id": 1226,
+                "description": "A mini-series hosted by Bengali cine icon, Prosenjit Chatterjee as Kakababu and Aryann Bhowmick as Santu to celebrate the release of the film 'Yeti Obhijaan'.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "channelName": "Star Jalsha",
+                "episodeCnt": 6,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9896/1379896-b-6b41fea6b15d",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/5225/15225/15225-h",
+                    "i": "sources/r1/cms/prod/9895/1379895-i-bd21ebfaae7a",
+                    "t": "sources/r1/cms/prod/9897/1379897-t-c680d1a38c54",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5225/15225/15225-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9896/1379896-b-6b41fea6b15d",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/5225/15225/15225-h",
+                        "i": "sources/r1/cms/prod/9895/1379895-i-bd21ebfaae7a",
+                        "t": "sources/r1/cms/prod/9897/1379897-t-c680d1a38c54",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5225/15225/15225-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9895/1379895-i-bd21ebfaae7a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9896/1379896-b-6b41fea6b15d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9897/1379897-t-c680d1a38c54",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/5225/15225/15225-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/5225/15225/15225-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 7,
+                    "name": "Star Jalsha",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=7&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260012194"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260012194",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 2,
+                    "name": "Bengali",
+                    "iso3code": "ben",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                }
+            },
+            "18239": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kadaikutty Specials",
+                "categoryId": 18048,
+                "contentId": 18239,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1555&avsCategoryId=18048&contentId=18239&offset=0&size=20&tao=0&tas=5",
+                "id": 1555,
+                "description": "A fun filled chat show with cast and crew of upcoming Tamil movie Kadaikutty Singam in which they share their experiences of working on the film.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 2,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9928/1419928-b-87d1b34353b2",
+                    "h": "sources/r1/cms/prod/2042/62042-h",
+                    "i": "sources/r1/cms/prod/9927/1419927-i-216b9944e3f7",
+                    "m": "sources/r1/cms/prod/2044/62044-m",
+                    "t": "sources/r1/cms/prod/9929/1419929-t-70970fb64d19",
+                    "v": "sources/r1/cms/prod/2043/62043-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9928/1419928-b-87d1b34353b2",
+                        "h": "sources/r1/cms/prod/2042/62042-h",
+                        "i": "sources/r1/cms/prod/9927/1419927-i-216b9944e3f7",
+                        "m": "sources/r1/cms/prod/2044/62044-m",
+                        "t": "sources/r1/cms/prod/9929/1419929-t-70970fb64d19",
+                        "v": "sources/r1/cms/prod/2043/62043-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2042/62042-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2043/62043-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2044/62044-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9927/1419927-i-216b9944e3f7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9928/1419928-b-87d1b34353b2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9929/1419929-t-70970fb64d19",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2018",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260001283": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kaala Specials",
+                "categoryId": 1260001283,
+                "contentId": 1260001283,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1765&avsCategoryId=1260001283&contentId=1260001283&offset=0&size=20&tao=0&tas=5",
+                "id": 1765,
+                "description": "Here's a fun-filled chat show with the cast and crew of the Tamil blockbuster movie Kaala.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 2,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9701/1419701-b-43122b6ec2ce",
+                    "h": "sources/r1/cms/prod/6789/76789-h",
+                    "i": "sources/r1/cms/prod/9700/1419700-i-3c5f34dbfe7d",
+                    "m": "sources/r1/cms/prod/6793/76793-m",
+                    "t": "sources/r1/cms/prod/9702/1419702-t-67c6865af929",
+                    "v": "sources/r1/cms/prod/6791/76791-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9701/1419701-b-43122b6ec2ce",
+                        "h": "sources/r1/cms/prod/6789/76789-h",
+                        "i": "sources/r1/cms/prod/9700/1419700-i-3c5f34dbfe7d",
+                        "m": "sources/r1/cms/prod/6793/76793-m",
+                        "t": "sources/r1/cms/prod/9702/1419702-t-67c6865af929",
+                        "v": "sources/r1/cms/prod/6791/76791-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6789/76789-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6791/76791-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6793/76793-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9700/1419700-i-3c5f34dbfe7d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9701/1419701-b-43122b6ec2ce",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9702/1419702-t-67c6865af929",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2018",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260003832": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Maari 2 Uruvaana Kathai",
+                "categoryId": 1260003832,
+                "contentId": 1260003832,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2037&avsCategoryId=1260003832&contentId=1260003832&offset=0&size=20&tao=0&tas=5",
+                "id": 2037,
+                "description": "Join the cast and crew of the superhit Tamil action movie Maari 2, in this fun-filled chat.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 1,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8332/1378332-b-f7b66d970e72",
+                    "h": "sources/r1/cms/prod/3658/313658-h",
+                    "i": "sources/r1/cms/prod/8331/1378331-i-ab5e60fa90a2",
+                    "m": "sources/r1/cms/prod/3660/313660-m",
+                    "t": "sources/r1/cms/prod/8333/1378333-t-08e8b7348c07",
+                    "v": "sources/r1/cms/prod/3659/313659-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8332/1378332-b-f7b66d970e72",
+                        "h": "sources/r1/cms/prod/3658/313658-h",
+                        "i": "sources/r1/cms/prod/8331/1378331-i-ab5e60fa90a2",
+                        "m": "sources/r1/cms/prod/3660/313660-m",
+                        "t": "sources/r1/cms/prod/8333/1378333-t-08e8b7348c07",
+                        "v": "sources/r1/cms/prod/3659/313659-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3658/313658-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3659/313659-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3660/313660-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8331/1378331-i-ab5e60fa90a2",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8332/1378332-b-f7b66d970e72",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8333/1378333-t-08e8b7348c07",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260027111": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Love You Zindagi",
+                "categoryId": 1260027111,
+                "contentId": 1260027111,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2652&avsCategoryId=1260027111&contentId=1260027111&offset=0&size=20&tao=0&tas=5",
+                "id": 2652,
+                "description": "Get a sneak peek into your favourite TV star's childhood as they walk down the memory lane during the lockdown!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 4,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2748/1442748-b-9e4d915bd7f4",
+                    "h": "sources/r1/cms/prod/5246/685246-h",
+                    "i": "sources/r1/cms/prod/2747/1442747-i-834da4b38ccb",
+                    "t": "sources/r1/cms/prod/2749/1442749-t-af196cf41d2a",
+                    "v": "sources/r1/cms/prod/5247/685247-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2748/1442748-b-9e4d915bd7f4",
+                        "h": "sources/r1/cms/prod/5246/685246-h",
+                        "i": "sources/r1/cms/prod/2747/1442747-i-834da4b38ccb",
+                        "t": "sources/r1/cms/prod/2749/1442749-t-af196cf41d2a",
+                        "v": "sources/r1/cms/prod/5247/685247-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2747/1442747-i-834da4b38ccb",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2748/1442748-b-9e4d915bd7f4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2749/1442749-t-af196cf41d2a",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5246/685246-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5247/685247-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star MAA",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260027142"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260027142",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260051452": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Sun Sasu Sun",
+                "categoryId": 1260051452,
+                "contentId": 1260051452,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3182&avsCategoryId=1260051452&contentId=1260051452&offset=0&size=20&tao=0&tas=5",
+                "id": 3182,
+                "description": "Poles apart but always together, a mother-in-law and daughter-in-law are two sides of the same coin. Join host Pushkar Shrotri test this sweet and sour relation.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Marathi"
+                ],
+                "channelName": "Star Pravah",
+                "episodeCnt": 85,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/919/1440919-b-be0581b16172",
+                    "h": "sources/r1/cms/prod/9638/879638-h",
+                    "i": "sources/r1/cms/prod/918/1440918-i-12f0183f9ebb",
+                    "t": "sources/r1/cms/prod/920/1440920-t-731b8cb1f5e3",
+                    "v": "sources/r1/cms/prod/9639/879639-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/919/1440919-b-be0581b16172",
+                        "h": "sources/r1/cms/prod/9638/879638-h",
+                        "i": "sources/r1/cms/prod/918/1440918-i-12f0183f9ebb",
+                        "t": "sources/r1/cms/prod/920/1440920-t-731b8cb1f5e3",
+                        "v": "sources/r1/cms/prod/9639/879639-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/918/1440918-i-12f0183f9ebb",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/919/1440919-b-be0581b16172",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/920/1440920-t-731b8cb1f5e3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9638/879638-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9639/879639-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Pravah",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 15,
+                    "name": "Star Pravah",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=15&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260054909"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260054909",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 4,
+                    "name": "Marathi",
+                    "iso3code": "mar",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                }
+            },
+            "1260065652": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Turning the Tables with Robin Roberts",
+                "categoryId": 1260065652,
+                "contentId": 1260065652,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3438&avsCategoryId=1260065652&contentId=1260065652&offset=0&size=20&tao=0&tas=5",
+                "id": 3438,
+                "description": "Robin Roberts connects with multiple generations of Hollywood’s groundbreaking women for never-before-heard, intimate conversations about growth and struggle.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Girl Power",
+                                "engValue": "Girl Power"
+                            },
+                            {
+                                "value": "Tough Gals",
+                                "engValue": "Tough Gals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            },
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Disney Fans",
+                                "engValue": "Disney Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "American",
+                                "engValue": "American"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 8,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/7403/1417403-b-c451ceeffa06",
+                    "h": "sources/r1/cms/prod/8361/1038361-h-7ead4ad13f00",
+                    "i": "sources/r1/cms/prod/7401/1417401-i-ac638e404fa2",
+                    "t": "sources/r1/cms/prod/7404/1417404-t-0e4888d40d66",
+                    "v": "sources/r1/cms/prod/8362/1038362-v-9907fd0e7f45"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7403/1417403-b-c451ceeffa06",
+                        "h": "sources/r1/cms/prod/8361/1038361-h-7ead4ad13f00",
+                        "i": "sources/r1/cms/prod/7401/1417401-i-ac638e404fa2",
+                        "t": "sources/r1/cms/prod/7404/1417404-t-0e4888d40d66",
+                        "v": "sources/r1/cms/prod/8362/1038362-v-9907fd0e7f45"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7401/1417401-i-ac638e404fa2",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7403/1417403-b-c451ceeffa06",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7404/1417404-t-0e4888d40d66",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8361/1038361-h-7ead4ad13f00",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8362/1038362-v-9907fd0e7f45",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260132915",
+                    "1260065071"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132915",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260097202": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Apni Ki Bolen",
+                "categoryId": 1260097202,
+                "contentId": 1260097202,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3872&avsCategoryId=1260097202&contentId=1260097202&offset=0&size=20&tao=0&tas=5",
+                "id": 3872,
+                "description": "Hosted by Debshankar Halder, two polarised groups are given the platform to express their views and see a different perspective on socially-relevant topics.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "channelName": "Star Jalsha",
+                "episodeCnt": 24,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1219/1441219-b-90f422fbe9ff",
+                    "h": "sources/r1/cms/prod/6837/1196837-h-ec15b80278bd",
+                    "i": "sources/r1/cms/prod/1218/1441218-i-c7e39f30458e",
+                    "t": "sources/r1/cms/prod/1220/1441220-t-6eb9192142f9",
+                    "v": "sources/r1/cms/prod/6839/1196839-v-531dca9dfa26"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1219/1441219-b-90f422fbe9ff",
+                        "h": "sources/r1/cms/prod/6837/1196837-h-ec15b80278bd",
+                        "i": "sources/r1/cms/prod/1218/1441218-i-c7e39f30458e",
+                        "t": "sources/r1/cms/prod/1220/1441220-t-6eb9192142f9",
+                        "v": "sources/r1/cms/prod/6839/1196839-v-531dca9dfa26"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1218/1441218-i-c7e39f30458e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1219/1441219-b-90f422fbe9ff",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1220/1441220-t-6eb9192142f9",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6837/1196837-h-ec15b80278bd",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6839/1196839-v-531dca9dfa26",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Jalsha",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 7,
+                    "name": "Star Jalsha",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=7&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260097592"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260097592",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false
+            },
+            "1260117141": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bingo! Comedy Adda",
+                "categoryId": 1260117141,
+                "contentId": 1260117141,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4224&avsCategoryId=1260117141&contentId=1260117141&offset=0&size=20&tao=0&tas=5",
+                "id": 4224,
+                "description": "Watch your favourite celebs, and stand-up comedians share their Tedhe moments with host Varun Sharma, tickling the audience’s funny bone.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Talk Show",
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Talk Show",
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 6,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3866/1413866-b-8ff00d6bf0fd",
+                    "h": "sources/r1/cms/prod/3560/1363560-h-33ff3a59fd4b",
+                    "i": "sources/r1/cms/prod/3865/1413865-i-ac7a3a97eae7",
+                    "t": "sources/r1/cms/prod/3867/1413867-t-3f55d5bebcbb",
+                    "v": "sources/r1/cms/prod/3561/1363561-v-b22bc5651244"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3866/1413866-b-8ff00d6bf0fd",
+                        "h": "sources/r1/cms/prod/3560/1363560-h-33ff3a59fd4b",
+                        "i": "sources/r1/cms/prod/3865/1413865-i-ac7a3a97eae7",
+                        "t": "sources/r1/cms/prod/3867/1413867-t-3f55d5bebcbb",
+                        "v": "sources/r1/cms/prod/3561/1363561-v-b22bc5651244"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3560/1363560-h-33ff3a59fd4b",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3561/1363561-v-b22bc5651244",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3865/1413865-i-ac7a3a97eae7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3866/1413866-b-8ff00d6bf0fd",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3867/1413867-t-3f55d5bebcbb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260117640"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260117640",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false
+            },
+            "1260132890": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Asianet Wonder Women",
+                "categoryId": 1260132890,
+                "contentId": 1260132890,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4416&avsCategoryId=1260132890&contentId=1260132890&offset=0&size=20&tao=0&tas=5",
+                "id": 4416,
+                "description": "Prominent stars from the industry come together for a grand International Women's Day celebration and engage in candid conversations with hosts Joy and Naleef.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality",
+                    "Talk Show"
+                ],
+                "engGenre": [
+                    "Reality",
+                    "Talk Show"
+                ],
+                "lang": [
+                    "Malayalam"
+                ],
+                "channelName": "Asianet",
+                "episodeCnt": 1,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/912/1480912-b-97154efb42ef",
+                    "h": "sources/r1/cms/prod/908/1480908-h-f45edbbf55b4",
+                    "i": "sources/r1/cms/prod/911/1480911-i-a37f4891a9f6",
+                    "t": "sources/r1/cms/prod/910/1480910-t-fec0fcd6066a",
+                    "v": "sources/r1/cms/prod/909/1480909-v-80e627f16916"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/912/1480912-b-97154efb42ef",
+                        "h": "sources/r1/cms/prod/908/1480908-h-f45edbbf55b4",
+                        "i": "sources/r1/cms/prod/911/1480911-i-a37f4891a9f6",
+                        "t": "sources/r1/cms/prod/910/1480910-t-fec0fcd6066a",
+                        "v": "sources/r1/cms/prod/909/1480909-v-80e627f16916"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/908/1480908-h-f45edbbf55b4",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/909/1480909-v-80e627f16916",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/910/1480910-t-fec0fcd6066a",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 449
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/911/1480911-i-a37f4891a9f6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/912/1480912-b-97154efb42ef",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Asianet",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 11,
+                    "name": "Asianet",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=11&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260135237"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260135237",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 8,
+                    "name": "Malayalam",
+                    "iso3code": "mal",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=TalkShow&offset=tel%2C3%2Ceng%2C2%2Cben%2C2%2Cmal%2C1%2Chin%2C6%2Ctam%2C5%2Cmar%2C1&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

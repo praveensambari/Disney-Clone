@@ -1,0 +1,3253 @@
+{
+    "data": {
+        "itemids": [
+            "6276",
+            "15175",
+            "1260102910",
+            "1260029345",
+            "1260006530",
+            "1000234015",
+            "1260007249",
+            "1260041502",
+            "1000234013",
+            "1000234017",
+            "1260010068",
+            "1260007838",
+            "1260004291",
+            "1260078726",
+            "1260008283",
+            "1260008323",
+            "1000239283",
+            "7077",
+            "10988",
+            "1260004372"
+        ],
+        "items": {
+            "6276": {
+                "imageAttributes": "script_lang=eng,callout_lang=ben$tam$hin$tel,logic=lang",
+                "title": "Science of Stupid",
+                "categoryId": 6193,
+                "contentId": 6276,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=389&avsCategoryId=6193&contentId=6276&offset=0&size=20&tao=0&tas=5",
+                "id": 389,
+                "description": "Science of Stupid reveals through science experts exactly how & why adventures turn to misadventures.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu",
+                    "Bengali"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 192,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/6594/746594-h",
+                    "m": "sources/r1/cms/prod/4750/254750-m",
+                    "v": "sources/r1/cms/prod/6595/746595-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/6594/746594-h",
+                        "m": "sources/r1/cms/prod/4750/254750-m",
+                        "v": "sources/r1/cms/prod/6595/746595-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3144/1383144-i-eadbf23bb45e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3145/1383145-b-6e46ffadb9d7",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3147/1383147-t-678036fdb0e8",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3428/753428-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3429/753429-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260039012"
+                ],
+                "seasonCnt": 9,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260039012",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "7077": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Brain Games",
+                "categoryId": 6974,
+                "contentId": 7077,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=452&avsCategoryId=6974&contentId=7077&offset=0&size=20&tao=0&tas=5",
+                "id": 452,
+                "description": "Experts in cognitive science, neuroscience and psychology perform experiments and explore various components of the human brain and how it can be fooled.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 69,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/3157/1383157-b-221f4d628cd1",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/7077/7077/7077-h",
+                    "i": "sources/r1/cms/prod/3155/1383155-i-405cee06451a",
+                    "t": "sources/r1/cms/prod/3159/1383159-t-20269e042c01",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/7077/7077/7077-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3157/1383157-b-221f4d628cd1",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/7077/7077/7077-h",
+                        "i": "sources/r1/cms/prod/3155/1383155-i-405cee06451a",
+                        "t": "sources/r1/cms/prod/3159/1383159-t-20269e042c01",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/7077/7077/7077-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3155/1383155-i-405cee06451a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3157/1383157-b-221f4d628cd1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3159/1383159-t-20269e042c01",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/7077/7077/7077-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/7077/7077/7077-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260020377"
+                ],
+                "seasonCnt": 6,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260020377",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "10988": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Supercar Megabuild",
+                "categoryId": 10846,
+                "contentId": 10988,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=810&avsCategoryId=10846&contentId=10988&offset=0&size=20&tao=0&tas=5",
+                "id": 810,
+                "description": "Putting a fresh spin on typical car transformation show, the series embarks on an ambitious mission to transform an ordinary car into an extraordinary supercar.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 18,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/7833/1377833-b-6c55ed5a0dc1",
+                    "h": "sources/r1/cms/prod/3889/533889-h",
+                    "i": "sources/r1/cms/prod/7832/1377832-i-ff83f28bf7c8",
+                    "m": "sources/r1/cms/prod/8020/518020-m",
+                    "t": "sources/r1/cms/prod/7834/1377834-t-1156d81c779e",
+                    "v": "sources/r1/cms/prod/3890/533890-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7833/1377833-b-6c55ed5a0dc1",
+                        "h": "sources/r1/cms/prod/3889/533889-h",
+                        "i": "sources/r1/cms/prod/7832/1377832-i-ff83f28bf7c8",
+                        "m": "sources/r1/cms/prod/8020/518020-m",
+                        "t": "sources/r1/cms/prod/7834/1377834-t-1156d81c779e",
+                        "v": "sources/r1/cms/prod/3890/533890-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3889/533889-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3890/533890-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7832/1377832-i-ff83f28bf7c8",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7833/1377833-b-6c55ed5a0dc1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7834/1377834-t-1156d81c779e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8020/518020-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260011565"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260011565",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "15175": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Cosmos",
+                "categoryId": 15005,
+                "contentId": 15175,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1208&avsCategoryId=15005&contentId=15175&offset=0&size=20&tao=0&tas=5",
+                "id": 1208,
+                "description": "Cosmos reveals how we discovered the laws of nature and found our coordinates in space & time by narrating the untold stories of the heroic quest for knowledge.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science",
+                    "Animals & Nature"
+                ],
+                "engGenre": [
+                    "Science",
+                    "Animals & Nature"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 26,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/7859/1377859-b-fc9e49d6ab3a",
+                    "h": "sources/r1/cms/prod/9845/659845-h",
+                    "i": "sources/r1/cms/prod/7858/1377858-i-ce6953341d32",
+                    "t": "sources/r1/cms/prod/7860/1377860-t-68dc45954b78",
+                    "v": "sources/r1/cms/prod/9847/659847-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7859/1377859-b-fc9e49d6ab3a",
+                        "h": "sources/r1/cms/prod/9845/659845-h",
+                        "i": "sources/r1/cms/prod/7858/1377858-i-ce6953341d32",
+                        "t": "sources/r1/cms/prod/7860/1377860-t-68dc45954b78",
+                        "v": "sources/r1/cms/prod/9847/659847-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7858/1377858-i-ce6953341d32",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7859/1377859-b-fc9e49d6ab3a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7860/1377860-t-68dc45954b78",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9845/659845-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9847/659847-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    },
+                    {
+                        "id": 15065,
+                        "name": "Animals & Nature",
+                        "engName": "Animals & Nature",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15065&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260054381"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260054381",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1000234013": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "World's Worst Weather",
+                "contentId": 1000234013,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=546048&contentId=1000234013&offset=0&size=20&tao=0&tas=5",
+                "id": 546048,
+                "description": "The documentary highlights the impact of extreme weather phenomena and tales of those who survived them.",
+                "duration": 2643,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1585765800,
+                "endDate": 1704565740,
+                "year": 2016,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000234013",
+                "images": {
+                    "h": "sources/r1/cms/prod/2766/742766-h",
+                    "v": "sources/r1/cms/prod/2768/742768-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2766/742766-h",
+                        "v": "sources/r1/cms/prod/2768/742768-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2354/1372354-i-550c612a8e1c",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2355/1372355-b-674ecd2b409b",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2356/1372356-t-876af1a0e296",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3598/753598-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3599/753599-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8227/508227-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260038875"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038875",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1000234015": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Hubble's Amazing Universe",
+                "contentId": 1000234015,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=546051&contentId=1000234015&offset=0&size=20&tao=0&tas=5",
+                "id": 546051,
+                "description": "The updated version of the documentary sheds light on some of Hubble's latest observations like exoplanets, astrophysical jets, and the bubble nebula.",
+                "duration": 2640,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1585765800,
+                "endDate": 1704565740,
+                "year": 2016,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000234015",
+                "images": {
+                    "h": "sources/r1/cms/prod/2461/742461-h",
+                    "v": "sources/r1/cms/prod/2462/742462-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2461/742461-h",
+                        "v": "sources/r1/cms/prod/2462/742462-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3519/753519-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3520/753520-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8230/388230-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8542/1368542-i-cfc68a6d69c6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8545/1368545-b-efcb4e187f03",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8547/1368547-t-73261ea1a8f6",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1000241795"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000241795",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1000234017": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "A Year In Space",
+                "contentId": 1000234017,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=546047&contentId=1000234017&offset=0&size=20&tao=0&tas=5",
+                "id": 546047,
+                "description": "The film tells the story of what it takes to spend a year in space and have led NASA to understand what it means for humanity as we journey to Mars.",
+                "duration": 2632,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1555659000,
+                "endDate": 1704565740,
+                "year": 2015,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000234017",
+                "images": {
+                    "h": "sources/r1/cms/prod/2924/742924-h",
+                    "i": "sources/r1/cms/prod/787/800787-i",
+                    "t": "sources/r1/cms/prod/788/800788-t",
+                    "v": "sources/r1/cms/prod/2925/742925-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2924/742924-h",
+                        "i": "sources/r1/cms/prod/787/800787-i",
+                        "t": "sources/r1/cms/prod/788/800788-t",
+                        "v": "sources/r1/cms/prod/2925/742925-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3642/753642-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3643/753643-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7812/1437812-i-a90b169bbce7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7813/1437813-b-ab4588661fc5",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7814/1437814-t-348dcb806dc5",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260012400"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260012400",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1000239283": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Apollo 8: The Mission That Changed The World",
+                "contentId": 1000239283,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=581034&contentId=1000239283&offset=0&size=20&tao=0&tas=5",
+                "id": 581034,
+                "description": "Apollo 8 astronaut Bill Anders sheds light on the incredible story of Apollo 8 and the environmental campaign that followed.",
+                "duration": 2641,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1563118200,
+                "endDate": 1704565740,
+                "year": 2019,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000239283",
+                "images": {
+                    "h": "sources/r1/cms/prod/2192/742192-h",
+                    "i": "sources/r1/cms/prod/763/800763-i",
+                    "t": "sources/r1/cms/prod/764/800764-t",
+                    "v": "sources/r1/cms/prod/2193/742193-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2192/742192-h",
+                        "i": "sources/r1/cms/prod/763/800763-i",
+                        "t": "sources/r1/cms/prod/764/800764-t",
+                        "v": "sources/r1/cms/prod/2193/742193-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2012/752012-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2013/752013-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6572/1366572-i-a00b7e4dde80",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6573/1366573-b-9ef6e50360a0",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6574/1366574-t-63ab48e79530",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260038878"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "crisp": "Suitable for all",
+                "detail": "Suitable for all",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038878",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260004291": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Crowd Control",
+                "categoryId": 1260004291,
+                "contentId": 1260004291,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2088&avsCategoryId=1260004291&contentId=1260004291&offset=0&size=20&tao=0&tas=5",
+                "id": 2088,
+                "description": "A series of fun experiments reveal how easy it is to manipulate a crowd of thousands and solve some of the most annoying problems along the way.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Bengali",
+                    "Tamil",
+                    "Hindi",
+                    "Telugu"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 12,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2101/742101-h",
+                    "v": "sources/r1/cms/prod/2102/742102-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2101/742101-h",
+                        "v": "sources/r1/cms/prod/2102/742102-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2767/1382767-i-a41691b13480",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2768/1382768-b-faf448147615",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2769/1382769-t-1407f9850620",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3409/753409-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3410/753410-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8121/368121-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2018",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260004372": {
+                "imageAttributes": "script_lang=eng,logic=lang",
+                "title": "Car S.O.S",
+                "categoryId": 1260004372,
+                "contentId": 1260004372,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2096&avsCategoryId=1260004372&contentId=1260004372&offset=0&size=20&tao=0&tas=5",
+                "id": 2096,
+                "description": "Master mechanics Fuzz and Tim Shaw have their task cut out as they embark on undercover missions rescuing classic cars and returning them to their owners.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 16,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2114/752114-h",
+                    "v": "sources/r1/cms/prod/2115/752115-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2114/752114-h",
+                        "v": "sources/r1/cms/prod/2115/752115-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2959/512959-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3533/753533-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3534/753534-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7258/1417258-i-73ea8b51b612",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7259/1417259-b-f7707aba2f2e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7260/1417260-t-6b204ebac19f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260038865"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038865",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260006530": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Superstructures Engineering Marvels",
+                "categoryId": 1260006530,
+                "contentId": 1260006530,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2203&avsCategoryId=1260006530&contentId=1260006530&offset=0&size=20&tao=0&tas=5",
+                "id": 2203,
+                "description": "From the biggest plane to the tallest building, witness the extraordinary feats of engineering hidden inside the most spectacular man-made constructions.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 6,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2773/742773-h",
+                    "v": "sources/r1/cms/prod/2774/742774-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2773/742773-h",
+                        "v": "sources/r1/cms/prod/2774/742774-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3600/753600-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3601/753601-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6991/506991-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7183/1417183-i-228ed0c06688",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7184/1417184-b-86d277dd4dda",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7185/1417185-t-80606e8f899e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260038866"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038866",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260007249": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Incredible Machines",
+                "categoryId": 1260007249,
+                "contentId": 1260007249,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2214&avsCategoryId=1260007249&contentId=1260007249&offset=0&size=20&tao=0&tas=5",
+                "id": 2214,
+                "description": "This six-part series reveals the remarkable engineering principles that turned some of the machines into icons of their time.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 6,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2939/742939-h",
+                    "v": "sources/r1/cms/prod/2940/742940-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2939/742939-h",
+                        "v": "sources/r1/cms/prod/2940/742940-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3644/753644-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3645/753645-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7462/517462-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8530/1378530-i-a7f2edff30f7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8531/1378531-b-adda096a92ce",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8532/1378532-t-29fbaf2fb9f3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1000239437"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000239437",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260007838": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Apollo: Back To The Moon",
+                "categoryId": 1260007838,
+                "contentId": 1260007838,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2223&avsCategoryId=1260007838&contentId=1260007838&offset=0&size=20&tao=0&tas=5",
+                "id": 2223,
+                "description": "On the eve of Apollo mission's 50th anniversary, this special feature recounts the heroic adventure of the crew who contributed to the success of the mission.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 2,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2276/742276-h",
+                    "v": "sources/r1/cms/prod/2277/742277-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2276/742276-h",
+                        "v": "sources/r1/cms/prod/2277/742277-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3470/753470-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3471/753471-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3771/1413771-i-d4620e31ec1e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3772/1413772-b-e622a9fcbdec",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3773/1413773-t-7dbc034ca594",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1000239471"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000239471",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260008283": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Apollo: Missions to the Moon",
+                "contentId": 1260008283,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=583425&contentId=1260008283&offset=0&size=20&tao=0&tas=5",
+                "id": 583425,
+                "description": "Primary source media recount the key moments of NASA's Apollo space program and America's goal to land on the moon before 1970.",
+                "duration": 5418,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1563636600,
+                "endDate": 1704565740,
+                "year": 2019,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260008283",
+                "images": {
+                    "h": "sources/r1/cms/prod/2851/742851-h",
+                    "v": "sources/r1/cms/prod/2852/742852-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2851/742851-h",
+                        "v": "sources/r1/cms/prod/2852/742852-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3619/753619-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3620/753620-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6554/1366554-i-ad93ccc60ba3",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6555/1366555-b-60c156c9b064",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6556/1366556-t-7791f0d64501",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260038876"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038876",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260008323": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "The Armstrong Tapes",
+                "contentId": 1260008323,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=583553&contentId=1260008323&offset=0&size=20&tao=0&tas=5",
+                "id": 583553,
+                "description": "This special uses Neil Armstrong's interviews to craft an intimate look at one of the world's greatest heroes.",
+                "duration": 2639,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1585765800,
+                "endDate": 1704565740,
+                "year": 2019,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260008323",
+                "images": {
+                    "h": "sources/r1/cms/prod/2376/742376-h",
+                    "i": "sources/r1/cms/prod/9289/809289-i",
+                    "t": "sources/r1/cms/prod/9290/809290-t",
+                    "v": "sources/r1/cms/prod/2377/742377-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2376/742376-h",
+                        "i": "sources/r1/cms/prod/9289/809289-i",
+                        "t": "sources/r1/cms/prod/9290/809290-t",
+                        "v": "sources/r1/cms/prod/2377/742377-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2066/752066-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2067/752067-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3040/1443040-i-df1c471cce7b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3041/1443041-b-eff8489e9cf0",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3042/1443042-t-cad611897dc0",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260038879"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "crisp": "Suitable for all",
+                "detail": "Suitable for all",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038879",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260010068": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Chandrayaan 2: The Landing",
+                "contentId": 1260010068,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=600921&contentId=1260010068&offset=0&size=20&tao=0&tas=5",
+                "id": 600921,
+                "description": "This movie details the account of Chandrayaan 2 mission from ISRO's Command Centre in Bengaluru.",
+                "duration": 2649,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Live Shows",
+                                "engValue": "Live Shows"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Technology",
+                                "engValue": "Technology"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Patriotism",
+                                "engValue": "Patriotism"
+                            },
+                            {
+                                "value": "Revolutionary",
+                                "engValue": "Revolutionary"
+                            },
+                            {
+                                "value": "Space Travel",
+                                "engValue": "Space Travel"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Real Life/True Events",
+                                "engValue": "Real Life/True Events"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set on a different planet",
+                                "engValue": "Set on a different planet"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Patriots",
+                                "engValue": "Patriots"
+                            },
+                            {
+                                "value": "For Science Nerds",
+                                "engValue": "For Science Nerds"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1585765800,
+                "endDate": 1704565740,
+                "year": 2019,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260010068",
+                "images": {
+                    "h": "sources/r1/cms/prod/2364/742364-h",
+                    "i": "sources/r1/cms/prod/769/800769-i",
+                    "t": "sources/r1/cms/prod/770/800770-t",
+                    "v": "sources/r1/cms/prod/2365/742365-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2364/742364-h",
+                        "i": "sources/r1/cms/prod/769/800769-i",
+                        "t": "sources/r1/cms/prod/770/800770-t",
+                        "v": "sources/r1/cms/prod/2365/742365-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2060/752060-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2061/752061-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6539/1366539-i-537090b8826d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6540/1366540-b-95733988569f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6541/1366541-t-838e7d76646f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000241647"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "crisp": "Suitable For All",
+                "detail": "Suitable For All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000241647",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260029345": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ultimate Supercar",
+                "categoryId": 1260029345,
+                "contentId": 1260029345,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2728&avsCategoryId=1260029345&contentId=1260029345&offset=0&size=20&tao=0&tas=5",
+                "id": 2728,
+                "description": "The series offers a behind the scenes look at the design, engineering, and manufacturing process of the world's most desirable cars.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Tamil",
+                    "Telugu",
+                    "Bengali"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 6,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/8002/1378002-b-182dd64ee908",
+                    "h": "sources/r1/cms/prod/9582/1019582-h-b81b0e51d78f",
+                    "i": "sources/r1/cms/prod/8001/1378001-i-1d3ff2b1b73d",
+                    "t": "sources/r1/cms/prod/8003/1378003-t-0937313b4a33",
+                    "v": "sources/r1/cms/prod/9583/1019583-v-7c0e6e43b765"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8002/1378002-b-182dd64ee908",
+                        "h": "sources/r1/cms/prod/9582/1019582-h-b81b0e51d78f",
+                        "i": "sources/r1/cms/prod/8001/1378001-i-1d3ff2b1b73d",
+                        "t": "sources/r1/cms/prod/8003/1378003-t-0937313b4a33",
+                        "v": "sources/r1/cms/prod/9583/1019583-v-7c0e6e43b765"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8001/1378001-i-1d3ff2b1b73d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8002/1378002-b-182dd64ee908",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8003/1378003-t-0937313b4a33",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9582/1019582-h-b81b0e51d78f",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9583/1019583-v-7c0e6e43b765",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260062724"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260062724",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260041502": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Made In A Day",
+                "categoryId": 1260041502,
+                "contentId": 1260041502,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3022&avsCategoryId=1260041502&contentId=1260041502&offset=0&size=20&tao=0&tas=5",
+                "id": 3022,
+                "description": "The special breaks down how the biggest American brands on the back their swift logistics are leading the world in trade and distribution.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Tamil",
+                    "Telugu",
+                    "Bengali"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 11,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/8723/778723-h",
+                    "v": "sources/r1/cms/prod/8724/778724-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/8723/778723-h",
+                        "v": "sources/r1/cms/prod/8724/778724-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8721/778721-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8722/778722-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9509/1379509-i-5da02251e123",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9511/1379511-b-b2b4085f1e6d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9512/1379512-t-54cf6fbe4689",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260078726": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Rays Of Change",
+                "contentId": 1260078726,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=976631&contentId=1260078726&offset=0&size=20&tao=0&tas=5",
+                "id": 976631,
+                "description": "Delve deep into the various stages involved in building one of the world's largest single-location Solar Plants by an IPP.",
+                "duration": 2575,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Documentary",
+                    "Science"
+                ],
+                "engGenre": [
+                    "Documentary",
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Bengali",
+                    "Tamil",
+                    "Kannada",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1641821297,
+                "endDate": 1704565740,
+                "year": 2021,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260078726",
+                "images": {
+                    "b": "sources/r1/cms/prod/9500/1369500-b-a73fa7bd0b3d",
+                    "h": "sources/r1/cms/prod/104/1100104-h-3445e25b37b7",
+                    "i": "sources/r1/cms/prod/9499/1369499-i-01e49bf4f956",
+                    "t": "sources/r1/cms/prod/9501/1369501-t-0159a2ebbde3",
+                    "v": "sources/r1/cms/prod/105/1100105-v-6429f2f5be76"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9500/1369500-b-a73fa7bd0b3d",
+                        "h": "sources/r1/cms/prod/104/1100104-h-3445e25b37b7",
+                        "i": "sources/r1/cms/prod/9499/1369499-i-01e49bf4f956",
+                        "t": "sources/r1/cms/prod/9501/1369501-t-0159a2ebbde3",
+                        "v": "sources/r1/cms/prod/105/1100105-v-6429f2f5be76"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/104/1100104-h-3445e25b37b7",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/105/1100105-v-6429f2f5be76",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9499/1369499-i-01e49bf4f956",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9500/1369500-b-a73fa7bd0b3d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9501/1369501-t-0159a2ebbde3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 2,
+                "studioName": "Nat Geo",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 16,
+                        "name": "Documentary",
+                        "engName": "Documentary",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=16&offset=0&size=20"
+                    },
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260078739"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260078739",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260102910": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Brain Games: On the Road",
+                "categoryId": 1260102910,
+                "contentId": 1260102910,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3959&avsCategoryId=1260102910&contentId=1260102910&offset=0&size=20&tao=0&tas=5",
+                "id": 3959,
+                "description": "Brain Games is on the road, giving people the chance to test their brain power as they take on their neighbours in an epic battle of the brains.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Science"
+                ],
+                "engGenre": [
+                    "Science"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Tamil",
+                    "Bengali",
+                    "Kannada"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 20,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/8856/1248856-h-5e1a7d2425ba",
+                    "v": "sources/r1/cms/prod/8858/1248858-v-163c3348b17b"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/8856/1248856-h-5e1a7d2425ba",
+                        "v": "sources/r1/cms/prod/8858/1248858-v-163c3348b17b"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1852/1461852-t-5bc49b301226",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 428
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1860/1461860-i-83deee4b6c5a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1863/1461863-b-af5a25d79f3b",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8852/1248852-h-a6789ad295ae",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8853/1248853-v-04dde2126753",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 12,
+                        "name": "Science",
+                        "engName": "Science",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=12&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260102994"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260102994",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=Science&offset=hin%2C17%2Ctel%2C16%2Ctam%2C17%2Cben%2C12%2Ceng%2C11%2Ckan%2C1&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

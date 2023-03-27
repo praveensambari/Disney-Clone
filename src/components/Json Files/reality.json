@@ -1,0 +1,3131 @@
+{
+    "data": {
+        "itemids": [
+            "1260104889",
+            "1260129246",
+            "4679",
+            "1260084431",
+            "1260013771",
+            "1260064639",
+            "1260123498",
+            "1260126890",
+            "1260117141",
+            "1260051594",
+            "1260017343",
+            "15299",
+            "1260123652",
+            "4207",
+            "1260061369",
+            "1260020163",
+            "3563",
+            "15245",
+            "1260100108",
+            "1260066927"
+        ],
+        "items": {
+            "3563": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Nach Baliye",
+                "categoryId": 3501,
+                "contentId": 3563,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=222&avsCategoryId=3501&contentId=3563&offset=0&size=20&tao=0&tas=5",
+                "id": 222,
+                "description": "Your fav celebs have paired-up with their current and ex-Baliyes. A battle of moves and drama, with the hottest judges, Raveena Tandon and Ahmed Khan!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 77,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7133/1417133-b-454675453efa",
+                    "h": "sources/r1/cms/prod/509/530509-h",
+                    "i": "sources/r1/cms/prod/7132/1417132-i-15c674cb3448",
+                    "m": "sources/r1/cms/prod/5492/515492-m",
+                    "t": "sources/r1/cms/prod/7134/1417134-t-405d68993460",
+                    "v": "sources/r1/cms/prod/511/530511-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7133/1417133-b-454675453efa",
+                        "h": "sources/r1/cms/prod/509/530509-h",
+                        "i": "sources/r1/cms/prod/7132/1417132-i-15c674cb3448",
+                        "m": "sources/r1/cms/prod/5492/515492-m",
+                        "t": "sources/r1/cms/prod/7134/1417134-t-405d68993460",
+                        "v": "sources/r1/cms/prod/511/530511-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/509/530509-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/511/530511-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5492/515492-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7132/1417132-i-15c674cb3448",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7133/1417133-b-454675453efa",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7134/1417134-t-405d68993460",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 349
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "seasonCnt": 3,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "4207": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Super Singer",
+                "categoryId": 4139,
+                "contentId": 4207,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=263&avsCategoryId=4139&contentId=4207&offset=0&size=20&tao=0&tas=5",
+                "id": 263,
+                "description": "Join the aspiring stars in the melodious battle of the century! Contestants give existing songs a twist to become the ultimate singing champion.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Musicals",
+                                "engValue": "Musicals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Competition",
+                                "engValue": "Competition"
+                            },
+                            {
+                                "value": "Music",
+                                "engValue": "Music"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Musicals",
+                                "engValue": "Musicals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 458,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/6019/1416019-b-f79829b056f7",
+                    "h": "sources/r1/cms/prod/6015/1416015-h-2888fa229b42",
+                    "i": "sources/r1/cms/prod/6018/1416018-i-469ea419a763",
+                    "m": "sources/r1/cms/prod/3009/413009-m",
+                    "t": "sources/r1/cms/prod/6017/1416017-t-2a1f97f89bfd",
+                    "v": "sources/r1/cms/prod/6016/1416016-v-fa214e384d6e"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6019/1416019-b-f79829b056f7",
+                        "h": "sources/r1/cms/prod/6015/1416015-h-2888fa229b42",
+                        "i": "sources/r1/cms/prod/6018/1416018-i-469ea419a763",
+                        "m": "sources/r1/cms/prod/3009/413009-m",
+                        "t": "sources/r1/cms/prod/6017/1416017-t-2a1f97f89bfd",
+                        "v": "sources/r1/cms/prod/6016/1416016-v-fa214e384d6e"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3009/413009-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6015/1416015-h-2888fa229b42",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6016/1416016-v-fa214e384d6e",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6017/1416017-t-2a1f97f89bfd",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 297
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6018/1416018-i-469ea419a763",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6019/1416019-b-f79829b056f7",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Vijay",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260123777"
+                ],
+                "seasonCnt": 5,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": true,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260123777",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "4679": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Dance +",
+                "categoryId": 4609,
+                "contentId": 4679,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=281&avsCategoryId=4609&contentId=4679&offset=0&size=20&tao=0&tas=5",
+                "id": 281,
+                "description": "Remo is back with a bang to hunt for the next dance icon with host Raghav, and captains Punit, Shakti and Salman. The biggest dance battle of the year is here!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Competition",
+                                "engValue": "Competition"
+                            },
+                            {
+                                "value": "Dance",
+                                "engValue": "Dance"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 141,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3950/1413950-b-ce4d569b5189",
+                    "h": "sources/r1/cms/prod/5471/1055471-h-ae308a20ac19",
+                    "i": "sources/r1/cms/prod/3949/1413949-i-5e15506e6b9c",
+                    "m": "sources/r1/cms/prod/3818/313818-m",
+                    "t": "sources/r1/cms/prod/3951/1413951-t-e9f90d659617",
+                    "v": "sources/r1/cms/prod/5472/1055472-v-4fac4c4e1978"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3950/1413950-b-ce4d569b5189",
+                        "h": "sources/r1/cms/prod/5471/1055471-h-ae308a20ac19",
+                        "i": "sources/r1/cms/prod/3949/1413949-i-5e15506e6b9c",
+                        "m": "sources/r1/cms/prod/3818/313818-m",
+                        "t": "sources/r1/cms/prod/3951/1413951-t-e9f90d659617",
+                        "v": "sources/r1/cms/prod/5472/1055472-v-4fac4c4e1978"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3818/313818-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3949/1413949-i-5e15506e6b9c",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3950/1413950-b-ce4d569b5189",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3951/1413951-t-e9f90d659617",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5471/1055471-h-ae308a20ac19",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5472/1055472-v-4fac4c4e1978",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260068143"
+                ],
+                "seasonCnt": 6,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260068143",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "15245": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Laughter Challenge",
+                "categoryId": 15073,
+                "contentId": 15245,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1227&avsCategoryId=15073&contentId=15245&offset=0&size=20&tao=0&tas=5",
+                "id": 1227,
+                "description": "Comedy gets an upgrade as Akshay Kumar, Shreyas Talpade and Sajid Khan turn mentors to some of the best-talented comedians.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality",
+                    "Standup Comedy"
+                ],
+                "engGenre": [
+                    "Reality",
+                    "Standup Comedy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 25,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9866/1419866-b-7294cfb9b094",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/5245/15245/15245-h",
+                    "i": "sources/r1/cms/prod/9865/1419865-i-ba36c346d617",
+                    "t": "sources/r1/cms/prod/9867/1419867-t-306f9d19fab3",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5245/15245/15245-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9866/1419866-b-7294cfb9b094",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/5245/15245/15245-h",
+                        "i": "sources/r1/cms/prod/9865/1419865-i-ba36c346d617",
+                        "t": "sources/r1/cms/prod/9867/1419867-t-306f9d19fab3",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5245/15245/15245-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9865/1419865-i-ba36c346d617",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9866/1419866-b-7294cfb9b094",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9867/1419867-t-306f9d19fab3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/5245/15245/15245-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/5245/15245/15245-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "id": 15051,
+                        "name": "Standup Comedy",
+                        "engName": "Standup Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15051&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000182563"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000182563",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "15299": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Dance Champions",
+                "categoryId": 15125,
+                "contentId": 15299,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1241&avsCategoryId=15125&contentId=15299&offset=0&size=20&tao=0&tas=5",
+                "id": 1241,
+                "description": "Winners from noted dance competitions fight to retain their title against Challengers, who give another go at becoming the ultimate Dance Champions.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 21,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9816/1419816-b-2b876fd82b01",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/5299/15299/15299-h",
+                    "i": "sources/r1/cms/prod/9815/1419815-i-8648188178d6",
+                    "t": "sources/r1/cms/prod/9817/1419817-t-7d8eb2ac526f",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5299/15299/15299-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9816/1419816-b-2b876fd82b01",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/5299/15299/15299-h",
+                        "i": "sources/r1/cms/prod/9815/1419815-i-8648188178d6",
+                        "t": "sources/r1/cms/prod/9817/1419817-t-7d8eb2ac526f",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5299/15299/15299-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9815/1419815-i-8648188178d6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9816/1419816-b-2b876fd82b01",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9817/1419817-t-7d8eb2ac526f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/5299/15299/15299-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/5299/15299/15299-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000190707"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000190707",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260013771": {
+                "imageAttributes": "script_lang=tam,callout_lang=tam,variant=ucb_imdb,logic=lang",
+                "title": "Cooku with Comali",
+                "categoryId": 1260013771,
+                "contentId": 1260013771,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2389&avsCategoryId=1260013771&contentId=1260013771&offset=0&size=20&tao=0&tas=5",
+                "id": 2389,
+                "description": "Your favourite comic culinary show is back with a fresh set of contestants and comalis. Tune in to catch the fun-filled unseen acts from the ultimate cook-off!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality",
+                    "Food"
+                ],
+                "engGenre": [
+                    "Reality",
+                    "Food"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Curious",
+                                "engValue": "Curious"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Culinary",
+                                "engValue": "Culinary"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Competition",
+                                "engValue": "Competition"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Quirky",
+                                "engValue": "Quirky"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Food",
+                                "engValue": "Food"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Corporate Set-up",
+                                "engValue": "Corporate Set-up"
+                            },
+                            {
+                                "value": "Kitchen",
+                                "engValue": "Kitchen"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 138,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/7097/1317097-h-5ee0528a13d8",
+                    "v": "sources/r1/cms/prod/7098/1317098-v-a9389e4fda71"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7097/1317097-h-5ee0528a13d8",
+                        "v": "sources/r1/cms/prod/7098/1317098-v-a9389e4fda71"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9155/1459155-h-2d2dd0a8c8e6",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9156/1459156-v-f0033f29e0ed",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9157/1459157-t-a260221dffbd",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 474
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9158/1459158-i-dd88858f5ad6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9159/1459159-b-d27d6b661b21",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Vijay",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "id": 15067,
+                        "name": "Food",
+                        "engName": "Food",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15067&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260129783"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260129783",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260017343": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Super Singer",
+                "categoryId": 1260017343,
+                "contentId": 1260017343,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2467&avsCategoryId=1260017343&contentId=1260017343&offset=0&size=20&tao=0&tas=5",
+                "id": 2467,
+                "description": "The musical extravaganza begins! Alongside host Jisshu Sengupta, the expert jury - Monali Thakur, Rupam Islam, and Shaan hunt for Bengal’s new singing sensation.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "channelName": "Star Jalsha",
+                "episodeCnt": 141,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/5732/1445732-b-5edd849154f1",
+                    "h": "sources/r1/cms/prod/5728/1445728-h-9608069974d4",
+                    "i": "sources/r1/cms/prod/5731/1445731-i-27e024f2a0e7",
+                    "t": "sources/r1/cms/prod/5730/1445730-t-55a61b31193b",
+                    "v": "sources/r1/cms/prod/5729/1445729-v-a2462778a392"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5732/1445732-b-5edd849154f1",
+                        "h": "sources/r1/cms/prod/5728/1445728-h-9608069974d4",
+                        "i": "sources/r1/cms/prod/5731/1445731-i-27e024f2a0e7",
+                        "t": "sources/r1/cms/prod/5730/1445730-t-55a61b31193b",
+                        "v": "sources/r1/cms/prod/5729/1445729-v-a2462778a392"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5728/1445728-h-9608069974d4",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5729/1445729-v-a2462778a392",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5730/1445730-t-55a61b31193b",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 412
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5731/1445731-i-27e024f2a0e7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5732/1445732-b-5edd849154f1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Jalsha",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 7,
+                    "name": "Star Jalsha",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=7&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260128096"
+                ],
+                "seasonCnt": 3,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260128096",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 2,
+                    "name": "Bengali",
+                    "iso3code": "ben",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                }
+            },
+            "1260020163": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Running Wild",
+                "categoryId": 1260020163,
+                "contentId": 1260020163,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2486&avsCategoryId=1260020163&contentId=1260020163&offset=0&size=20&tao=0&tas=5",
+                "id": 2486,
+                "description": "Survivalist Bear Grylls returns to the wild with some of Hollywood's most beloved celebrities who join him on a no-holds-barred journey through some of the most extreme environments in the world.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Adrenaline Rush",
+                                "engValue": "Adrenaline Rush"
+                            },
+                            {
+                                "value": "Exhilarating",
+                                "engValue": "Exhilarating"
+                            },
+                            {
+                                "value": "Thrilling",
+                                "engValue": "Thrilling"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Around The World",
+                                "engValue": "Around The World"
+                            },
+                            {
+                                "value": "Epic",
+                                "engValue": "Epic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Reality Addicts",
+                                "engValue": "Reality Addicts"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "American",
+                                "engValue": "American"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil",
+                    "Kannada"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 16,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/7846/997846-h",
+                    "v": "sources/r1/cms/prod/7848/997848-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7846/997846-h",
+                        "v": "sources/r1/cms/prod/7848/997848-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4779/1424779-i-602e640b6f13",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4780/1424780-b-fe10ce3ed444",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4781/1424781-t-369eaf6461b5",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 533
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7843/997843-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7844/997844-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260062830"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260062830",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260051594": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Lawless Island",
+                "categoryId": 1260051594,
+                "contentId": 1260051594,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3184&avsCategoryId=1260051594&contentId=1260051594&offset=0&size=20&tao=0&tas=5",
+                "id": 3184,
+                "description": "Lawless Island tells unique stories about the people who have chosen a different life in a remote Alaskan community.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            },
+                            {
+                                "value": "Thrilling",
+                                "engValue": "Thrilling"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Short Series",
+                                "engValue": "Short Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Spin-offs",
+                                "engValue": "Spin-offs"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "People and Culture",
+                                "engValue": "People and Culture"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Journey",
+                                "engValue": "Journey"
+                            },
+                            {
+                                "value": "Survival",
+                                "engValue": "Survival"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Real Life/True Events",
+                                "engValue": "Real Life/True Events"
+                            },
+                            {
+                                "value": "Nature",
+                                "engValue": "Nature"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Jungle",
+                                "engValue": "Jungle"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Nat Geo Fans",
+                                "engValue": "Nat Geo Fans"
+                            },
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English",
+                    "Hindi",
+                    "Telugu",
+                    "Bengali",
+                    "Tamil"
+                ],
+                "channelName": "Nat Geo",
+                "episodeCnt": 20,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/3036/883036-h",
+                    "v": "sources/r1/cms/prod/3034/883034-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/3036/883036-h",
+                        "v": "sources/r1/cms/prod/3034/883034-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3031/883031-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3032/883032-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/327/1440327-i-51daefa80985",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/328/1440328-b-f5ac2d2eae0f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/329/1440329-t-a8d931d0697c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Nat Geo",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 2,
+                    "name": "Nat Geo",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=2&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260052155"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260052155",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260061369": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Emotional Atyachaar",
+                "categoryId": 1260061369,
+                "contentId": 1260061369,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3349&avsCategoryId=1260061369&contentId=1260061369&offset=0&size=20&tao=0&tas=5",
+                "id": 3349,
+                "description": "From infidelity and heartbreak to friendship and loyalty, watch these real-life based stories exposing the truth of relationships.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality",
+                    "Shorts"
+                ],
+                "engGenre": [
+                    "Reality",
+                    "Shorts"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Quix",
+                "episodeCnt": 15,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/952/1440952-b-4193e29ddd9e",
+                    "h": "sources/r1/cms/prod/7311/997311-h",
+                    "i": "sources/r1/cms/prod/951/1440951-i-e75b3a29623a",
+                    "t": "sources/r1/cms/prod/953/1440953-t-0d80cf7576e8",
+                    "v": "sources/r1/cms/prod/784/1000784-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/952/1440952-b-4193e29ddd9e",
+                        "h": "sources/r1/cms/prod/7311/997311-h",
+                        "i": "sources/r1/cms/prod/951/1440951-i-e75b3a29623a",
+                        "t": "sources/r1/cms/prod/953/1440953-t-0d80cf7576e8",
+                        "v": "sources/r1/cms/prod/784/1000784-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7311/997311-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/784/1000784-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/951/1440951-i-e75b3a29623a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/952/1440952-b-4193e29ddd9e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/953/1440953-t-0d80cf7576e8",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "id": 15060,
+                        "name": "Shorts",
+                        "engName": "Shorts",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15060&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 81,
+                    "name": "Quix",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=81&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260061371"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260061371",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260064639": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "MasterChef Australia",
+                "categoryId": 1260064639,
+                "contentId": 1260064639,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3403&avsCategoryId=1260064639&contentId=1260064639&offset=0&size=20&tao=0&tas=5",
+                "id": 3403,
+                "description": "Top Australian chefs judge passionate home cooks who participate in competitive culinary challenges to develop their cooking skills and win the title.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality",
+                    "Food"
+                ],
+                "engGenre": [
+                    "Reality",
+                    "Food"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Star World",
+                "episodeCnt": 61,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/544/1030544-h-f99749b7a0ca",
+                    "v": "sources/r1/cms/prod/545/1030545-v-574bea7d9205"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/544/1030544-h-f99749b7a0ca",
+                        "v": "sources/r1/cms/prod/545/1030545-v-574bea7d9205"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/241/1030241-h-96c3b0ca5b98",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/242/1030242-v-95e425402d75",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/443/1440443-i-4e4a75c7efd5",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/444/1440444-b-6a18c76bbe3d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/445/1440445-t-de56cdccda52",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Endemol",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "id": 15067,
+                        "name": "Food",
+                        "engName": "Food",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15067&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 8,
+                    "name": "Star World",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=8&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260064483"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260064483",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260066927": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Me Honar Superstar- Jallosh Juniorscha",
+                "categoryId": 1260066927,
+                "contentId": 1260066927,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3466&avsCategoryId=1260066927&contentId=1260066927&offset=0&size=20&tao=0&tas=5",
+                "id": 3466,
+                "description": "With Ankush Chaudhari as judge-cum-mentor, junior talents across Maharashtra battle it out on the stage whilst shaping the contemporary dance culture.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Competition",
+                                "engValue": "Competition"
+                            },
+                            {
+                                "value": "Dance",
+                                "engValue": "Dance"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Reality Addicts",
+                                "engValue": "For Reality Addicts"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Marathi"
+                ],
+                "channelName": "Star Pravah",
+                "episodeCnt": 36,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2570/1472570-b-6a4f81ed0cdb",
+                    "h": "sources/r1/cms/prod/2245/1472245-h-bf33226da4a5",
+                    "i": "sources/r1/cms/prod/2569/1472569-i-e9389cc6a68d",
+                    "t": "sources/r1/cms/prod/2568/1472568-t-9785ea88204f",
+                    "v": "sources/r1/cms/prod/2246/1472246-v-a20185a93e48"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2570/1472570-b-6a4f81ed0cdb",
+                        "h": "sources/r1/cms/prod/2245/1472245-h-bf33226da4a5",
+                        "i": "sources/r1/cms/prod/2569/1472569-i-e9389cc6a68d",
+                        "t": "sources/r1/cms/prod/2568/1472568-t-9785ea88204f",
+                        "v": "sources/r1/cms/prod/2246/1472246-v-a20185a93e48"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2245/1472245-h-bf33226da4a5",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2246/1472246-v-a20185a93e48",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2568/1472568-t-9785ea88204f",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 327
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2569/1472569-i-e9389cc6a68d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2570/1472570-b-6a4f81ed0cdb",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Pravah",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 15,
+                    "name": "Star Pravah",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=15&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260131813"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260131813",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 4,
+                    "name": "Marathi",
+                    "iso3code": "mar",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                }
+            },
+            "1260084431": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Smart Jodi",
+                "categoryId": 1260084431,
+                "contentId": 1260084431,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3813&avsCategoryId=1260084431&contentId=1260084431&offset=0&size=20&tao=0&tas=5",
+                "id": 3813,
+                "description": "14 weeks. 10 celebrity couples. 1 trophy. Hosted by Maniesh Paul, join in as real-life partners battle it out against each other in this fun game show.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 16,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3874/1413874-b-732a09756b18",
+                    "h": "sources/r1/cms/prod/8549/1118549-h-bb9fef4b6612",
+                    "i": "sources/r1/cms/prod/3873/1413873-i-eae5bda8a67d",
+                    "t": "sources/r1/cms/prod/3875/1413875-t-0c04a9b3afb7",
+                    "v": "sources/r1/cms/prod/8550/1118550-v-f9a25093c2dd"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3874/1413874-b-732a09756b18",
+                        "h": "sources/r1/cms/prod/8549/1118549-h-bb9fef4b6612",
+                        "i": "sources/r1/cms/prod/3873/1413873-i-eae5bda8a67d",
+                        "t": "sources/r1/cms/prod/3875/1413875-t-0c04a9b3afb7",
+                        "v": "sources/r1/cms/prod/8550/1118550-v-f9a25093c2dd"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3873/1413873-i-eae5bda8a67d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3874/1413874-b-732a09756b18",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3875/1413875-t-0c04a9b3afb7",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8549/1118549-h-bb9fef4b6612",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8550/1118550-v-f9a25093c2dd",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260084809"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260084809",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260100108": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Naam Reh Jayegaa",
+                "categoryId": 1260100108,
+                "contentId": 1260100108,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3914&avsCategoryId=1260100108&contentId=1260100108&offset=0&size=20&tao=0&tas=5",
+                "id": 3914,
+                "description": "Notable singers come together to pay their humble tribute to the voice that defined a nation, Lata Mangeshkar.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Concert Film",
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Concert Film",
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 8,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3894/1413894-b-9e74845b0c61",
+                    "h": "sources/r1/cms/prod/4493/1224493-h-a5e8ad1e4358",
+                    "i": "sources/r1/cms/prod/3891/1413891-i-9e73e74c3b4e",
+                    "t": "sources/r1/cms/prod/3895/1413895-t-59674e328be4",
+                    "v": "sources/r1/cms/prod/4494/1224494-v-01155e414346"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3894/1413894-b-9e74845b0c61",
+                        "h": "sources/r1/cms/prod/4493/1224493-h-a5e8ad1e4358",
+                        "i": "sources/r1/cms/prod/3891/1413891-i-9e73e74c3b4e",
+                        "t": "sources/r1/cms/prod/3895/1413895-t-59674e328be4",
+                        "v": "sources/r1/cms/prod/4494/1224494-v-01155e414346"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3891/1413891-i-9e73e74c3b4e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3894/1413894-b-9e74845b0c61",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3895/1413895-t-59674e328be4",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4493/1224493-h-a5e8ad1e4358",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4494/1224494-v-01155e414346",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15050,
+                        "name": "Concert Film",
+                        "engName": "Concert Film",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15050&offset=0&size=20"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260100262"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260100262",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false
+            },
+            "1260104889": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ravivaar With Star Parivaar",
+                "categoryId": 1260104889,
+                "contentId": 1260104889,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4011&avsCategoryId=1260104889&contentId=1260104889&offset=0&size=20&tao=0&tas=5",
+                "id": 4011,
+                "description": "A musical game show with different families from your favourite Plus shows. The teams compete against each other in weekly face-offs to win the cash prize!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 16,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8578/1418578-b-b90a742445b2",
+                    "h": "sources/r1/cms/prod/4505/1274505-h-567f46379b37",
+                    "i": "sources/r1/cms/prod/8577/1418577-i-4d3f3d896973",
+                    "t": "sources/r1/cms/prod/8579/1418579-t-def6e15ac72c",
+                    "v": "sources/r1/cms/prod/4506/1274506-v-c003dad71604"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8578/1418578-b-b90a742445b2",
+                        "h": "sources/r1/cms/prod/4505/1274505-h-567f46379b37",
+                        "i": "sources/r1/cms/prod/8577/1418577-i-4d3f3d896973",
+                        "t": "sources/r1/cms/prod/8579/1418579-t-def6e15ac72c",
+                        "v": "sources/r1/cms/prod/4506/1274506-v-c003dad71604"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4505/1274505-h-567f46379b37",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4506/1274506-v-c003dad71604",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8577/1418577-i-4d3f3d896973",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8578/1418578-b-b90a742445b2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8579/1418579-t-def6e15ac72c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260113048"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260113048",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260117141": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bingo! Comedy Adda",
+                "categoryId": 1260117141,
+                "contentId": 1260117141,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4224&avsCategoryId=1260117141&contentId=1260117141&offset=0&size=20&tao=0&tas=5",
+                "id": 4224,
+                "description": "Watch your favourite celebs, and stand-up comedians share their Tedhe moments with host Varun Sharma, tickling the audience’s funny bone.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Talk Show",
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Talk Show",
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 6,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3866/1413866-b-8ff00d6bf0fd",
+                    "h": "sources/r1/cms/prod/3560/1363560-h-33ff3a59fd4b",
+                    "i": "sources/r1/cms/prod/3865/1413865-i-ac7a3a97eae7",
+                    "t": "sources/r1/cms/prod/3867/1413867-t-3f55d5bebcbb",
+                    "v": "sources/r1/cms/prod/3561/1363561-v-b22bc5651244"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3866/1413866-b-8ff00d6bf0fd",
+                        "h": "sources/r1/cms/prod/3560/1363560-h-33ff3a59fd4b",
+                        "i": "sources/r1/cms/prod/3865/1413865-i-ac7a3a97eae7",
+                        "t": "sources/r1/cms/prod/3867/1413867-t-3f55d5bebcbb",
+                        "v": "sources/r1/cms/prod/3561/1363561-v-b22bc5651244"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3560/1363560-h-33ff3a59fd4b",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3561/1363561-v-b22bc5651244",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3865/1413865-i-ac7a3a97eae7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3866/1413866-b-8ff00d6bf0fd",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3867/1413867-t-3f55d5bebcbb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Talk Show",
+                        "engName": "Talk Show",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260117640"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260117640",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false
+            },
+            "1260123498": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "The Great Indian Bride",
+                "categoryId": 1260123498,
+                "contentId": 1260123498,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4297&avsCategoryId=1260123498&contentId=1260123498&offset=0&size=20&tao=0&tas=5",
+                "id": 4297,
+                "description": "The Indian wedding spectacle! From exquisite photoshoots to the ultimate makeover, five brides begin their happily-ever-after life with colossal celebrations.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Kannada",
+                    "Bengali",
+                    "Tamil",
+                    "Telugu",
+                    "Marathi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 5,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/4026/1414026-b-77764b7eb927",
+                    "h": "sources/r1/cms/prod/4367/1414367-h-136cb9d6cf41",
+                    "i": "sources/r1/cms/prod/4025/1414025-i-18a5cf686ef2",
+                    "t": "sources/r1/cms/prod/4024/1414024-t-a98f80474b69",
+                    "v": "sources/r1/cms/prod/4368/1414368-v-a9e9ace0e324"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/4026/1414026-b-77764b7eb927",
+                        "h": "sources/r1/cms/prod/4367/1414367-h-136cb9d6cf41",
+                        "i": "sources/r1/cms/prod/4025/1414025-i-18a5cf686ef2",
+                        "t": "sources/r1/cms/prod/4024/1414024-t-a98f80474b69",
+                        "v": "sources/r1/cms/prod/4368/1414368-v-a9e9ace0e324"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4024/1414024-t-a98f80474b69",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 188
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4025/1414025-i-18a5cf686ef2",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4026/1414026-b-77764b7eb927",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4367/1414367-h-136cb9d6cf41",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4368/1414368-v-a9e9ace0e324",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260123542"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260123542",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260123652": {
+                "imageAttributes": "script_lang=eng,callout_lang=eng,variant=ucb_1260123652,logic=lang",
+                "title": "Moving In With Malaika",
+                "categoryId": 1260123652,
+                "contentId": 1260123652,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4300&avsCategoryId=1260123652&contentId=1260123652&offset=0&size=20&tao=0&tas=5",
+                "id": 4300,
+                "description": "All set to showcase her true self, Malaika will shut down trolls in her quintessential Arora style as she opens up about her life.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 16,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/7488/1487488-h-317abc996a39",
+                    "v": "sources/r1/cms/prod/7487/1487487-v-37838d387f7d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7488/1487488-h-317abc996a39",
+                        "v": "sources/r1/cms/prod/7487/1487487-v-37838d387f7d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1470/1441470-h-0bee841672a3",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1475/1441475-v-33d3428a9d16",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1484/1441484-t-9a4bc000da1d",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 420
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1493/1441493-i-08cd09e82172",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1503/1441503-b-793554cfc360",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Novi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260126724"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": true,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260126724",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260126890": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "BB Jodi",
+                "categoryId": 1260126890,
+                "contentId": 1260126890,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4337&avsCategoryId=1260126890&contentId=1260126890&offset=0&size=20&tao=0&tas=5",
+                "id": 4337,
+                "description": "Hosted by Sreemukhi, get ready to witness electrifying performances as your beloved ex-Bigg Boss contestants pair up for an ultimate dance battle.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 25,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8581/1438581-b-04ae01efb493",
+                    "h": "sources/r1/cms/prod/8577/1438577-h-a05d1607da6c",
+                    "i": "sources/r1/cms/prod/8580/1438580-i-df2a4c8d0515",
+                    "t": "sources/r1/cms/prod/8579/1438579-t-fa025bcf923f",
+                    "v": "sources/r1/cms/prod/8578/1438578-v-110adb443aed"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8581/1438581-b-04ae01efb493",
+                        "h": "sources/r1/cms/prod/8577/1438577-h-a05d1607da6c",
+                        "i": "sources/r1/cms/prod/8580/1438580-i-df2a4c8d0515",
+                        "t": "sources/r1/cms/prod/8579/1438579-t-fa025bcf923f",
+                        "v": "sources/r1/cms/prod/8578/1438578-v-110adb443aed"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8577/1438577-h-a05d1607da6c",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8578/1438578-v-110adb443aed",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8579/1438579-t-fa025bcf923f",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 318
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8580/1438580-i-df2a4c8d0515",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8581/1438581-b-04ae01efb493",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star MAA",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260126892"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260126892",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260129246": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_1260129246,logic=lang",
+                "title": "Hansika's Love Shaadi Drama",
+                "categoryId": 1260129246,
+                "contentId": 1260129246,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4365&avsCategoryId=1260129246&contentId=1260129246&offset=0&size=20&tao=0&tas=5",
+                "id": 4365,
+                "description": "Actress Hansika Motwani is thrilled about her wedding. And the run-up to her big day has all the excitement and, of course, all the drama.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Reality"
+                ],
+                "engGenre": [
+                    "Reality"
+                ],
+                "lang": [
+                    "English",
+                    "Tamil",
+                    "Telugu",
+                    "Hindi"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 6,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/7495/1487495-h-966754364961",
+                    "v": "sources/r1/cms/prod/7494/1487494-v-fa65c4bdf9be"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7495/1487495-h-966754364961",
+                        "v": "sources/r1/cms/prod/7494/1487494-v-fa65c4bdf9be"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9448/1489448-h-91f6ddc300a4",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9450/1489450-v-b3fe8bf7bb9c",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9451/1489451-t-0a1be8ea3484",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 399
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9453/1489453-i-9c0e7530ec20",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9454/1489454-b-d824cdfc248c",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Happy Unicorn Creative Communication Pvt. Ltd.",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 9,
+                        "name": "Reality",
+                        "engName": "Reality",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260130563",
+                    "1260129247",
+                    "1260130560"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260130563",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=Reality&offset=ben%2C1%2Cmar%2C1%2Ctam%2C2%2Ceng%2C1%2Ctel%2C2%2Chin%2C14&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

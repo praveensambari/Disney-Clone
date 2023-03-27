@@ -1,0 +1,3424 @@
+{
+    "data": {
+        "itemids": [
+            "1654",
+            "1260113215",
+            "358",
+            "1000212789",
+            "1260108807",
+            "1260081024",
+            "363",
+            "1260054967",
+            "1260108952",
+            "1000207868",
+            "1260062944",
+            "15034",
+            "1260049386",
+            "1260008666",
+            "1260103179",
+            "1260099968",
+            "1260055764",
+            "1260083987",
+            "1260109485"
+        ],
+        "items": {
+            "358": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Arjun",
+                "categoryId": 357,
+                "contentId": 358,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=30&avsCategoryId=357&contentId=358&offset=0&size=20&tao=0&tas=5",
+                "id": 30,
+                "description": "Meet Arjun, a rebel-cop and the lead of the Emergency Task Force who doesn't mind going the extra mile to ensure justice, even if it takes breaking rules.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Thrilling",
+                                "engValue": "Thrilling"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Mystery",
+                                "engValue": "Mystery"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Conspiracy",
+                                "engValue": "Conspiracy"
+                            },
+                            {
+                                "value": "Cop Drama",
+                                "engValue": "Cop Drama"
+                            },
+                            {
+                                "value": "Law Enforcements",
+                                "engValue": "Law Enforcements"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Crime Sleuths",
+                                "engValue": "For Crime Sleuths"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 145,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2269/1412269-b-ef3812f98f56",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/358/358/358-h",
+                    "i": "sources/r1/cms/prod/2268/1412268-i-52f287e33e05",
+                    "t": "sources/r1/cms/prod/2270/1412270-t-ea163c197deb",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/358/358/358-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2269/1412269-b-ef3812f98f56",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/358/358/358-h",
+                        "i": "sources/r1/cms/prod/2268/1412268-i-52f287e33e05",
+                        "t": "sources/r1/cms/prod/2270/1412270-t-ea163c197deb",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/358/358/358-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2268/1412268-i-52f287e33e05",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2269/1412269-b-ef3812f98f56",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2270/1412270-t-ea163c197deb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/358/358/358-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/358/358/358-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000242192"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000242192",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "363": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Savdhaan India",
+                "categoryId": 362,
+                "contentId": 363,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=26&avsCategoryId=362&contentId=363&offset=0&size=20&tao=0&tas=5",
+                "id": 26,
+                "description": "From a dangerous murder plot to a thoroughly planned robbery, unmask the gory face of terror through a dramatised version of the crimes happening around you!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 2348,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7869/1427869-b-879ff06d8c22",
+                    "h": "sources/r1/cms/prod/8757/1308757-h-fdbb4e2fc8e1",
+                    "i": "sources/r1/cms/prod/7868/1427868-i-bfbc204c45f8",
+                    "t": "sources/r1/cms/prod/7870/1427870-t-4ff6f355d505",
+                    "v": "sources/r1/cms/prod/8758/1308758-v-4ac1eb2a614d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7869/1427869-b-879ff06d8c22",
+                        "h": "sources/r1/cms/prod/8757/1308757-h-fdbb4e2fc8e1",
+                        "i": "sources/r1/cms/prod/7868/1427868-i-bfbc204c45f8",
+                        "t": "sources/r1/cms/prod/7870/1427870-t-4ff6f355d505",
+                        "v": "sources/r1/cms/prod/8758/1308758-v-4ac1eb2a614d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7868/1427868-i-bfbc204c45f8",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7869/1427869-b-879ff06d8c22",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7870/1427870-t-4ff6f355d505",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8757/1308757-h-fdbb4e2fc8e1",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8758/1308758-v-4ac1eb2a614d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 73,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1654": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "SuperCops",
+                "categoryId": 1618,
+                "contentId": 1654,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=87&avsCategoryId=1618&contentId=1654&offset=0&size=20&tao=0&tas=5",
+                "id": 87,
+                "description": "ACP Diler and his team of supercops fight deadly villains, mutants and monsters for the safety of the common man.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Fantasy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 277,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/593/1390593-b-0055456c1560",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/1654/1654/1654-h",
+                    "i": "sources/r1/cms/prod/592/1390592-i-cce02543d965",
+                    "t": "sources/r1/cms/prod/594/1390594-t-c31e8dc2610e",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1654/1654/1654-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/593/1390593-b-0055456c1560",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/1654/1654/1654-h",
+                        "i": "sources/r1/cms/prod/592/1390592-i-cce02543d965",
+                        "t": "sources/r1/cms/prod/594/1390594-t-c31e8dc2610e",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1654/1654/1654-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/592/1390592-i-cce02543d965",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/593/1390593-b-0055456c1560",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/594/1390594-t-c31e8dc2610e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/1654/1654/1654-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/1654/1654/1654-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 11,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "15034": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Savdhaan India - F.I.R.",
+                "categoryId": 14864,
+                "contentId": 15034,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1185&avsCategoryId=14864&contentId=15034&offset=0&size=20&tao=0&tas=5",
+                "id": 1185,
+                "description": "Honest and brave police officers are out to investigate tough cases and nab twisted criminals across the nation. Zurm ka bura time shuru!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Reboots & Remakes",
+                                "engValue": "Reboots & Remakes"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Mystery",
+                                "engValue": "Mystery"
+                            },
+                            {
+                                "value": "True Crime",
+                                "engValue": "True Crime"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Con Stories",
+                                "engValue": "Con Stories"
+                            },
+                            {
+                                "value": "Investigative",
+                                "engValue": "Investigative"
+                            },
+                            {
+                                "value": "Serial Killer",
+                                "engValue": "Serial Killer"
+                            },
+                            {
+                                "value": "Taking on the System",
+                                "engValue": "Taking on the System"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Inspired by True Events",
+                                "engValue": "Inspired by True Events"
+                            },
+                            {
+                                "value": "Organized Crime",
+                                "engValue": "Organized Crime"
+                            },
+                            {
+                                "value": "Real Life/True Events",
+                                "engValue": "Real Life/True Events"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Crime Sleuths",
+                                "engValue": "For Crime Sleuths"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 775,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8229/1428229-b-9448fb3d41c4",
+                    "h": "sources/r1/cms/prod/6723/876723-h",
+                    "i": "sources/r1/cms/prod/8228/1428228-i-02657a435e79",
+                    "m": "sources/r1/cms/prod/8348/238348-m",
+                    "t": "sources/r1/cms/prod/8230/1428230-t-49054906c633",
+                    "v": "sources/r1/cms/prod/6724/876724-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8229/1428229-b-9448fb3d41c4",
+                        "h": "sources/r1/cms/prod/6723/876723-h",
+                        "i": "sources/r1/cms/prod/8228/1428228-i-02657a435e79",
+                        "m": "sources/r1/cms/prod/8348/238348-m",
+                        "t": "sources/r1/cms/prod/8230/1428230-t-49054906c633",
+                        "v": "sources/r1/cms/prod/6724/876724-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6723/876723-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6724/876724-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8228/1428228-i-02657a435e79",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8229/1428229-b-9448fb3d41c4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8230/1428230-t-49054906c633",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8348/238348-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260016686"
+                ],
+                "seasonCnt": 9,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260016686",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000207868": {
+                "imageAttributes": "script_lang=ben,callout_lang=ben,variant=ucb_imdbreviewposter�,logic=lang",
+                "title": "Indrajit",
+                "contentId": 1000207868,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=358851&contentId=1000207868&offset=0&size=20&tao=0&tas=5",
+                "id": 358851,
+                "description": "During a rape case investigation, an honest police officer learns about the criminal background of the MLA who recommended him for his job. Will he expose him?",
+                "duration": 8597,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Unknown",
+                "cpDisplayName": "Unknown",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1522542600,
+                "endDate": 1680287340,
+                "year": 1992,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000207868",
+                "images": {
+                    "h": "sources/r1/cms/prod/8920/1488920-h-75cd4ded9922",
+                    "v": "sources/r1/cms/prod/8921/1488921-v-58fd4dea4fb9"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/8920/1488920-h-75cd4ded9922",
+                        "v": "sources/r1/cms/prod/8921/1488921-v-58fd4dea4fb9"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8679/1368679-i-3014cc3c3126",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8681/1368681-b-046f19425a72",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8682/1368682-t-716cff87143a",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/7868/1000207868/1000207868-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/7868/1000207868/1000207868-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000241869"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Mild Violence, Drug Usage",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000241869",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 2,
+                    "name": "Bengali",
+                    "iso3code": "ben",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                }
+            },
+            "1000212789": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_WFFwithbadge,logic=lang",
+                "title": "Raid",
+                "contentId": 1000212789,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=378236&contentId=1000212789&offset=0&size=20&tao=0&tas=5",
+                "id": 378236,
+                "description": "Fearless income tax officer Amay Patnaik carries out a risky raid at the mansion of the most powerful man in Lucknow. Inspired by real-life events.",
+                "duration": 6920,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Panorama Studios",
+                "cpDisplayName": "Panorama Studios",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Hidden Gems",
+                                "engValue": "Hidden Gems"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Corruption",
+                                "engValue": "Corruption"
+                            },
+                            {
+                                "value": "Cop Drama",
+                                "engValue": "Cop Drama"
+                            },
+                            {
+                                "value": "Con Stories",
+                                "engValue": "Con Stories"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Investigative",
+                                "engValue": "Investigative"
+                            },
+                            {
+                                "value": "Scams",
+                                "engValue": "Scams"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Real Life/True Events",
+                                "engValue": "Real Life/True Events"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Uttar Pradesh",
+                                "engValue": "Uttar Pradesh"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Crime Sleuths",
+                                "engValue": "For Crime Sleuths"
+                            },
+                            {
+                                "value": "For Ajay Devgn Fans",
+                                "engValue": "For Ajay Devgn Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1527417000,
+                "endDate": 1841596140,
+                "year": 2018,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000212789",
+                "images": {
+                    "h": "sources/r1/cms/prod/1265/1431265-h-33304f587662",
+                    "v": "sources/r1/cms/prod/1270/1431270-v-b6bfc3b82ee5"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/1265/1431265-h-33304f587662",
+                        "v": "sources/r1/cms/prod/1270/1431270-v-b6bfc3b82ee5"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5390/1375390-i-e84e2e51b750",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5391/1375391-b-f667f817fe54",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5392/1375392-t-a58dd666491a",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2789/1000212789/1000212789-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2789/1000212789/1000212789-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000204929"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000204929",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260008666": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Savdhaan India - Special Crime Series",
+                "categoryId": 1260008666,
+                "contentId": 1260008666,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2274&avsCategoryId=1260008666&contentId=1260008666&offset=0&size=20&tao=0&tas=5",
+                "id": 2274,
+                "description": "As crimes get bigger, and criminals turn sinister, here's a series of spine-chilling stories packed with nail-biting suspense and thrill.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 35,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8482/1398482-b-45886057cd14",
+                    "h": "sources/r1/cms/prod/7181/537181-h",
+                    "i": "sources/r1/cms/prod/8481/1398481-i-c8079017fcf7",
+                    "t": "sources/r1/cms/prod/8483/1398483-t-c1391788d2d4",
+                    "v": "sources/r1/cms/prod/7183/537183-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8482/1398482-b-45886057cd14",
+                        "h": "sources/r1/cms/prod/7181/537181-h",
+                        "i": "sources/r1/cms/prod/8481/1398481-i-c8079017fcf7",
+                        "t": "sources/r1/cms/prod/8483/1398483-t-c1391788d2d4",
+                        "v": "sources/r1/cms/prod/7183/537183-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7181/537181-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7183/537183-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8481/1398481-i-c8079017fcf7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8482/1398482-b-45886057cd14",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8483/1398483-t-c1391788d2d4",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000239443"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000239443",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260049386": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_criminaljusticebloodyknife,logic=lang",
+                "title": "Criminal Justice: Behind Closed Doors",
+                "categoryId": 1260049386,
+                "contentId": 1260049386,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3131&avsCategoryId=1260049386&contentId=1260049386&offset=0&size=20&tao=0&tas=5",
+                "id": 3131,
+                "description": "Anuradha Chandra stabs her perfect lawyer husband one fateful night and confesses to her crime. However, it is anything but an open-and-shut case. ",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Drama"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Webseries",
+                                "engValue": "Webseries"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Mystery",
+                                "engValue": "Mystery"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Courtroom",
+                                "engValue": "Courtroom"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Investigative",
+                                "engValue": "Investigative"
+                            },
+                            {
+                                "value": "Prison",
+                                "engValue": "Prison"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Crime Sleuths",
+                                "engValue": "For Crime Sleuths"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi",
+                    "Bengali",
+                    "Marathi",
+                    "Tamil",
+                    "Kannada",
+                    "Malayalam",
+                    "Telugu"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 8,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/5388/875388-h",
+                    "v": "sources/r1/cms/prod/5389/875389-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/5388/875388-h",
+                        "v": "sources/r1/cms/prod/5389/875389-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2158/912158-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2159/912159-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5139/1405139-i-052d6860bd64",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5140/1405140-b-60c7f91489b9",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5141/1405141-t-8730b2790609",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Applause Entertainment Private Limited",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260050758"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2020",
+                "parentalRating": 3,
+                "parentalRatingName": "A",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260050171",
+                        "playbackType": "INTERNAL",
+                        "orientation": "VERTICAL"
+                    },
+                    {
+                        "contentId": "1260050758",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260054967": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "The Tattoo Murders",
+                "categoryId": 1260054967,
+                "contentId": 1260054967,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3232&avsCategoryId=1260054967&contentId=1260054967&offset=0&size=20&tao=0&tas=5",
+                "id": 3232,
+                "description": "Police officer Aditi must catch a serial killer with just one clue, a scorpion tattoo on the victims. To stop the menace, she must dig into her own past.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Thriller"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Thriller"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Hard-hitting",
+                                "engValue": "Hard-hitting"
+                            },
+                            {
+                                "value": "Mind-Bending",
+                                "engValue": "Mind-Bending"
+                            },
+                            {
+                                "value": "Spine-chilling",
+                                "engValue": "Spine-chilling"
+                            },
+                            {
+                                "value": "Thrilling",
+                                "engValue": "Thrilling"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Mystery",
+                                "engValue": "Mystery"
+                            },
+                            {
+                                "value": "Tragedy",
+                                "engValue": "Tragedy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Cop Drama",
+                                "engValue": "Cop Drama"
+                            },
+                            {
+                                "value": "Girl Power",
+                                "engValue": "Girl Power"
+                            },
+                            {
+                                "value": "Investigative",
+                                "engValue": "Investigative"
+                            },
+                            {
+                                "value": "Serial Killer",
+                                "engValue": "Serial Killer"
+                            },
+                            {
+                                "value": "Suspense",
+                                "engValue": "Suspense"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Organized Crime",
+                                "engValue": "Organized Crime"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Brothel",
+                                "engValue": "Brothel"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Crime Sleuths",
+                                "engValue": "For Crime Sleuths"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 7,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/5511/955511-h",
+                    "v": "sources/r1/cms/prod/7822/957822-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/5511/955511-h",
+                        "v": "sources/r1/cms/prod/7822/957822-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5511/955511-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7822/957822-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Vision Movie Makers",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 3,
+                "parentalRatingName": "A",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260055764": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Nave Lakshya",
+                "categoryId": 1260055764,
+                "contentId": 1260055764,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3252&avsCategoryId=1260055764&contentId=1260055764&offset=0&size=20&tao=0&tas=5",
+                "id": 3252,
+                "description": "Mumbai Police can find a needle in a haystack, and Unit 9, their elite force, pursues justice and shields the common man from criminals with a humane touch.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Crime"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Curious",
+                                "engValue": "Curious"
+                            },
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Spin-offs",
+                                "engValue": "Spin-offs"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "True Crime",
+                                "engValue": "True Crime"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Cop Drama",
+                                "engValue": "Cop Drama"
+                            },
+                            {
+                                "value": "Covert Agencies",
+                                "engValue": "Covert Agencies"
+                            },
+                            {
+                                "value": "Investigative",
+                                "engValue": "Investigative"
+                            },
+                            {
+                                "value": "Law Enforcements",
+                                "engValue": "Law Enforcements"
+                            },
+                            {
+                                "value": "Suspense",
+                                "engValue": "Suspense"
+                            },
+                            {
+                                "value": "Tough Guys",
+                                "engValue": "Tough Guys"
+                            },
+                            {
+                                "value": "Undercover",
+                                "engValue": "Undercover"
+                            },
+                            {
+                                "value": "Vigilante",
+                                "engValue": "Vigilante"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Organized Crime",
+                                "engValue": "Organized Crime"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Thrill Seekers",
+                                "engValue": "For Thrill Seekers"
+                            },
+                            {
+                                "value": "Patriots",
+                                "engValue": "Patriots"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Marathi"
+                ],
+                "channelName": "Star Pravah",
+                "episodeCnt": 78,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/426/1440426-b-862fc8039da1",
+                    "h": "sources/r1/cms/prod/605/1000605-h",
+                    "i": "sources/r1/cms/prod/425/1440425-i-5b5efd83e2de",
+                    "t": "sources/r1/cms/prod/427/1440427-t-4b968502b147",
+                    "v": "sources/r1/cms/prod/606/1000606-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/426/1440426-b-862fc8039da1",
+                        "h": "sources/r1/cms/prod/605/1000605-h",
+                        "i": "sources/r1/cms/prod/425/1440425-i-5b5efd83e2de",
+                        "t": "sources/r1/cms/prod/427/1440427-t-4b968502b147",
+                        "v": "sources/r1/cms/prod/606/1000606-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/425/1440425-i-5b5efd83e2de",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/426/1440426-b-862fc8039da1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/427/1440427-t-4b968502b147",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/605/1000605-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/606/1000606-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Pravah",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 15,
+                    "name": "Star Pravah",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=15&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260055752"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260055752",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 4,
+                    "name": "Marathi",
+                    "iso3code": "mar",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                }
+            },
+            "1260062944": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Crime Next Door",
+                "categoryId": 1260062944,
+                "contentId": 1260062944,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3375&avsCategoryId=1260062944&contentId=1260062944&offset=0&size=20&tao=0&tas=5",
+                "id": 3375,
+                "description": "Inspector Shekhawat investigates some of the most heinous and toughest murder cases of his entire career. Tough to crack, the truth is not always what it seems.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Thriller",
+                    "Crime",
+                    "Shorts"
+                ],
+                "engGenre": [
+                    "Thriller",
+                    "Crime",
+                    "Shorts"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Thrilling",
+                                "engValue": "Thrilling"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Mystery",
+                                "engValue": "Mystery"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Cop Drama",
+                                "engValue": "Cop Drama"
+                            },
+                            {
+                                "value": "Investigative",
+                                "engValue": "Investigative"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Thrill Seekers",
+                                "engValue": "For Thrill Seekers"
+                            },
+                            {
+                                "value": "Mystery Lovers",
+                                "engValue": "Mystery Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Quix",
+                "episodeCnt": 15,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/937/1440937-b-a31659c31fde",
+                    "h": "sources/r1/cms/prod/8017/1098017-h-93afdbc4c803",
+                    "i": "sources/r1/cms/prod/936/1440936-i-2386440464bf",
+                    "t": "sources/r1/cms/prod/938/1440938-t-16473c579223",
+                    "v": "sources/r1/cms/prod/8018/1098018-v-7b54836e2d09"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/937/1440937-b-a31659c31fde",
+                        "h": "sources/r1/cms/prod/8017/1098017-h-93afdbc4c803",
+                        "i": "sources/r1/cms/prod/936/1440936-i-2386440464bf",
+                        "t": "sources/r1/cms/prod/938/1440938-t-16473c579223",
+                        "v": "sources/r1/cms/prod/8018/1098018-v-7b54836e2d09"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8017/1098017-h-93afdbc4c803",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8018/1098018-v-7b54836e2d09",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/936/1440936-i-2386440464bf",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/937/1440937-b-a31659c31fde",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/938/1440938-t-16473c579223",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Kara Studios",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 15060,
+                        "name": "Shorts",
+                        "engName": "Shorts",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15060&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 81,
+                    "name": "Quix",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=81&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260061831"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 3,
+                "parentalRatingName": "A",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260061831",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260081024": {
+                "imageAttributes": "script_lang=eng,callout_lang=ben$mar$tam$kan$mal$hin$tel,logic=lang",
+                "title": "Rudra: The Edge of Darkness",
+                "categoryId": 1260081024,
+                "contentId": 1260081024,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3775&avsCategoryId=1260081024&contentId=1260081024&offset=0&size=20&tao=0&tas=5",
+                "id": 3775,
+                "description": "In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds is brilliant supercop Rudraveer Singh, guarding against their darkness.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Thriller"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Thriller"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu",
+                    "Bengali",
+                    "Malayalam",
+                    "Kannada",
+                    "Marathi"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 6,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2182/1122182-h-8f85b98376ad",
+                    "v": "sources/r1/cms/prod/2183/1122183-v-6464aca722ef"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2182/1122182-h-8f85b98376ad",
+                        "v": "sources/r1/cms/prod/2183/1122183-v-6464aca722ef"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2180/1122180-h-0046ac044aa6",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2181/1122181-v-0fa7b5e161de",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5199/1405199-i-27e1d962995c",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5200/1405200-b-dd9233867d9e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5201/1405201-t-564f647033f5",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Applause Entertainment Private Limited",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260086537"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 3,
+                "parentalRatingName": "A",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260086537",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260083987": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Once Upon A Time in Mumbaai",
+                "contentId": 1260083987,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=985789&contentId=1260083987&offset=0&size=20&tao=0&tas=5",
+                "id": 985789,
+                "description": "Sultan rules the hearts but tops the wanted list. However, his reign in Mumbai is threatened when his protégé turns overambitious and a bloodbath ensues.",
+                "duration": 7729,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Action",
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Crime"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1645468140,
+                "endDate": 1921170540,
+                "year": 2010,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260083987",
+                "images": {
+                    "b": "sources/r1/cms/prod/9673/1369673-b-a48d5e6c2996",
+                    "h": "sources/r1/cms/prod/6361/1116361-h-95eafdac81d9",
+                    "i": "sources/r1/cms/prod/9672/1369672-i-04d56b75ab53",
+                    "t": "sources/r1/cms/prod/9674/1369674-t-7252b1402f68",
+                    "v": "sources/r1/cms/prod/6369/1116369-v-4b55e460910c"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9673/1369673-b-a48d5e6c2996",
+                        "h": "sources/r1/cms/prod/6361/1116361-h-95eafdac81d9",
+                        "i": "sources/r1/cms/prod/9672/1369672-i-04d56b75ab53",
+                        "t": "sources/r1/cms/prod/9674/1369674-t-7252b1402f68",
+                        "v": "sources/r1/cms/prod/6369/1116369-v-4b55e460910c"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6361/1116361-h-95eafdac81d9",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6369/1116369-v-4b55e460910c",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9672/1369672-i-04d56b75ab53",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9673/1369673-b-a48d5e6c2996",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9674/1369674-t-7252b1402f68",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 573
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Coarse Language, Action Sequences",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260099968": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_hindicallout,logic=lang",
+                "title": "Civil Servant",
+                "categoryId": 1260099968,
+                "contentId": 1260099968,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3906&avsCategoryId=1260099968&contentId=1260099968&offset=0&size=20&tao=0&tas=5",
+                "id": 3906,
+                "description": "A young and ambitious secret service agent learns the rules of the international spy game but will have to overcome authority when his country is under attack.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Crime",
+                    "Thriller"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Crime",
+                    "Thriller"
+                ],
+                "lang": [
+                    "Serbian",
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 24,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/9778/1239778-h-8e7de73ff3e9",
+                    "v": "sources/r1/cms/prod/9779/1239779-v-d0ab7eda8ea0"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/9778/1239778-h-8e7de73ff3e9",
+                        "v": "sources/r1/cms/prod/9779/1239779-v-d0ab7eda8ea0"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2757/1442757-i-8aa09d5e0f35",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2758/1442758-b-2f2109222fa1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2759/1442759-t-1763bc463b1a",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7296/1307296-h-ec4996f00f27",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9555/1309555-v-65bc64d16b4f",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "GOQUEST MEDIA VENTURES PRIVATE LIMITED",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 988,
+                        "name": "Serbian",
+                        "iso3code": "srp",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=988&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260101671"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260101671",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 988,
+                    "name": "Serbian",
+                    "iso3code": "srp",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=988&offset=0&size=20"
+                }
+            },
+            "1260103179": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "9 Hours",
+                "categoryId": 1260103179,
+                "contentId": 1260103179,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3963&avsCategoryId=1260103179&contentId=1260103179&offset=0&size=20&tao=0&tas=5",
+                "id": 3963,
+                "description": "Three prisoners, three teams, three banks and nine hours to pull off three impossible heists and return to jail. Can they do it?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Thriller"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Thriller"
+                ],
+                "lang": [
+                    "Telugu",
+                    "Hindi",
+                    "Tamil",
+                    "Malayalam",
+                    "Marathi",
+                    "Bengali",
+                    "Kannada"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 9,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/3190/1263190-h-0bfaeb08a06e",
+                    "v": "sources/r1/cms/prod/3191/1263191-v-1068113e5df4"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/3190/1263190-h-0bfaeb08a06e",
+                        "v": "sources/r1/cms/prod/3191/1263191-v-1068113e5df4"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3186/1263186-h-81a68b3f0054",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3187/1263187-v-f42b1f5d9c9b",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5180/1405180-i-c1aeb752be29",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5181/1405181-b-77c33bd46f8f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5182/1405182-t-91f592893270",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Novi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260104108"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260104108",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260108807": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Sisterhood",
+                "categoryId": 1260108807,
+                "contentId": 1260108807,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4116&avsCategoryId=1260108807&contentId=1260108807&offset=0&size=20&tao=0&tas=5",
+                "id": 4116,
+                "description": "Days before her wedding, Ipek learns the shocking truth that she has two sisters. However, soon after meeting, the sisters find themselves in an unexpected situation.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Thriller",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Thriller",
+                    "Drama"
+                ],
+                "lang": [
+                    "Turkish",
+                    "Hindi",
+                    "Telugu",
+                    "Tamil"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 24,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/2805/1312805-h-64071c6928e2",
+                    "v": "sources/r1/cms/prod/2806/1312806-v-73f9e82eb159"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2805/1312805-h-64071c6928e2",
+                        "v": "sources/r1/cms/prod/2806/1312806-v-73f9e82eb159"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1895/1311895-h-72dcf61717a7",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1896/1311896-v-b354c23f4251",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/696/1440696-i-6304d37e7ac1",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/697/1440697-b-fe59315604b6",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/698/1440698-t-ad190614cad7",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "O4 Media Limited",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 314,
+                        "name": "Turkish",
+                        "iso3code": "tur",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=314&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260108915"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260108915",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 314,
+                    "name": "Turkish",
+                    "iso3code": "tur",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=314&offset=0&size=20"
+                }
+            },
+            "1260108952": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ubc_mainposter,logic=lang",
+                "title": "Criminal Justice: Adhura Sach",
+                "categoryId": 1260108952,
+                "contentId": 1260108952,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4118&avsCategoryId=1260108952&contentId=1260108952&offset=0&size=20&tao=0&tas=5",
+                "id": 4118,
+                "description": "When a teenage star's brother becomes the prime suspect in her murder, Madhav Mishra takes the case, only to realise he has to first tackle his client's lies.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Marathi",
+                    "Tamil",
+                    "Telugu",
+                    "Bengali",
+                    "Malayalam",
+                    "Kannada"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 8,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/3060/1323060-h-048877e7dde1",
+                    "v": "sources/r1/cms/prod/3061/1323061-v-d2eac580851e"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/3060/1323060-h-048877e7dde1",
+                        "v": "sources/r1/cms/prod/3061/1323061-v-d2eac580851e"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3549/1373549-h-4b7c8c3c3aef",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3550/1373550-v-5a4379a25e99",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5155/1405155-i-7ac347f74707",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5156/1405156-b-4f8d429ea96a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5157/1405157-t-c8ac11bd410e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Applause Entertainment Private Limited",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260117133"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260117133",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260109485": {
+                "imageAttributes": "script_lang=hin,logic=lang",
+                "title": "Cadaver",
+                "contentId": 1260109485,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1019260&contentId=1260109485&offset=0&size=20&tao=0&tas=5",
+                "id": 1019260,
+                "description": "A high-profile murder baffles the cops when a prison inmate claims responsibility and promises more deaths. Will police surgeon Bhadra crack this mystery?",
+                "duration": 7184,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Thriller",
+                    "Crime"
+                ],
+                "engGenre": [
+                    "Thriller",
+                    "Crime"
+                ],
+                "lang": [
+                    "Tamil",
+                    "Malayalam",
+                    "Hindi",
+                    "Kannada",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1660242600,
+                "endDate": 4102424940,
+                "year": 2022,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260109485",
+                "images": {
+                    "h": "sources/r1/cms/prod/6501/1316501-h-a77f9c273482",
+                    "v": "sources/r1/cms/prod/6502/1316502-v-779b15e7d47a"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/6501/1316501-h-a77f9c273482",
+                        "v": "sources/r1/cms/prod/6502/1316502-v-779b15e7d47a"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5348/1365348-i-2e173359862d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5349/1365349-b-a28ab542e5c3",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5350/1365350-t-98832c4f6bd7",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6497/1316497-h-0073cb514439",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6498/1316498-v-00e7de2a48a6",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 378,
+                "studioName": "Amala Paul Productions",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260108699"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "crisp": "Mature Theme, Gore, Some Disturbing Scenes",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260108699",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260113215": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_fourmaincharacter,logic=lang",
+                "title": "Aar Ya Paar",
+                "categoryId": 1260113215,
+                "contentId": 1260113215,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4202&avsCategoryId=1260113215&contentId=1260113215&offset=0&size=20&tao=0&tas=5",
+                "id": 4202,
+                "description": "When the modern world's greed destroys his idyllic tribal existence, a valiant archer becomes a deadly assassin to get even.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Action",
+                    "Crime",
+                    "Thriller",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Crime",
+                    "Thriller",
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu",
+                    "Malayalam",
+                    "Kannada",
+                    "Bengali",
+                    "Marathi"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 8,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2084/1442084-h-136ae6eb30b5",
+                    "v": "sources/r1/cms/prod/2085/1442085-v-58369d6a5507"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2084/1442084-h-136ae6eb30b5",
+                        "v": "sources/r1/cms/prod/2085/1442085-v-58369d6a5507"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3748/1443748-h-5a4434bee5f5",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3749/1443749-v-325db485edca",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3757/1433757-t-8c0c77949782",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 1061
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3758/1433758-i-45ccafe82709",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3759/1433759-b-fe86e00b776c",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Novi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Thriller",
+                        "engName": "Thriller",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=18&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260127164"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260127164",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=Crime&offset=mar%2C1%2Chin%2C17%2Ctel%2C2%2Cben%2C2%2Ctam%2C3%2Ceng%2C1&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

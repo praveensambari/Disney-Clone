@@ -1,0 +1,2892 @@
+{
+    "data": {
+        "itemids": [
+            "390",
+            "1260066788",
+            "14791",
+            "1656",
+            "1260097087",
+            "1260061363",
+            "1260101744",
+            "187",
+            "1260027571",
+            "644",
+            "1260015278",
+            "1260061366",
+            "1260018300",
+            "2245",
+            "639",
+            "1260018178",
+            "7123",
+            "1662",
+            "1260018301",
+            "5534"
+        ],
+        "items": {
+            "187": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "The Buddy Project",
+                "categoryId": 186,
+                "contentId": 187,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=12&avsCategoryId=186&contentId=187&offset=0&size=20&tao=0&tas=5",
+                "id": 12,
+                "description": "The Royal Academy has lost its glory thanks to its rebellious students. Former star student Jaitely comes in, to guide these bright, yet reckless students.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 420,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/670/1390670-b-4c74662ea491",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/187/187/187-h",
+                    "i": "sources/r1/cms/prod/669/1390669-i-31df36e96614",
+                    "t": "sources/r1/cms/prod/671/1390671-t-a4cf6dbec5ea",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/187/187/187-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/670/1390670-b-4c74662ea491",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/187/187/187-h",
+                        "i": "sources/r1/cms/prod/669/1390669-i-31df36e96614",
+                        "t": "sources/r1/cms/prod/671/1390671-t-a4cf6dbec5ea",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/187/187/187-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/669/1390669-i-31df36e96614",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/670/1390670-b-4c74662ea491",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/671/1390671-t-a4cf6dbec5ea",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/187/187/187-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/187/187/187-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 17,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "390": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Miley Jab Hum Tum",
+                "categoryId": 389,
+                "contentId": 390,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=27&avsCategoryId=389&contentId=390&offset=0&size=20&tao=0&tas=5",
+                "id": 27,
+                "description": "With dreams in their eyes, small-town sisters, Gunjan and Nupur arrive at Excel College only to witness friendships, heartbreaks and meet their soulmates.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Utsav",
+                "episodeCnt": 527,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9387/1379387-b-2faf3146e41f",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/390/390/390-h",
+                    "i": "sources/r1/cms/prod/9386/1379386-i-cf0617947617",
+                    "t": "sources/r1/cms/prod/9389/1379389-t-8e60e9aa2203",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/390/390/390-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9387/1379387-b-2faf3146e41f",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/390/390/390-h",
+                        "i": "sources/r1/cms/prod/9386/1379386-i-cf0617947617",
+                        "t": "sources/r1/cms/prod/9389/1379389-t-8e60e9aa2203",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/390/390/390-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9386/1379386-i-cf0617947617",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9387/1379387-b-2faf3146e41f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9389/1379389-t-8e60e9aa2203",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/390/390/390-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/390/390/390-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 13,
+                    "name": "Star Utsav",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=13&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000242307"
+                ],
+                "seasonCnt": 14,
+                "yearLatestSeason": "2010",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000242307",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "639": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Jhalli Anjali",
+                "categoryId": 640,
+                "contentId": 639,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=46&avsCategoryId=640&contentId=639&offset=0&size=20&tao=0&tas=5",
+                "id": 46,
+                "description": "A coming-of-age story of Anjali, whose world revolves around Angad. When he breaks her heart, watch her set out to discover a new self.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 62,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/613/1390613-b-dfe16fa29519",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/639/639/639-h",
+                    "i": "sources/r1/cms/prod/612/1390612-i-f0bd7768f8e7",
+                    "t": "sources/r1/cms/prod/614/1390614-t-5f34393dbd3c",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/639/639/639-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/613/1390613-b-dfe16fa29519",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/639/639/639-h",
+                        "i": "sources/r1/cms/prod/612/1390612-i-f0bd7768f8e7",
+                        "t": "sources/r1/cms/prod/614/1390614-t-5f34393dbd3c",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/639/639/639-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/612/1390612-i-f0bd7768f8e7",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/613/1390613-b-dfe16fa29519",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/614/1390614-t-5f34393dbd3c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/639/639/639-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/639/639/639-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 6,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "644": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "O Gujariya",
+                "categoryId": 645,
+                "contentId": 644,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=45&avsCategoryId=645&contentId=644&offset=0&size=20&tao=0&tas=5",
+                "id": 45,
+                "description": "Vaibhavi Singh, a spirited teenager, aims to become an IAS officer to uncover the unjust offences made against her father. Can she get justice for him?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 71,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/659/1420659-b-3b2e3bd0f2d5",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/644/644/644-h",
+                    "i": "sources/r1/cms/prod/658/1420658-i-3cc992145c4d",
+                    "t": "sources/r1/cms/prod/660/1420660-t-a30e3f1f76b6",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/644/644/644-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/659/1420659-b-3b2e3bd0f2d5",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/644/644/644-h",
+                        "i": "sources/r1/cms/prod/658/1420658-i-3cc992145c4d",
+                        "t": "sources/r1/cms/prod/660/1420660-t-a30e3f1f76b6",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/644/644/644-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/658/1420658-i-3cc992145c4d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/659/1420659-b-3b2e3bd0f2d5",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/660/1420660-t-a30e3f1f76b6",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 310
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/644/644/644-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/644/644/644-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 6,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1656": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Dil Dostii Dance",
+                "categoryId": 1620,
+                "contentId": 1656,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=86&avsCategoryId=1620&contentId=1656&offset=0&size=20&tao=0&tas=5",
+                "id": 86,
+                "description": "A dance-based show that traces the journey of a college students and their passion for dance, as they wade through emotions around love and friendship.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 390,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3193/1383193-b-ed4026fea101",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/1656/1656/1656-h",
+                    "i": "sources/r1/cms/prod/3192/1383192-i-d743edf9f28c",
+                    "t": "sources/r1/cms/prod/3196/1383196-t-a8f0c83f5450",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1656/1656/1656-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3193/1383193-b-ed4026fea101",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/1656/1656/1656-h",
+                        "i": "sources/r1/cms/prod/3192/1383192-i-d743edf9f28c",
+                        "t": "sources/r1/cms/prod/3196/1383196-t-a8f0c83f5450",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1656/1656/1656-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3192/1383192-i-d743edf9f28c",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3193/1383193-b-ed4026fea101",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3196/1383196-t-a8f0c83f5450",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/1656/1656/1656-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/1656/1656/1656-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 12,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1662": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "PS I hate you",
+                "categoryId": 1626,
+                "contentId": 1662,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=89&avsCategoryId=1626&contentId=1662&offset=0&size=20&tao=0&tas=5",
+                "id": 89,
+                "description": "Two sisters, Simple and Dimple, can live neither with nor without each other. Watch them grow up in this fun-filled story of friendship and unique aspirations.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 40,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3375/1383375-b-8b62660689bb",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/1662/1662/1662-h",
+                    "i": "sources/r1/cms/prod/3374/1383374-i-dd8c94535074",
+                    "t": "sources/r1/cms/prod/3376/1383376-t-1bd1e7ea14e0",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1662/1662/1662-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3375/1383375-b-8b62660689bb",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/1662/1662/1662-h",
+                        "i": "sources/r1/cms/prod/3374/1383374-i-dd8c94535074",
+                        "t": "sources/r1/cms/prod/3376/1383376-t-1bd1e7ea14e0",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/1662/1662/1662-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3374/1383374-i-dd8c94535074",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3375/1383375-b-8b62660689bb",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3376/1383376-t-1bd1e7ea14e0",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/1662/1662/1662-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/1662/1662/1662-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "2245": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Million Dollar Girl",
+                "categoryId": 2200,
+                "contentId": 2245,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=142&avsCategoryId=2200&contentId=2245&offset=0&size=20&tao=0&tas=5",
+                "id": 142,
+                "description": "Avantika’s dreams go way beyond the town of Banaras. Follow her journey as she chases a life of luxury that she has always dreamt of.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 134,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/686/1390686-b-bea140df2e95",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/2245/2245/2245-h",
+                    "i": "sources/r1/cms/prod/685/1390685-i-8b32efb4d943",
+                    "t": "sources/r1/cms/prod/687/1390687-t-518c60982633",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/2245/2245/2245-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/686/1390686-b-bea140df2e95",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/2245/2245/2245-h",
+                        "i": "sources/r1/cms/prod/685/1390685-i-8b32efb4d943",
+                        "t": "sources/r1/cms/prod/687/1390687-t-518c60982633",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/2245/2245/2245-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/685/1390685-i-8b32efb4d943",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/686/1390686-b-bea140df2e95",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/687/1390687-t-518c60982633",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/2245/2245/2245-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/2245/2245/2245-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 4,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "5534": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Secret Diaries",
+                "categoryId": 5456,
+                "contentId": 5534,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=326&avsCategoryId=5456&contentId=5534&offset=0&size=20&tao=0&tas=5",
+                "id": 326,
+                "description": "Sometimes, some stories are best left unspoken and hidden. Secret Diaries open up things that teens refrain from sharing.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 65,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3009/1383009-b-33a8c36e0262",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/5534/5534/5534-h",
+                    "i": "sources/r1/cms/prod/3008/1383008-i-a27f9852410f",
+                    "t": "sources/r1/cms/prod/3010/1383010-t-e2693696f24e",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5534/5534/5534-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3009/1383009-b-33a8c36e0262",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/5534/5534/5534-h",
+                        "i": "sources/r1/cms/prod/3008/1383008-i-a27f9852410f",
+                        "t": "sources/r1/cms/prod/3010/1383010-t-e2693696f24e",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/5534/5534/5534-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3008/1383008-i-a27f9852410f",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3009/1383009-b-33a8c36e0262",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3010/1383010-t-e2693696f24e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/5534/5534/5534-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/5534/5534/5534-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 2,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "7123": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Mastaangi",
+                "categoryId": 7020,
+                "contentId": 7123,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=454&avsCategoryId=7020&contentId=7123&offset=0&size=20&tao=0&tas=5",
+                "id": 454,
+                "description": "Udita and Kabir's fairy-tale love ends tragically with their untimely deaths. Blessed with a new life, they get to unravel their past and rekindle their love.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Channel V",
+                "episodeCnt": 119,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/6081/1386081-b-b182515908b2",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/7123/7123/7123-h",
+                    "i": "sources/r1/cms/prod/6080/1386080-i-ad385dc26c83",
+                    "t": "sources/r1/cms/prod/6082/1386082-t-26aba0440a44",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/7123/7123/7123-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6081/1386081-b-b182515908b2",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/7123/7123/7123-h",
+                        "i": "sources/r1/cms/prod/6080/1386080-i-ad385dc26c83",
+                        "t": "sources/r1/cms/prod/6082/1386082-t-26aba0440a44",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/7123/7123/7123-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6080/1386080-i-ad385dc26c83",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6081/1386081-b-b182515908b2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6082/1386082-t-26aba0440a44",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/7123/7123/7123-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/7123/7123/7123-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 20,
+                    "name": "Channel V",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=20&offset=0&size=20"
+                },
+                "seasonCnt": 4,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "14791": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Suvreen Guggal",
+                "categoryId": 14622,
+                "contentId": 14791,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1151&avsCategoryId=14622&contentId=14791&offset=0&size=20&tao=0&tas=5",
+                "id": 1151,
+                "description": "Suvreen, a small-town girl, comes to Delhi to make a big splash in the world of fashion. With new challenges, will Suvreen carve a new identity for herself?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Utsav",
+                "episodeCnt": 380,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8617/1378617-b-206e890636ca",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/4791/14791/14791-h",
+                    "i": "sources/r1/cms/prod/8616/1378616-i-b97765de30ee",
+                    "t": "sources/r1/cms/prod/8618/1378618-t-ad2fc5e896f4",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/4791/14791/14791-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8617/1378617-b-206e890636ca",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/4791/14791/14791-h",
+                        "i": "sources/r1/cms/prod/8616/1378616-i-b97765de30ee",
+                        "t": "sources/r1/cms/prod/8618/1378618-t-ad2fc5e896f4",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/4791/14791/14791-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8616/1378616-i-b97765de30ee",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8617/1378617-b-206e890636ca",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8618/1378618-t-ad2fc5e896f4",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/4791/14791/14791-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/4791/14791/14791-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 13,
+                    "name": "Star Utsav",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=13&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260010596"
+                ],
+                "seasonCnt": 6,
+                "yearLatestSeason": "2018",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260010596",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260015278": {
+                "imageAttributes": "script_lang=eng,logic=lang",
+                "title": "Hannah Montana",
+                "categoryId": 1260015278,
+                "contentId": 1260015278,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2443&avsCategoryId=1260015278&contentId=1260015278&offset=0&size=20&tao=0&tas=5",
+                "id": 2443,
+                "description": "Miley Stewart lives a double life as a famous pop singer named Hannah Montana and constantly tries to conceal her true identity from the public.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Teen",
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Teen's Choice Awards",
+                                "engValue": "Teen's Choice Awards"
+                            },
+                            {
+                                "value": "BAFTA Awards",
+                                "engValue": "BAFTA Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            },
+                            {
+                                "value": "Sitcom",
+                                "engValue": "Sitcom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Musicals",
+                                "engValue": "Musicals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Disney Fans",
+                                "engValue": "Disney Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "American",
+                                "engValue": "American"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 86,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/3827/673827-h",
+                    "i": "sources/r1/cms/prod/5071/795071-i",
+                    "v": "sources/r1/cms/prod/3828/673828-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/3827/673827-h",
+                        "i": "sources/r1/cms/prod/5071/795071-i",
+                        "v": "sources/r1/cms/prod/3828/673828-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3717/673717-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3718/673718-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8785/1378785-i-a90ba38167a4",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8786/1378786-b-8646bd1c424b",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8787/1378787-t-7e402e18d99c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "seasonCnt": 3,
+                "yearLatestSeason": "2010",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260018178": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "High School Musical 2",
+                "contentId": 1260018178,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=645957&contentId=1260018178&offset=0&size=20&tao=0&tas=5",
+                "id": 645957,
+                "description": "The East High Wildcats take centre stage at the Lava Springs Country Club, where Sharpay tries to lure Troy away from Gabriella and his friends.",
+                "duration": 6050,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Teen",
+                    "Kids",
+                    "Musical"
+                ],
+                "engGenre": [
+                    "Teen",
+                    "Kids",
+                    "Musical"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1585848600,
+                "endDate": 1704047340,
+                "year": 2007,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260018178",
+                "images": {
+                    "h": "sources/r1/cms/prod/5379/675379-h",
+                    "v": "sources/r1/cms/prod/5381/675381-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/5379/675379-h",
+                        "v": "sources/r1/cms/prod/5381/675381-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2065/1432065-i-0ce875777421",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2066/1432066-b-e006dcfdcc73",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2067/1432067-t-1e50678bb934",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4671/674671-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4676/674676-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 8,
+                "studioName": "Disney",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15052,
+                        "name": "Musical",
+                        "engName": "Musical",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15052&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "NO_COMPROMISE",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260019886"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260019886",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260020042",
+                        "playbackType": "INTERNAL",
+                        "orientation": "VERTICAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260018300": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "High School Musical",
+                "contentId": 1260018300,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=646279&contentId=1260018300&offset=0&size=20&tao=0&tas=5",
+                "id": 646279,
+                "description": "Troy and Gabriella share a passion for singing. When these two polar opposites try out for the school musical, it disturbs on East High's rigid social order.",
+                "duration": 5618,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Teen",
+                    "Musical",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Teen",
+                    "Musical",
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Hopeful",
+                                "engValue": "Hopeful"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Teen's Choice Awards",
+                                "engValue": "Teen's Choice Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            },
+                            {
+                                "value": "Young Adult",
+                                "engValue": "Young Adult"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Competition",
+                                "engValue": "Competition"
+                            },
+                            {
+                                "value": "Opposites Attract",
+                                "engValue": "Opposites Attract"
+                            },
+                            {
+                                "value": "Friendship",
+                                "engValue": "Friendship"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Musicals",
+                                "engValue": "Musicals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "College",
+                                "engValue": "College"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Franchise",
+                        "data": [
+                            {
+                                "value": "High School Musical series",
+                                "engValue": "High School Musical series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "International Hits",
+                                "engValue": "International Hits"
+                            },
+                            {
+                                "value": "Franchise",
+                                "engValue": "Franchise"
+                            },
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            },
+                            {
+                                "value": "Notable Soundtrack/Music",
+                                "engValue": "Notable Soundtrack/Music"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "American",
+                                "engValue": "American"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English",
+                    "Hindi"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1585848600,
+                "endDate": 1704047340,
+                "year": 2006,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260018300",
+                "images": {
+                    "h": "sources/r1/cms/prod/4875/674875-h",
+                    "v": "sources/r1/cms/prod/4883/674883-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/4875/674875-h",
+                        "v": "sources/r1/cms/prod/4883/674883-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4551/674551-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4553/674553-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8543/1368543-i-fa572592c2a4",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8544/1368544-b-95e571ee2ca5",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8546/1368546-t-cbe6d9392fee",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 339
+                    }
+                ],
+                "studioId": 8,
+                "studioName": "Disney",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 15052,
+                        "name": "Musical",
+                        "engName": "Musical",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15052&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "NO_COMPROMISE",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260019753"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260019753",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260018301": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "High School Musical 3: Senior Year",
+                "contentId": 1260018301,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=646282&contentId=1260018301&offset=0&size=20&tao=0&tas=5",
+                "id": 646282,
+                "description": "Troy and Gabriella joined by the rest of the Wildcats, stage an elaborate spring musical reflecting their experiences, hopes and fears about their future.",
+                "duration": 6402,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Teen",
+                    "Kids",
+                    "Musical"
+                ],
+                "engGenre": [
+                    "Teen",
+                    "Kids",
+                    "Musical"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1585848600,
+                "endDate": 1704047340,
+                "year": 2008,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260018301",
+                "images": {
+                    "h": "sources/r1/cms/prod/4893/674893-h",
+                    "i": "sources/r1/cms/prod/8877/808877-i",
+                    "t": "sources/r1/cms/prod/8878/808878-t",
+                    "v": "sources/r1/cms/prod/4903/674903-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/4893/674893-h",
+                        "i": "sources/r1/cms/prod/8877/808877-i",
+                        "t": "sources/r1/cms/prod/8878/808878-t",
+                        "v": "sources/r1/cms/prod/4903/674903-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1682/1371682-i-cebcf0acbeaa",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1683/1371683-b-1958abe61f04",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1684/1371684-t-cc959e50c8ab",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5511/675511-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5513/675513-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 8,
+                "studioName": "Disney",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15052,
+                        "name": "Musical",
+                        "engName": "Musical",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15052&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "NO_COMPROMISE",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260017681"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Suitable for all",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260017681",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260020118",
+                        "playbackType": "INTERNAL",
+                        "orientation": "VERTICAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260027571": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Sky High",
+                "contentId": 1260027571,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=693274&contentId=1260027571&offset=0&size=20&tao=0&tas=5",
+                "id": 693274,
+                "description": "William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.",
+                "duration": 5968,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Adventure",
+                    "Superhero",
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Adventure",
+                    "Superhero",
+                    "Teen"
+                ],
+                "lang": [
+                    "English",
+                    "Hindi"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1595010300,
+                "endDate": 1704047340,
+                "year": 2005,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260027571",
+                "images": {
+                    "b": "sources/r1/cms/prod/4174/1374174-b-ec8a20b831e4",
+                    "h": "sources/r1/cms/prod/8797/688797-h",
+                    "i": "sources/r1/cms/prod/4172/1374172-i-4a827165ac2d",
+                    "t": "sources/r1/cms/prod/4175/1374175-t-01aa02a2727b",
+                    "v": "sources/r1/cms/prod/8799/688799-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/4174/1374174-b-ec8a20b831e4",
+                        "h": "sources/r1/cms/prod/8797/688797-h",
+                        "i": "sources/r1/cms/prod/4172/1374172-i-4a827165ac2d",
+                        "t": "sources/r1/cms/prod/4175/1374175-t-01aa02a2727b",
+                        "v": "sources/r1/cms/prod/8799/688799-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4172/1374172-i-4a827165ac2d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4174/1374174-b-ec8a20b831e4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4175/1374175-t-01aa02a2727b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8797/688797-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8799/688799-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 8,
+                "studioName": "Disney",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": false,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15063,
+                        "name": "Adventure",
+                        "engName": "Adventure",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15063&offset=0&size=20"
+                    },
+                    {
+                        "id": 15048,
+                        "name": "Superhero",
+                        "engName": "Superhero",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15048&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "NO_COMPROMISE",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260027465"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "crisp": "Smoking Visuals",
+                "detail": "Smoking visuals",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260027465",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260061363": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Gumrah",
+                "categoryId": 1260061363,
+                "contentId": 1260061363,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3347&avsCategoryId=1260061363&contentId=1260061363&offset=0&size=20&tao=0&tas=5",
+                "id": 3347,
+                "description": "Based on real-life incidents, watch how young and vulnerable people are often led astray by harsh circumstances.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Crime",
+                    "Teen",
+                    "Shorts"
+                ],
+                "engGenre": [
+                    "Crime",
+                    "Teen",
+                    "Shorts"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Quix",
+                "episodeCnt": 15,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/955/1440955-b-697b3b114eeb",
+                    "h": "sources/r1/cms/prod/3165/1023165-h-1c59999e908c",
+                    "i": "sources/r1/cms/prod/954/1440954-i-71b8ef7f704c",
+                    "t": "sources/r1/cms/prod/956/1440956-t-613ddfc6446d",
+                    "v": "sources/r1/cms/prod/3166/1023166-v-dfa5af5252af"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/955/1440955-b-697b3b114eeb",
+                        "h": "sources/r1/cms/prod/3165/1023165-h-1c59999e908c",
+                        "i": "sources/r1/cms/prod/954/1440954-i-71b8ef7f704c",
+                        "t": "sources/r1/cms/prod/956/1440956-t-613ddfc6446d",
+                        "v": "sources/r1/cms/prod/3166/1023166-v-dfa5af5252af"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3165/1023165-h-1c59999e908c",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3166/1023166-v-dfa5af5252af",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/954/1440954-i-71b8ef7f704c",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/955/1440955-b-697b3b114eeb",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/956/1440956-t-613ddfc6446d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 10,
+                        "name": "Crime",
+                        "engName": "Crime",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 15060,
+                        "name": "Shorts",
+                        "engName": "Shorts",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15060&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 81,
+                    "name": "Quix",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=81&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260061372"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260061372",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260061366": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kota Toppers",
+                "categoryId": 1260061366,
+                "contentId": 1260061366,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3348&avsCategoryId=1260061366&contentId=1260061366&offset=0&size=20&tao=0&tas=5",
+                "id": 3348,
+                "description": "Set against the backdrop of the high-pressure world of competitive engineering exams, follow the misadventures of six frenemies!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Teen",
+                    "Shorts"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Teen",
+                    "Shorts"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            },
+                            {
+                                "value": "Nostalgia",
+                                "engValue": "Nostalgia"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Teen",
+                                "engValue": "Teen"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Comedy Fans",
+                                "engValue": "For Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Quix",
+                "episodeCnt": 10,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1431/1441431-b-4b29c43827db",
+                    "h": "sources/r1/cms/prod/661/1020661-h-db6d8750317c",
+                    "i": "sources/r1/cms/prod/1430/1441430-i-fbb38694ecb9",
+                    "t": "sources/r1/cms/prod/1432/1441432-t-493ada1f04a6",
+                    "v": "sources/r1/cms/prod/664/1020664-v-6d839177aff9"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1431/1441431-b-4b29c43827db",
+                        "h": "sources/r1/cms/prod/661/1020661-h-db6d8750317c",
+                        "i": "sources/r1/cms/prod/1430/1441430-i-fbb38694ecb9",
+                        "t": "sources/r1/cms/prod/1432/1441432-t-493ada1f04a6",
+                        "v": "sources/r1/cms/prod/664/1020664-v-6d839177aff9"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1430/1441430-i-fbb38694ecb9",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1431/1441431-b-4b29c43827db",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1432/1441432-t-493ada1f04a6",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/661/1020661-h-db6d8750317c",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/664/1020664-v-6d839177aff9",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 15060,
+                        "name": "Shorts",
+                        "engName": "Shorts",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15060&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 81,
+                    "name": "Quix",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=81&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260061373"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260061373",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260066788": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Best of Luck Nikki",
+                "categoryId": 1260066788,
+                "contentId": 1260066788,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3464&avsCategoryId=1260066788&contentId=1260066788&offset=0&size=20&tao=0&tas=5",
+                "id": 3464,
+                "description": "Dolly creates a video diary about their family and friends containing advice for Nikki when she grows up.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Teen",
+                    "Comedy",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Teen",
+                    "Comedy",
+                    "Kids"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 52,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                    "h": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                    "i": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                    "t": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                    "v": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                        "h": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                        "i": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                        "t": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                        "v": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260069486"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260069486",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260097087": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kana Kaanum Kaalangal",
+                "categoryId": 1260097087,
+                "contentId": 1260097087,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3870&avsCategoryId=1260097087&contentId=1260097087&offset=0&size=20&tao=0&tas=5",
+                "id": 3870,
+                "description": "A conventional school reopens after a long break, only to face various problems within the premises. Now, the students must join hands to save their school.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Teen",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Teen",
+                    "Drama"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 132,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/9724/1429724-b-5082015c6647",
+                    "h": "sources/r1/cms/prod/9704/1429704-h-613a0f603917",
+                    "i": "sources/r1/cms/prod/9723/1429723-i-35c23d33635b",
+                    "t": "sources/r1/cms/prod/9722/1429722-t-f9470c35261c",
+                    "v": "sources/r1/cms/prod/9705/1429705-v-7eb379aca7de"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9724/1429724-b-5082015c6647",
+                        "h": "sources/r1/cms/prod/9704/1429704-h-613a0f603917",
+                        "i": "sources/r1/cms/prod/9723/1429723-i-35c23d33635b",
+                        "t": "sources/r1/cms/prod/9722/1429722-t-f9470c35261c",
+                        "v": "sources/r1/cms/prod/9705/1429705-v-7eb379aca7de"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9704/1429704-h-613a0f603917",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9705/1429705-v-7eb379aca7de",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9722/1429722-t-f9470c35261c",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 398
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9723/1429723-i-35c23d33635b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9724/1429724-b-5082015c6647",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Novi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260098480"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260098480",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260101744": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kya Mast Hai Life",
+                "categoryId": 1260101744,
+                "contentId": 1260101744,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3938&avsCategoryId=1260101744&contentId=1260101744&offset=0&size=20&tao=0&tas=5",
+                "id": 3938,
+                "description": "Follow the comical daily lives of five college friends who have fun and enjoy their journey of life at Redfield Academy.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Teen"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Teen"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 104,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/554/1440554-b-f5a21500638c",
+                    "h": "sources/r1/cms/prod/4331/1264331-h-056c9d994405",
+                    "i": "sources/r1/cms/prod/553/1440553-i-ac4fb2903a69",
+                    "t": "sources/r1/cms/prod/555/1440555-t-bc5654301e30",
+                    "v": "sources/r1/cms/prod/4332/1264332-v-31722678c91a"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/554/1440554-b-f5a21500638c",
+                        "h": "sources/r1/cms/prod/4331/1264331-h-056c9d994405",
+                        "i": "sources/r1/cms/prod/553/1440553-i-ac4fb2903a69",
+                        "t": "sources/r1/cms/prod/555/1440555-t-bc5654301e30",
+                        "v": "sources/r1/cms/prod/4332/1264332-v-31722678c91a"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4331/1264331-h-056c9d994405",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4332/1264332-v-31722678c91a",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/553/1440553-i-ac4fb2903a69",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/554/1440554-b-f5a21500638c",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/555/1440555-t-bc5654301e30",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260103063"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2009",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260103063",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=Teen&offset=tam%2C2%2Chin%2C18%2Ceng%2C1%2Ctel%2C1&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

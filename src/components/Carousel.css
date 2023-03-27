@@ -1,0 +1,37 @@
+.des{
+    font-size: 16px;
+    padding-top: 10px;
+    color: rgb(255 255 255 / 80%);
+    overflow-wrap: break-word;
+    overflow: hidden;
+    line-height: 28px;
+    width: 110%;
+    
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    text-overflow: ellipsis;
+  }
+  .cato{
+    font-size: 16px;
+      font-weight: 500;
+      color: rgb(255 255 255 / 60%);
+  }
+  .gradient{
+    background: linear-gradient(to right, #030b17, rgba(0,0,0,0));
+    /* background-color: red; */
+    width: 70px;
+    height: 74.8%;
+    position: absolute;
+    left: 33%;
+  }  
+.arrows{
+    background: transparent;
+    color:none;
+    border: none;
+    transition: transform 350ms;
+}
+.highlightArrows:hover button{
+    transform: scale(1.2);
+    color: white;
+  }

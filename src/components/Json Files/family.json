@@ -1,0 +1,3925 @@
+{
+    "data": {
+        "itemids": [
+            "1260053090",
+            "1260132522",
+            "1260131146",
+            "693",
+            "1260000603",
+            "9567",
+            "1260124584",
+            "1260129377",
+            "527",
+            "655",
+            "1260075978",
+            "1260115914",
+            "18198",
+            "1260015299",
+            "1260066571",
+            "8414",
+            "1260066788",
+            "1260056624",
+            "467",
+            "316"
+        ],
+        "items": {
+            "316": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Veera",
+                "categoryId": 315,
+                "contentId": 316,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=21&avsCategoryId=315&contentId=316&offset=0&size=20&tao=0&tas=5",
+                "id": 21,
+                "description": "Can a brother be a mother too? Meet Ranvijay, Veera’s brother who shares an unbreakable bond with her and nurtures her like a mother would.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Lovesick",
+                                "engValue": "Lovesick"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Sad",
+                                "engValue": "Sad"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Punjab",
+                                "engValue": "Punjab"
+                            },
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            },
+                            {
+                                "value": "Delhi",
+                                "engValue": "Delhi"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 804,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9381/1379381-b-8350776b9cd6",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/316/316/316-h",
+                    "i": "sources/r1/cms/prod/9380/1379380-i-c0dd17fe84c6",
+                    "t": "sources/r1/cms/prod/9382/1379382-t-d406c0f85cdc",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/316/316/316-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9381/1379381-b-8350776b9cd6",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/316/316/316-h",
+                        "i": "sources/r1/cms/prod/9380/1379380-i-c0dd17fe84c6",
+                        "t": "sources/r1/cms/prod/9382/1379382-t-d406c0f85cdc",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/316/316/316-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9380/1379380-i-c0dd17fe84c6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9381/1379381-b-8350776b9cd6",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9382/1379382-t-d406c0f85cdc",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/316/316/316-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/316/316/316-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000227616"
+                ],
+                "seasonCnt": 29,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227616",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "467": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Sasural Genda Phool",
+                "categoryId": 464,
+                "contentId": 467,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=38&avsCategoryId=464&contentId=467&offset=0&size=20&tao=0&tas=5",
+                "id": 38,
+                "description": "Chalk and cheese in most respects, Suhana and Ishaan unite in an arranged marriage and grow in love. But is love enough to survive in a joint family?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Exhilarating",
+                                "engValue": "Exhilarating"
+                            },
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Delhi",
+                                "engValue": "Delhi"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 573,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7445/1377445-b-cb0998c36a63",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/467/467/467-h",
+                    "i": "sources/r1/cms/prod/7444/1377444-i-901a719cb20b",
+                    "t": "sources/r1/cms/prod/7446/1377446-t-1609e6d8280b",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/467/467/467-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7445/1377445-b-cb0998c36a63",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/467/467/467-h",
+                        "i": "sources/r1/cms/prod/7444/1377444-i-901a719cb20b",
+                        "t": "sources/r1/cms/prod/7446/1377446-t-1609e6d8280b",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/467/467/467-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7444/1377444-i-901a719cb20b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7445/1377445-b-cb0998c36a63",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7446/1377446-t-1609e6d8280b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/467/467/467-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/467/467/467-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000227617"
+                ],
+                "seasonCnt": 19,
+                "yearLatestSeason": "2012",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227617",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "527": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ek Hazaaron Mein",
+                "categoryId": 526,
+                "contentId": 527,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=37&avsCategoryId=526&contentId=527&offset=0&size=20&tao=0&tas=5",
+                "id": 37,
+                "description": "Sisters Maanvi and Jeevika can go to any lengths for each other. Follow the sisters’ journey as they stand by each other and find their soulmates.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            },
+                            {
+                                "value": "Kalakar Awards",
+                                "engValue": "Kalakar Awards"
+                            },
+                            {
+                                "value": "Gold Awards",
+                                "engValue": "Gold Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Punjab",
+                                "engValue": "Punjab"
+                            },
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 515,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7127/1417127-b-dd695eb84c73",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/527/527/527-h",
+                    "i": "sources/r1/cms/prod/7126/1417126-i-e9941dae5f2d",
+                    "t": "sources/r1/cms/prod/7128/1417128-t-6506e3e6484a",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/527/527/527-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7127/1417127-b-dd695eb84c73",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/527/527/527-h",
+                        "i": "sources/r1/cms/prod/7126/1417126-i-e9941dae5f2d",
+                        "t": "sources/r1/cms/prod/7128/1417128-t-6506e3e6484a",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/527/527/527-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7126/1417126-i-e9941dae5f2d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7127/1417127-b-dd695eb84c73",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7128/1417128-t-6506e3e6484a",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 361
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/527/527/527-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/527/527/527-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000227613"
+                ],
+                "seasonCnt": 14,
+                "yearLatestSeason": "2013",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227613",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "655": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Kyunki Saas",
+                "categoryId": 656,
+                "contentId": 655,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=48&avsCategoryId=656&contentId=655&offset=0&size=20&tao=0&tas=5",
+                "id": 48,
+                "description": "Tulsi Virani sets the example of an ideal bahu, and in time steps up to be a righteous matriarch. Watch her traverse the intricacies of a large family.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heartfelt",
+                                "engValue": "Heartfelt"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Conspiracy",
+                                "engValue": "Conspiracy"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Reunions",
+                                "engValue": "Reunions"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            },
+                            {
+                                "value": "Slice of Life",
+                                "engValue": "Slice of Life"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Gujarat",
+                                "engValue": "Gujarat"
+                            },
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 1833,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/641/1390641-b-9a464eed5d80",
+                    "h": "sources/r1/cms/prod/4256/1364256-h-94cb208546a5",
+                    "i": "sources/r1/cms/prod/640/1390640-i-ebb0185f5010",
+                    "t": "sources/r1/cms/prod/642/1390642-t-6060ce51d6bb",
+                    "v": "sources/r1/cms/prod/4257/1364257-v-dbdb05c112f0"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/641/1390641-b-9a464eed5d80",
+                        "h": "sources/r1/cms/prod/4256/1364256-h-94cb208546a5",
+                        "i": "sources/r1/cms/prod/640/1390640-i-ebb0185f5010",
+                        "t": "sources/r1/cms/prod/642/1390642-t-6060ce51d6bb",
+                        "v": "sources/r1/cms/prod/4257/1364257-v-dbdb05c112f0"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4256/1364256-h-94cb208546a5",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4257/1364257-v-dbdb05c112f0",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/640/1390640-i-ebb0185f5010",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/641/1390641-b-9a464eed5d80",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/642/1390642-t-6060ce51d6bb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "seasonCnt": 38,
+                "yearLatestSeason": "2008",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "693": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Saathiya 2",
+                "categoryId": 694,
+                "contentId": 693,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=49&avsCategoryId=694&contentId=693&offset=0&size=20&tao=0&tas=5",
+                "id": 49,
+                "description": "A few years after Anant's death, Gehna has completely turned her life around. In this new journey, will she finally find her perfect partner?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Reboots & Remakes",
+                                "engValue": "Reboots & Remakes"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Tough Gals",
+                                "engValue": "Tough Gals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Show",
+                                "engValue": "Show"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Gujarat",
+                                "engValue": "Gujarat"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 2732,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9434/1379434-b-3a0b01e1bdd3",
+                    "h": "sources/r1/cms/prod/4274/1364274-h-ae72f8d2218e",
+                    "i": "sources/r1/cms/prod/9433/1379433-i-72e61f2396bf",
+                    "t": "sources/r1/cms/prod/9435/1379435-t-ab7ed531d997",
+                    "v": "sources/r1/cms/prod/4275/1364275-v-228803576b85"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9434/1379434-b-3a0b01e1bdd3",
+                        "h": "sources/r1/cms/prod/4274/1364274-h-ae72f8d2218e",
+                        "i": "sources/r1/cms/prod/9433/1379433-i-72e61f2396bf",
+                        "t": "sources/r1/cms/prod/9435/1379435-t-ab7ed531d997",
+                        "v": "sources/r1/cms/prod/4275/1364275-v-228803576b85"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4274/1364274-h-ae72f8d2218e",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4275/1364275-v-228803576b85",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9433/1379433-i-72e61f2396bf",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9434/1379434-b-3a0b01e1bdd3",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9435/1379435-t-ab7ed531d997",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260073379"
+                ],
+                "seasonCnt": 3,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260073379",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "8414": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Sapna Babul Ka... Bidaai",
+                "categoryId": 8304,
+                "contentId": 8414,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=553&avsCategoryId=8304&contentId=8414&offset=0&size=20&tao=0&tas=5",
+                "id": 553,
+                "description": "A story of two sisters, Sadhana and Ragini. Though not related by blood, they share an unbreakable bond that is tested time and again!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heartfelt",
+                                "engValue": "Heartfelt"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Tragedy",
+                                "engValue": "Tragedy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Social Issue",
+                                "engValue": "Social Issue"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Social Issues",
+                                "engValue": "Social Issues"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Uttar Pradesh",
+                                "engValue": "Uttar Pradesh"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 739,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/627/1390627-b-35e0e60f1cfd",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/8414/8414/8414-h",
+                    "i": "sources/r1/cms/prod/626/1390626-i-c8eb440bba6f",
+                    "t": "sources/r1/cms/prod/628/1390628-t-3733de04d4e3",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/8414/8414/8414-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/627/1390627-b-35e0e60f1cfd",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/8414/8414/8414-h",
+                        "i": "sources/r1/cms/prod/626/1390626-i-c8eb440bba6f",
+                        "t": "sources/r1/cms/prod/628/1390628-t-3733de04d4e3",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/8414/8414/8414-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/626/1390626-i-c8eb440bba6f",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/627/1390627-b-35e0e60f1cfd",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/628/1390628-t-3733de04d4e3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/8414/8414/8414-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/8414/8414/8414-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000241656"
+                ],
+                "seasonCnt": 11,
+                "yearLatestSeason": "2010",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000241656",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "9567": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ishqbaaz",
+                "categoryId": 9449,
+                "contentId": 9567,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=631&avsCategoryId=9449&contentId=9567&offset=0&size=20&tao=0&tas=5",
+                "id": 631,
+                "description": "Brothers Shivaay, Omkara and Rudra share an unbreakable bond despite their dysfunctional family. What happens when cupid strikes each of them?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heartfelt",
+                                "engValue": "Heartfelt"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "RomCom",
+                                "engValue": "RomCom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 758,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8559/1378559-b-7c623e5b7ef0",
+                    "h": "sources/r1/cms/prod/6841/336841-h",
+                    "i": "sources/r1/cms/prod/8558/1378558-i-33e318b92766",
+                    "m": "sources/r1/cms/prod/6843/336843-m",
+                    "t": "sources/r1/cms/prod/8560/1378560-t-8f5adb3e6bcb",
+                    "v": "sources/r1/cms/prod/6842/336842-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8559/1378559-b-7c623e5b7ef0",
+                        "h": "sources/r1/cms/prod/6841/336841-h",
+                        "i": "sources/r1/cms/prod/8558/1378558-i-33e318b92766",
+                        "m": "sources/r1/cms/prod/6843/336843-m",
+                        "t": "sources/r1/cms/prod/8560/1378560-t-8f5adb3e6bcb",
+                        "v": "sources/r1/cms/prod/6842/336842-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6841/336841-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6842/336842-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6843/336843-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8558/1378558-i-33e318b92766",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8559/1378559-b-7c623e5b7ef0",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8560/1378560-t-8f5adb3e6bcb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000184781"
+                ],
+                "seasonCnt": 13,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000184781",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "18198": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Eeramaana Rojaavey",
+                "categoryId": 18007,
+                "contentId": 18198,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1544&avsCategoryId=18007&contentId=18198&offset=0&size=20&tao=0&tas=5",
+                "id": 1544,
+                "description": "TODAY'S EP IS DELAYED. Kavya and Jeeva's love story takes a hit when destiny forces them to marry each other's elder siblings. How will these complicated relationships work?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            },
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Romance",
+                                "engValue": "Romance"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Common-Man Struggles",
+                                "engValue": "Common-Man Struggles"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in a Village",
+                                "engValue": "Set in a Village"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 1123,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/6085/1416085-b-036efff40b58",
+                    "h": "sources/r1/cms/prod/6080/1416080-h-f48209200fbc",
+                    "i": "sources/r1/cms/prod/6084/1416084-i-976ebcee0cc4",
+                    "m": "sources/r1/cms/prod/2610/382610-m",
+                    "t": "sources/r1/cms/prod/6083/1416083-t-e17459cb6e63",
+                    "v": "sources/r1/cms/prod/8091/1438091-v-58dc2103dafd"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6085/1416085-b-036efff40b58",
+                        "h": "sources/r1/cms/prod/6080/1416080-h-f48209200fbc",
+                        "i": "sources/r1/cms/prod/6084/1416084-i-976ebcee0cc4",
+                        "m": "sources/r1/cms/prod/2610/382610-m",
+                        "t": "sources/r1/cms/prod/6083/1416083-t-e17459cb6e63",
+                        "v": "sources/r1/cms/prod/8091/1438091-v-58dc2103dafd"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2610/382610-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6080/1416080-h-f48209200fbc",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6083/1416083-t-e17459cb6e63",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 132,
+                        "width": 1080
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6084/1416084-i-976ebcee0cc4",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6085/1416085-b-036efff40b58",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8091/1438091-v-58dc2103dafd",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260132529"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132529",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260000603": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Pandian Stores",
+                "categoryId": 1260000603,
+                "contentId": 1260000603,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1683&avsCategoryId=1260000603&contentId=1260000603&offset=0&size=20&tao=0&tas=5",
+                "id": 1683,
+                "description": "Sathyamoorthy and his wife Dhanalakshmi sacrifice a lot to raise his brothers Kathir, Jeeva and Kannan. Will things change when the brothers get married?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            },
+                            {
+                                "value": "Romance",
+                                "engValue": "Romance"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Bromance",
+                                "engValue": "Bromance"
+                            },
+                            {
+                                "value": "Common-Man Struggles",
+                                "engValue": "Common-Man Struggles"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Parenthood",
+                                "engValue": "Parenthood"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            },
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 1162,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/6116/1416116-b-e2884b31bf36",
+                    "h": "sources/r1/cms/prod/6112/1416112-h-da3fd9e26d77",
+                    "i": "sources/r1/cms/prod/6115/1416115-i-17c10a4dc8cf",
+                    "m": "sources/r1/cms/prod/1663/371663-m",
+                    "t": "sources/r1/cms/prod/6114/1416114-t-d664214cf72c",
+                    "v": "sources/r1/cms/prod/6113/1416113-v-5e243ba7904f"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6116/1416116-b-e2884b31bf36",
+                        "h": "sources/r1/cms/prod/6112/1416112-h-da3fd9e26d77",
+                        "i": "sources/r1/cms/prod/6115/1416115-i-17c10a4dc8cf",
+                        "m": "sources/r1/cms/prod/1663/371663-m",
+                        "t": "sources/r1/cms/prod/6114/1416114-t-d664214cf72c",
+                        "v": "sources/r1/cms/prod/6113/1416113-v-5e243ba7904f"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1663/371663-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6112/1416112-h-da3fd9e26d77",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6113/1416113-v-5e243ba7904f",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6114/1416114-t-d664214cf72c",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 114,
+                        "width": 1080
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6115/1416115-i-17c10a4dc8cf",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6116/1416116-b-e2884b31bf36",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260133661",
+                    "1260129599"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260133661",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260015299": {
+                "imageAttributes": "script_lang=eng,logic=lang",
+                "title": "Phineas and Ferb",
+                "categoryId": 1260015299,
+                "contentId": 1260015299,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2452&avsCategoryId=1260015299&contentId=1260015299&offset=0&size=20&tao=0&tas=5",
+                "id": 2452,
+                "description": "Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Kids",
+                    "Animation"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Kids",
+                    "Animation"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Nostalgia",
+                                "engValue": "Nostalgia"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Emmy Winning",
+                                "engValue": "Emmy Winning"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            },
+                            {
+                                "value": "International Hits",
+                                "engValue": "International Hits"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Fantasy",
+                                "engValue": "Fantasy"
+                            },
+                            {
+                                "value": "Mystery",
+                                "engValue": "Mystery"
+                            },
+                            {
+                                "value": "Spy",
+                                "engValue": "Spy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Childhood",
+                                "engValue": "Childhood"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            },
+                            {
+                                "value": "Space Travel",
+                                "engValue": "Space Travel"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Fantasyland",
+                                "engValue": "Fantasyland"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Animation Fans",
+                                "engValue": "Animation Fans"
+                            },
+                            {
+                                "value": "Action Fans",
+                                "engValue": "Action Fans"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Science Nerds",
+                                "engValue": "For Science Nerds"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "American",
+                                "engValue": "American"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 136,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/3843/673843-h",
+                    "i": "sources/r1/cms/prod/5081/795081-i",
+                    "v": "sources/r1/cms/prod/3844/673844-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/3843/673843-h",
+                        "i": "sources/r1/cms/prod/5081/795081-i",
+                        "v": "sources/r1/cms/prod/3844/673844-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3727/673727-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3728/673728-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8810/1378810-i-d129030a013a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8811/1378811-b-2c3bee0fea28",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8812/1378812-t-7173fdabb919",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15061,
+                        "name": "Animation",
+                        "engName": "Animation",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15061&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2015",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260053090": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Pandya Store",
+                "categoryId": 1260053090,
+                "contentId": 1260053090,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3212&avsCategoryId=1260053090&contentId=1260053090&offset=0&size=20&tao=0&tas=5",
+                "id": 3212,
+                "description": "Gautam and Dhara sacrifice a lot to raise his brothers Dev, Shiva and Krish while managing the shop. Will things change once the brothers get married?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Drama"
+                ],
+                "genome": [
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Reboots & Remakes",
+                                "engValue": "Reboots & Remakes"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2020s",
+                                "engValue": "From the 2020s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Common-Man Struggles",
+                                "engValue": "Common-Man Struggles"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Gujarat",
+                                "engValue": "Gujarat"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 706,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3759/1413759-b-a1f9c58f8428",
+                    "h": "sources/r1/cms/prod/4258/1364258-h-33316428e498",
+                    "i": "sources/r1/cms/prod/3758/1413758-i-c051c9981507",
+                    "t": "sources/r1/cms/prod/3760/1413760-t-13506b26a722",
+                    "v": "sources/r1/cms/prod/4259/1364259-v-fe5f361f4eae"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3759/1413759-b-a1f9c58f8428",
+                        "h": "sources/r1/cms/prod/4258/1364258-h-33316428e498",
+                        "i": "sources/r1/cms/prod/3758/1413758-i-c051c9981507",
+                        "t": "sources/r1/cms/prod/3760/1413760-t-13506b26a722",
+                        "v": "sources/r1/cms/prod/4259/1364259-v-fe5f361f4eae"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3758/1413758-i-c051c9981507",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3759/1413759-b-a1f9c58f8428",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3760/1413760-t-13506b26a722",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4258/1364258-h-33316428e498",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4259/1364259-v-fe5f361f4eae",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260132812"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132812",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260056624": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Janaki Kalaganaledu",
+                "categoryId": 1260056624,
+                "contentId": 1260056624,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3268&avsCategoryId=1260056624&contentId=1260056624&offset=0&size=20&tao=0&tas=5",
+                "id": 3268,
+                "description": "Putting her IPS hopes aside, Janaki marries Rama Chandra, a confectioner from a traditional family. Will Rama defy his mother and help Janaki fulfil her dreams?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family"
+                ],
+                "engGenre": [
+                    "Family"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Reboots & Remakes",
+                                "engValue": "Reboots & Remakes"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Romance",
+                                "engValue": "Romance"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Common-Man Struggles",
+                                "engValue": "Common-Man Struggles"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Parenthood",
+                                "engValue": "Parenthood"
+                            },
+                            {
+                                "value": "Self-discovery",
+                                "engValue": "Self-discovery"
+                            },
+                            {
+                                "value": "Tough Gals",
+                                "engValue": "Tough Gals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Contemporary India",
+                                "engValue": "Contemporary India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 535,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/408/1440408-b-0272aeede459",
+                    "h": "sources/r1/cms/prod/7244/937244-h",
+                    "i": "sources/r1/cms/prod/407/1440407-i-b1cce131d86f",
+                    "t": "sources/r1/cms/prod/409/1440409-t-6b6fa198e1cc",
+                    "v": "sources/r1/cms/prod/7245/937245-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/408/1440408-b-0272aeede459",
+                        "h": "sources/r1/cms/prod/7244/937244-h",
+                        "i": "sources/r1/cms/prod/407/1440407-i-b1cce131d86f",
+                        "t": "sources/r1/cms/prod/409/1440409-t-6b6fa198e1cc",
+                        "v": "sources/r1/cms/prod/7245/937245-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/407/1440407-i-b1cce131d86f",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/408/1440408-b-0272aeede459",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/409/1440409-t-6b6fa198e1cc",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7244/937244-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7245/937245-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star MAA",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260130173"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260130173",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260066571": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Tera Mera Saath Rahe",
+                "categoryId": 1260066571,
+                "contentId": 1260066571,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3460&avsCategoryId=1260066571&contentId=1260066571&offset=0&size=20&tao=0&tas=5",
+                "id": 3460,
+                "description": "Talented but timid Gopika fails to match up to her husband's expectations. When she finds a mentor in her mother-in-law, Meethila, things take a turn.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Family"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 220,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1034/1441034-b-b97bba431594",
+                    "h": "sources/r1/cms/prod/8857/1058857-h-69906000acd9",
+                    "i": "sources/r1/cms/prod/1033/1441033-i-94820f048bb0",
+                    "t": "sources/r1/cms/prod/1035/1441035-t-adc192cd04cb",
+                    "v": "sources/r1/cms/prod/8858/1058858-v-ce3304123423"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1034/1441034-b-b97bba431594",
+                        "h": "sources/r1/cms/prod/8857/1058857-h-69906000acd9",
+                        "i": "sources/r1/cms/prod/1033/1441033-i-94820f048bb0",
+                        "t": "sources/r1/cms/prod/1035/1441035-t-adc192cd04cb",
+                        "v": "sources/r1/cms/prod/8858/1058858-v-ce3304123423"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1033/1441033-i-94820f048bb0",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1034/1441034-b-b97bba431594",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1035/1441035-t-adc192cd04cb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8857/1058857-h-69906000acd9",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8858/1058858-v-ce3304123423",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260066478"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260066478",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260066788": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Best of Luck Nikki",
+                "categoryId": 1260066788,
+                "contentId": 1260066788,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3464&avsCategoryId=1260066788&contentId=1260066788&offset=0&size=20&tao=0&tas=5",
+                "id": 3464,
+                "description": "Dolly creates a video diary about their family and friends containing advice for Nikki when she grows up.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Teen",
+                    "Comedy",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Teen",
+                    "Comedy",
+                    "Kids"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 52,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                    "h": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                    "i": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                    "t": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                    "v": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                        "h": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                        "i": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                        "t": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                        "v": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260069486"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260069486",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260075978": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Gaatchora",
+                "categoryId": 1260075978,
+                "contentId": 1260075978,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3684&avsCategoryId=1260075978&contentId=1260075978&offset=0&size=20&tao=0&tas=5",
+                "id": 3684,
+                "description": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made in heaven?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Romance",
+                    "Family",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Romance",
+                    "Family",
+                    "Drama"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "channelName": "Star Jalsha",
+                "episodeCnt": 458,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1530/1441530-b-473532048121",
+                    "h": "sources/r1/cms/prod/4334/1104334-h-8bb76d339d2e",
+                    "i": "sources/r1/cms/prod/1529/1441529-i-d6d9f8dba3f1",
+                    "t": "sources/r1/cms/prod/1531/1441531-t-f29ed25a31d9",
+                    "v": "sources/r1/cms/prod/4335/1104335-v-6cd8d08e03da"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1530/1441530-b-473532048121",
+                        "h": "sources/r1/cms/prod/4334/1104334-h-8bb76d339d2e",
+                        "i": "sources/r1/cms/prod/1529/1441529-i-d6d9f8dba3f1",
+                        "t": "sources/r1/cms/prod/1531/1441531-t-f29ed25a31d9",
+                        "v": "sources/r1/cms/prod/4335/1104335-v-6cd8d08e03da"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1529/1441529-i-d6d9f8dba3f1",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1530/1441530-b-473532048121",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1531/1441531-t-f29ed25a31d9",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4334/1104334-h-8bb76d339d2e",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4335/1104335-v-6cd8d08e03da",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Jalsha",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 7,
+                    "name": "Star Jalsha",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=7&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260128162"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260128162",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 2,
+                    "name": "Bengali",
+                    "iso3code": "ben",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                }
+            },
+            "1260115914": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_trailerposter,logic=lang",
+                "title": "Karm Yuddh",
+                "categoryId": 1260115914,
+                "contentId": 1260115914,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4211&avsCategoryId=1260115914&contentId=1260115914&offset=0&size=20&tao=0&tas=5",
+                "id": 4211,
+                "description": "A deadly fire accident at the Roy Group of Industries brings Bhisham Roy under the scanner, inciting a power grab where it's blood versus blood.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu",
+                    "Kannada",
+                    "Bengali",
+                    "Malayalam",
+                    "Marathi"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 8,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/4633/1364633-h-f78a196931d6",
+                    "v": "sources/r1/cms/prod/4634/1364634-v-5e1089cdbaca"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/4633/1364633-h-f78a196931d6",
+                        "v": "sources/r1/cms/prod/4634/1364634-v-5e1089cdbaca"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3454/1363454-h-68ab979bd3a3",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3455/1363455-v-1ca8ce6d697d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5164/1405164-i-64057bc3028d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5165/1405165-b-b5f88523fbd4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5166/1405166-t-d9577563cbfa",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Novi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 7,
+                        "name": "Kannada",
+                        "iso3code": "kan",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260117074"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260117074",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260124584": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Jaya Jaya Jaya Jaya Hey",
+                "contentId": 1260124584,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1042838&contentId=1260124584&offset=0&size=20&tao=0&tas=5",
+                "id": 1042838,
+                "description": "Being brought up in a conservative family, Jaya feels even more trapped when she marries Rajesh, a male chauvinist. How will she break free from these shackles?",
+                "duration": 8634,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Comedy",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Family"
+                ],
+                "lang": [
+                    "Malayalam",
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1671647400,
+                "endDate": 4102424999,
+                "year": 2022,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260124584",
+                "images": {
+                    "h": "sources/r1/cms/prod/6478/1436478-h-6c580540defd",
+                    "v": "sources/r1/cms/prod/6479/1436479-v-3bd70e9e2b4d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/6478/1436478-h-6c580540defd",
+                        "v": "sources/r1/cms/prod/6479/1436479-v-3bd70e9e2b4d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/178/1440178-t-a9daf84e1948",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 618
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6474/1436474-h-f7dd170ff868",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6475/1436475-v-3b7f779b3476",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6485/1436485-i-2fa441db769a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6486/1436486-b-2cea695ab316",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 422,
+                "studioName": "CHEERS MEDIA & ENTERTAINMENT",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260126753"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Coarse Language, Some Violence, Some Mature Content, Action Sequences",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260126753",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false
+            },
+            "1260129377": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Brahma Mudi",
+                "categoryId": 1260129377,
+                "contentId": 1260129377,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4369&avsCategoryId=1260129377&contentId=1260129377&offset=0&size=20&tao=0&tas=5",
+                "id": 4369,
+                "description": "TODAY'S EP IS DELAYED. The lives of Kavya and her sisters change forever as they cross paths with the Duggiraala brothers. As fate brings them closer, what's in store for them?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Romance"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 52,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3710/1453710-b-b973e5864a81",
+                    "h": "sources/r1/cms/prod/3706/1453706-h-86fa63b34163",
+                    "i": "sources/r1/cms/prod/3709/1453709-i-16ba63a20553",
+                    "t": "sources/r1/cms/prod/3708/1453708-t-f41bacd26e6d",
+                    "v": "sources/r1/cms/prod/3707/1453707-v-fdc6e80f4659"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3710/1453710-b-b973e5864a81",
+                        "h": "sources/r1/cms/prod/3706/1453706-h-86fa63b34163",
+                        "i": "sources/r1/cms/prod/3709/1453709-i-16ba63a20553",
+                        "t": "sources/r1/cms/prod/3708/1453708-t-f41bacd26e6d",
+                        "v": "sources/r1/cms/prod/3707/1453707-v-fdc6e80f4659"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3706/1453706-h-86fa63b34163",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3707/1453707-v-fdc6e80f4659",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3708/1453708-t-f41bacd26e6d",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 685
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3709/1453709-i-16ba63a20553",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3710/1453710-b-b973e5864a81",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star MAA",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260131146": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_manojsharmilaholi,logic=lang",
+                "title": "Gulmohar",
+                "contentId": 1260131146,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1057574&contentId=1260131146&offset=0&size=20&tao=0&tas=5",
+                "id": 1057574,
+                "description": "Batra family has just four days left to vacate their house of 34 years. Amidst the mayhem, uncertainties of the future, insecurities and secrets surface.",
+                "duration": 7895,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Family",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": false,
+                "startDate": 1677781800,
+                "endDate": 4102424940,
+                "year": 2023,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260131146",
+                "images": {
+                    "h": "sources/r1/cms/prod/9596/1479596-h-74e0155914d1",
+                    "v": "sources/r1/cms/prod/9597/1479597-v-94890e33d5d2"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/9596/1479596-h-74e0155914d1",
+                        "v": "sources/r1/cms/prod/9597/1479597-v-94890e33d5d2"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8738/1478738-h-ee37a1a05641",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8739/1478739-v-4b473ba61414",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8741/1478741-t-f86fcb492514",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 1029
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8742/1478742-i-03dfaf5cb374",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8743/1478743-b-e3bb385105ac",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 308,
+                "studioName": "Star India Private Limited",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260132552",
+                    "1260132560"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Coarse Language, Some Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132552",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260132560",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260132522": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Chashni",
+                "categoryId": 1260132522,
+                "contentId": 1260132522,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4411&avsCategoryId=1260132522&contentId=1260132522&offset=0&size=20&tao=0&tas=5",
+                "id": 4411,
+                "description": "As different as chalk and cheese, Chandni and Roshni grow up as inseparable sisters. What happens when a tragedy sours their relationship?",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Drama",
+                    "Family"
+                ],
+                "engGenre": [
+                    "Drama",
+                    "Family"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 16,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9912/1479912-b-eed4ca31611b",
+                    "h": "sources/r1/cms/prod/9118/1479118-h-55baf9c21b50",
+                    "i": "sources/r1/cms/prod/9911/1479911-i-d3c84a7dad23",
+                    "t": "sources/r1/cms/prod/9910/1479910-t-8ff71f7c0ad7",
+                    "v": "sources/r1/cms/prod/9119/1479119-v-4710519500ae"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9912/1479912-b-eed4ca31611b",
+                        "h": "sources/r1/cms/prod/9118/1479118-h-55baf9c21b50",
+                        "i": "sources/r1/cms/prod/9911/1479911-i-d3c84a7dad23",
+                        "t": "sources/r1/cms/prod/9910/1479910-t-8ff71f7c0ad7",
+                        "v": "sources/r1/cms/prod/9119/1479119-v-4710519500ae"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9118/1479118-h-55baf9c21b50",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9119/1479119-v-4710519500ae",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9910/1479910-t-8ff71f7c0ad7",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 435
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9911/1479911-i-d3c84a7dad23",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9912/1479912-b-eed4ca31611b",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260132906"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260132906",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "btv": false
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=Family&offset=eng%2C1%2Ctel%2C2%2Cben%2C1%2Chin%2C14%2Ctam%2C2&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

@@ -1,0 +1,3958 @@
+{
+    "data": {
+        "itemids": [
+            "1000084315",
+            "1000074190",
+            "1260126989",
+            "1260014808",
+            "1000235527",
+            "1000034502",
+            "1260118054",
+            "1260026183",
+            "1260009879",
+            "1260102913",
+            "1000093421",
+            "1000172465",
+            "1000091195",
+            "1260132193",
+            "1260123526",
+            "1000081352",
+            "1260054414",
+            "1000232258",
+            "1000059189",
+            "1260119494"
+        ],
+        "items": {
+            "1000034502": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "2 States",
+                "contentId": 1000034502,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=210&contentId=1000034502&offset=0&size=20&tao=0&tas=5",
+                "id": 210,
+                "description": "Based on a novel by Chetan Bhagat; North and South India come together in this whirlwind romance between a Punjabi boy and a Tamilian girl.",
+                "duration": 8597,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Dharma Productions, N.G.Entertainment",
+                "cpDisplayName": "Dharma Productions, N.G.Entertainment",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Mirchi Music Awards",
+                                "engValue": "Mirchi Music Awards"
+                            },
+                            {
+                                "value": "Filmfare Awards",
+                                "engValue": "Filmfare Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Blockbuster Movies",
+                                "engValue": "Blockbuster Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            },
+                            {
+                                "value": "RomCom",
+                                "engValue": "RomCom"
+                            },
+                            {
+                                "value": "Young Adult",
+                                "engValue": "Young Adult"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Common-Man Struggles",
+                                "engValue": "Common-Man Struggles"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "First Love",
+                                "engValue": "First Love"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Parenthood",
+                                "engValue": "Parenthood"
+                            },
+                            {
+                                "value": "Slice of Life",
+                                "engValue": "Slice of Life"
+                            },
+                            {
+                                "value": "Teen",
+                                "engValue": "Teen"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Books",
+                                "engValue": "Books"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            },
+                            {
+                                "value": "Gujarat",
+                                "engValue": "Gujarat"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            },
+                            {
+                                "value": "Hostel",
+                                "engValue": "Hostel"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Alia Bhatt Fans",
+                                "engValue": "For Alia Bhatt Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1416297000,
+                "endDate": 1695493800,
+                "year": 2014,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000034502",
+                "images": {
+                    "b": "sources/r1/cms/prod/2140/1372140-b-d01e636b4711",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/4502/1000034502/1000034502-h",
+                    "i": "sources/r1/cms/prod/2139/1372139-i-0f029921777d",
+                    "t": "sources/r1/cms/prod/2141/1372141-t-bc8a5210fdab",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/4502/1000034502/1000034502-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2140/1372140-b-d01e636b4711",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/4502/1000034502/1000034502-h",
+                        "i": "sources/r1/cms/prod/2139/1372139-i-0f029921777d",
+                        "t": "sources/r1/cms/prod/2141/1372141-t-bc8a5210fdab",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/4502/1000034502/1000034502-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2139/1372139-i-0f029921777d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2140/1372140-b-d01e636b4711",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2141/1372141-t-bc8a5210fdab",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/4502/1000034502/1000034502-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/4502/1000034502/1000034502-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000228334"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Violence, Mild Language",
+                "detail": "Mild Language , Mild Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000228334",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000059189": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Raja Rani",
+                "contentId": 1000059189,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=752&contentId=1000059189&offset=0&size=20&tao=0&tas=5",
+                "id": 752,
+                "description": "John and Regina get married only to please their parents but are unhappy. However, things change when they find out about each other's pasts.",
+                "duration": 9372,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Fox Star Studio India Private Limited",
+                "cpDisplayName": "Fox Star Studio India Private Limited",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1388082600,
+                "endDate": 4512220140,
+                "year": 2013,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000059189",
+                "images": {
+                    "b": "sources/r1/cms/prod/2082/1432082-b-69c52b1f37b2",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/9189/1000059189/1000059189-h",
+                    "i": "sources/r1/cms/prod/2081/1432081-i-5573d7c72b07",
+                    "t": "sources/r1/cms/prod/2083/1432083-t-9e5904c0cf94",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/9189/1000059189/1000059189-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2082/1432082-b-69c52b1f37b2",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/9189/1000059189/1000059189-h",
+                        "i": "sources/r1/cms/prod/2081/1432081-i-5573d7c72b07",
+                        "t": "sources/r1/cms/prod/2083/1432083-t-9e5904c0cf94",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/9189/1000059189/1000059189-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2081/1432081-i-5573d7c72b07",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2082/1432082-b-69c52b1f37b2",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2083/1432083-t-9e5904c0cf94",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/9189/1000059189/1000059189-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/9189/1000059189/1000059189-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Mild violence, Mild language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1000074190": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Hero",
+                "contentId": 1000074190,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1362&contentId=1000074190&offset=0&size=20&tao=0&tas=5",
+                "id": 1362,
+                "description": "A gangster's son kidnaps the daughter of the Chief of Police, as her father has some crucial evidence. While the police chase the two, love blooms between them.",
+                "duration": 7416,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Salman Khan Films",
+                "cpDisplayName": "Salman Khan Films",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1446987600,
+                "endDate": 1760120940,
+                "year": 2015,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000074190",
+                "images": {
+                    "b": "sources/r1/cms/prod/2126/1432126-b-13d6ae1736d9",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/4190/1000074190/1000074190-h",
+                    "i": "sources/r1/cms/prod/2125/1432125-i-e77199ba2588",
+                    "t": "sources/r1/cms/prod/2127/1432127-t-ae97aa2cc0ab",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/4190/1000074190/1000074190-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2126/1432126-b-13d6ae1736d9",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/4190/1000074190/1000074190-h",
+                        "i": "sources/r1/cms/prod/2125/1432125-i-e77199ba2588",
+                        "t": "sources/r1/cms/prod/2127/1432127-t-ae97aa2cc0ab",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/4190/1000074190/1000074190-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2125/1432125-i-e77199ba2588",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2126/1432126-b-13d6ae1736d9",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2127/1432127-t-ae97aa2cc0ab",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/4190/1000074190/1000074190-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/4190/1000074190/1000074190-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000229250"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Violence",
+                "detail": "Mild Sexual references, Mild Language ",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000229250",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000081352": {
+                "imageAttributes": "script_lang=mal,callout_lang=mal,variant=ucb_imdb,logic=lang",
+                "title": "Bangalore Days",
+                "contentId": 1000081352,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1442&contentId=1000081352&offset=0&size=20&tao=0&tas=5",
+                "id": 1442,
+                "description": "Three cousins - Divya, Kuttan and Arjun - have always dreamt of living in Bangalore. When they get there, they end up discovering their true selves.",
+                "duration": 9855,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Anwar Rasheed Entertainment,Weekend Blockbusters",
+                "cpDisplayName": "Anwar Rasheed Entertainment,Weekend Blockbusters",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Immersive",
+                                "engValue": "Immersive"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            },
+                            {
+                                "value": "Kerala State Film Awards",
+                                "engValue": "Kerala State Film Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Critically Acclaimed",
+                                "engValue": "Critically Acclaimed"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            },
+                            {
+                                "value": "Notable Soundtrack/Music",
+                                "engValue": "Notable Soundtrack/Music"
+                            },
+                            {
+                                "value": "Blockbuster Movies",
+                                "engValue": "Blockbuster Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            },
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Coming-of-Age",
+                                "engValue": "Coming-of-Age"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Ensemble",
+                                "engValue": "Ensemble"
+                            },
+                            {
+                                "value": "Slice of Life",
+                                "engValue": "Slice of Life"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Karnataka",
+                                "engValue": "Karnataka"
+                            },
+                            {
+                                "value": "Kerala",
+                                "engValue": "Kerala"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Nivin Pauly Fans",
+                                "engValue": "For Nivin Pauly Fans"
+                            },
+                            {
+                                "value": "For Dulquer Salmaan Fans",
+                                "engValue": "For Dulquer Salmaan Fans"
+                            },
+                            {
+                                "value": "For Fahadh Faasil Fans",
+                                "engValue": "For Fahadh Faasil Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Malayalam"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1412015400,
+                "endDate": 4536066600,
+                "year": 2014,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000081352",
+                "images": {
+                    "h": "sources/r1/cms/prod/7297/1317297-h-530d2b99cc8e",
+                    "v": "sources/r1/cms/prod/7298/1317298-v-4ea03efeb98e"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7297/1317297-h-530d2b99cc8e",
+                        "v": "sources/r1/cms/prod/7298/1317298-v-4ea03efeb98e"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2630/1372630-i-8e2319760990",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2631/1372631-b-a58e82e1d353",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2633/1372633-t-d299f77bdd03",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5071/635071-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/1352/1000081352/1000081352-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 22,
+                "studioName": "Asianet",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000227467"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227467",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 8,
+                    "name": "Malayalam",
+                    "iso3code": "mal",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                }
+            },
+            "1000084315": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_WFFwithbadge,logic=lang",
+                "title": "Prem Ratan Dhan Payo",
+                "contentId": 1000084315,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1500&contentId=1000084315&offset=0&size=20&tao=0&tas=5",
+                "id": 1500,
+                "description": "Crown Prince Yuvraj Vijay Singh and his doppelganger, a carefree stage actor, Prem Dilwale's lives get entangled in a royal battle of romance and deceit.",
+                "duration": 8917,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Rajshri Productions",
+                "cpDisplayName": "Rajshri Productions",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            },
+                            {
+                                "value": "Blockbuster Movies",
+                                "engValue": "Blockbuster Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            },
+                            {
+                                "value": "RomCom",
+                                "engValue": "RomCom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Royals",
+                                "engValue": "Royals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Salman Khan Fans",
+                                "engValue": "For Salman Khan Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1455447600,
+                "endDate": 1769365740,
+                "year": 2015,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000084315",
+                "images": {
+                    "h": "sources/r1/cms/prod/1283/1431283-h-7f3e016620e2",
+                    "v": "sources/r1/cms/prod/1284/1431284-v-64a20c9d912f"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/1283/1431283-h-7f3e016620e2",
+                        "v": "sources/r1/cms/prod/1284/1431284-v-64a20c9d912f"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8462/1368462-i-ac8977d9e804",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8463/1368463-b-71500fbcd012",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8464/1368464-t-aadde1b801d2",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/4315/1000084315/1000084315-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/4315/1000084315/1000084315-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000228322"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000228322",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000091195": {
+                "imageAttributes": "script_lang=mal,callout_lang=mal,variant=ucb_imdbreviewposter,logic=lang",
+                "title": "Premam",
+                "contentId": 1000091195,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1566&contentId=1000091195&offset=0&size=20&tao=0&tas=5",
+                "id": 1566,
+                "description": "George, a teenager, loves the idea of being in love. This dream seems to be within his reach in his school days and even in his college days, but it fails to materialise. However, all is not lost yet!",
+                "duration": 8994,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Anwar Rashtseed Entertainmen",
+                "cpDisplayName": "Anwar Rashtseed Entertainmen",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            },
+                            {
+                                "value": "Notable Soundtrack/Music",
+                                "engValue": "Notable Soundtrack/Music"
+                            },
+                            {
+                                "value": "Blockbuster Movies",
+                                "engValue": "Blockbuster Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            },
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            },
+                            {
+                                "value": "RomCom",
+                                "engValue": "RomCom"
+                            },
+                            {
+                                "value": "Young Adult",
+                                "engValue": "Young Adult"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Buddy",
+                                "engValue": "Buddy"
+                            },
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Coming-of-Age",
+                                "engValue": "Coming-of-Age"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Rivalry",
+                                "engValue": "Rivalry"
+                            },
+                            {
+                                "value": "Slice of Life",
+                                "engValue": "Slice of Life"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Kerala",
+                                "engValue": "Kerala"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in a Small Town",
+                                "engValue": "Set in a Small Town"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Nivin Pauly Fans",
+                                "engValue": "For Nivin Pauly Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "India",
+                                "engValue": "India"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Malayalam"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1462149000,
+                "endDate": 4102338600,
+                "year": 2015,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000091195",
+                "images": {
+                    "h": "sources/r1/cms/prod/9080/1489080-h-b08388d2c772",
+                    "v": "sources/r1/cms/prod/9081/1489081-v-e5c069bfdeda"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/9080/1489080-h-b08388d2c772",
+                        "v": "sources/r1/cms/prod/9081/1489081-v-e5c069bfdeda"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7206/1317206-h-17091d101e61",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7207/1317207-v-59d13efb22ca",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9079/1429079-i-df403cbd8e13",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9080/1429080-b-d78415040b95",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9081/1429081-t-599e0532af7e",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 22,
+                "studioName": "Asianet",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 8,
+                        "name": "Malayalam",
+                        "iso3code": "mal",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000227578"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Coarse Language, Some Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227578",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 8,
+                    "name": "Malayalam",
+                    "iso3code": "mal",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=8&offset=0&size=20"
+                }
+            },
+            "1000093421": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Sanam Re",
+                "contentId": 1000093421,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1577&contentId=1000093421&offset=0&size=20&tao=0&tas=5",
+                "id": 1577,
+                "description": "An unfortunate event separates a much-in-love couple. However, fate gives them a second chance at happiness. Will luck favour them now?",
+                "duration": 6786,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "T-Series Films",
+                "cpDisplayName": "T-Series Films",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Dramedy",
+                                "engValue": "Dramedy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "First Love",
+                                "engValue": "First Love"
+                            },
+                            {
+                                "value": "Love Triangle",
+                                "engValue": "Love Triangle"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Musicals",
+                                "engValue": "Musicals"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "For Yami Gautam Fans",
+                                "engValue": "For Yami Gautam Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1462581000,
+                "endDate": 1774636140,
+                "year": 2016,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000093421",
+                "images": {
+                    "b": "sources/r1/cms/prod/994/1370994-b-6cdea7958c15",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/3421/1000093421/1000093421-h",
+                    "i": "sources/r1/cms/prod/993/1370993-i-f9778b2e7eca",
+                    "t": "sources/r1/cms/prod/995/1370995-t-3f1767cf619d",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/3421/1000093421/1000093421-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/994/1370994-b-6cdea7958c15",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/3421/1000093421/1000093421-h",
+                        "i": "sources/r1/cms/prod/993/1370993-i-f9778b2e7eca",
+                        "t": "sources/r1/cms/prod/995/1370995-t-3f1767cf619d",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/3421/1000093421/1000093421-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/993/1370993-i-f9778b2e7eca",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/994/1370994-b-6cdea7958c15",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/995/1370995-t-3f1767cf619d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/3421/1000093421/1000093421-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/3421/1000093421/1000093421-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000229255"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000229255",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000172465": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "O Kadhal Kanmani",
+                "contentId": 1000172465,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=3140&contentId=1000172465&offset=0&size=20&tao=0&tas=5",
+                "id": 3140,
+                "description": "Aditya and Tara fall in love and decide on a live-in relationship. However, their perception of marriage changes when they meet an old couple in love.",
+                "duration": 7986,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Madras Talkies",
+                "cpDisplayName": "Madras Talkies",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1514766600,
+                "endDate": 1805135340,
+                "year": 2015,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000172465",
+                "images": {
+                    "b": "sources/r1/cms/prod/8496/1368496-b-8793ecc6b0c1",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/2465/1000172465/1000172465-h",
+                    "i": "sources/r1/cms/prod/8494/1368494-i-20b35fa1ce84",
+                    "t": "sources/r1/cms/prod/8497/1368497-t-8304761bbc14",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2465/1000172465/1000172465-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8496/1368496-b-8793ecc6b0c1",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/2465/1000172465/1000172465-h",
+                        "i": "sources/r1/cms/prod/8494/1368494-i-20b35fa1ce84",
+                        "t": "sources/r1/cms/prod/8497/1368497-t-8304761bbc14",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2465/1000172465/1000172465-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8494/1368494-i-20b35fa1ce84",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8496/1368496-b-8793ecc6b0c1",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8497/1368497-t-8304761bbc14",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2465/1000172465/1000172465-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2465/1000172465/1000172465-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Scenes of Intimacy, Some Mature Content",
+                "detail": "Mild violence, Mild sexual references",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1000232258": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Fidaa",
+                "contentId": 1000232258,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=533780&contentId=1000232258&offset=0&size=20&tao=0&tas=5",
+                "id": 533780,
+                "description": "Varun, an NRI medical student, falls in love with Bhanu, a village belle. However, their chalk-and-cheese personalities create obstacles for them.",
+                "duration": 7343,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1553344200,
+                "endDate": 1853432999,
+                "year": 2017,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000232258",
+                "images": {
+                    "b": "sources/r1/cms/prod/4622/1374622-b-5fa51c6ff8de",
+                    "h": "sources/r1/cms/prod/6783/336783-h",
+                    "i": "sources/r1/cms/prod/4621/1374621-i-0f7c4055e348",
+                    "m": "sources/r1/cms/prod/8054/338054-m",
+                    "t": "sources/r1/cms/prod/4623/1374623-t-72cc1f5a9beb",
+                    "v": "sources/r1/cms/prod/6789/336789-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/4622/1374622-b-5fa51c6ff8de",
+                        "h": "sources/r1/cms/prod/6783/336783-h",
+                        "i": "sources/r1/cms/prod/4621/1374621-i-0f7c4055e348",
+                        "m": "sources/r1/cms/prod/8054/338054-m",
+                        "t": "sources/r1/cms/prod/4623/1374623-t-72cc1f5a9beb",
+                        "v": "sources/r1/cms/prod/6789/336789-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4621/1374621-i-0f7c4055e348",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4622/1374622-b-5fa51c6ff8de",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4623/1374623-t-72cc1f5a9beb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6783/336783-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6789/336789-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8054/338054-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Strong violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000235527": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ispade Rajavum Idhaya Raniyum",
+                "contentId": 1000235527,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=556621&contentId=1000235527&offset=0&size=20&tao=0&tas=5",
+                "id": 556621,
+                "description": "Gowtham suffers from anger issues and falls in love with Tara, an independent, practical girl. Time forces them to make tough choices. Will they part ways?",
+                "duration": 8635,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Angsty",
+                                "engValue": "Angsty"
+                            },
+                            {
+                                "value": "Hard-hitting",
+                                "engValue": "Hard-hitting"
+                            },
+                            {
+                                "value": "Heartbreaking",
+                                "engValue": "Heartbreaking"
+                            },
+                            {
+                                "value": "Lovesick",
+                                "engValue": "Lovesick"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Psychological",
+                                "engValue": "Psychological"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Psychological",
+                                "engValue": "Psychological"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1557930600,
+                "endDate": 7258098599,
+                "year": 2019,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000235527",
+                "images": {
+                    "b": "sources/r1/cms/prod/3007/1443007-b-46c467955f45",
+                    "h": "sources/r1/cms/prod/9725/439725-h",
+                    "i": "sources/r1/cms/prod/3006/1443006-i-7e42ab6cc3e8",
+                    "m": "sources/r1/cms/prod/9727/439727-m",
+                    "t": "sources/r1/cms/prod/3008/1443008-t-606657b53d3d",
+                    "v": "sources/r1/cms/prod/9726/439726-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3007/1443007-b-46c467955f45",
+                        "h": "sources/r1/cms/prod/9725/439725-h",
+                        "i": "sources/r1/cms/prod/3006/1443006-i-7e42ab6cc3e8",
+                        "m": "sources/r1/cms/prod/9727/439727-m",
+                        "t": "sources/r1/cms/prod/3008/1443008-t-606657b53d3d",
+                        "v": "sources/r1/cms/prod/9726/439726-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3006/1443006-i-7e42ab6cc3e8",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3007/1443007-b-46c467955f45",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3008/1443008-t-606657b53d3d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9725/439725-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9726/439726-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9727/439727-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000240832"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "crisp": "Some Scenes of Intimacy, Some Drug Use, Action Sequences",
+                "detail": "Moderate violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000240832",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260009879": {
+                "imageAttributes": "script_lang=tel,callout_lang=tel,variant=ucb_imdb,logic=lang",
+                "title": "Nuvvu Naaku Nachav",
+                "contentId": 1260009879,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=599123&contentId=1260009879&offset=0&size=20&tao=0&tas=5",
+                "id": 599123,
+                "description": "Venky, an unemployed youth, heads to Hyderabad to attend a wedding. A brief vacation gradually turns into something more as the soon-to-be bride falls for him.",
+                "duration": 10787,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Critically Acclaimed",
+                                "engValue": "Critically Acclaimed"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "RomCom",
+                                "engValue": "RomCom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Community Centric",
+                                "engValue": "Community Centric"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Teen",
+                                "engValue": "Teen"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Telangana",
+                                "engValue": "Telangana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Victory Venkatesh Fans",
+                                "engValue": "For Victory Venkatesh Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1567525674,
+                "endDate": 1878402540,
+                "year": 2001,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260009879",
+                "images": {
+                    "h": "sources/r1/cms/prod/7036/1317036-h-c6c8a09d9985",
+                    "v": "sources/r1/cms/prod/7037/1317037-v-9beb681ea753"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7036/1317036-h-c6c8a09d9985",
+                        "v": "sources/r1/cms/prod/7037/1317037-v-9beb681ea753"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/28/1370028-i-c5e70b64ae89",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2829/552829-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2831/552831-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/30/1370030-b-e8ba8f072e99",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/32/1370032-t-3e58785e2af3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 25,
+                "studioName": "Star MAA",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000242210"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Mild Language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000242210",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260014808": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,variant=ucb_226255_SM,logic=lang",
+                "title": "Arjun Reddy",
+                "contentId": 1260014808,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=631987&contentId=1260014808&offset=0&size=20&tao=0&tas=5",
+                "id": 631987,
+                "description": "A short-tempered yet brilliant young medical surgeon immerses himself in drugs and alcohol when his lady-love is forced to marry someone else.",
+                "duration": 9758,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Lovesick",
+                                "engValue": "Lovesick"
+                            },
+                            {
+                                "value": "Tearjerker",
+                                "engValue": "Tearjerker"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Stories from the South",
+                                "engValue": "Stories from the South"
+                            },
+                            {
+                                "value": "Blockbuster Movies",
+                                "engValue": "Blockbuster Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Tragedy",
+                                "engValue": "Tragedy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Campus Caper",
+                                "engValue": "Campus Caper"
+                            },
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Controversial",
+                                "engValue": "Controversial"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Emotional",
+                                "engValue": "Emotional"
+                            },
+                            {
+                                "value": "Dark",
+                                "engValue": "Dark"
+                            },
+                            {
+                                "value": "Drugs",
+                                "engValue": "Drugs"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Mental Health",
+                                "engValue": "Mental Health"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Telangana",
+                                "engValue": "Telangana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "College",
+                                "engValue": "College"
+                            },
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            },
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1576405800,
+                "endDate": 1890840600,
+                "year": 2017,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260014808",
+                "images": {
+                    "h": "sources/r1/cms/prod/1690/1491690-h-3ed46d529dd8",
+                    "v": "sources/r1/cms/prod/1691/1491691-v-e376778c9490"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/1690/1491690-h-3ed46d529dd8",
+                        "v": "sources/r1/cms/prod/1691/1491691-v-e376778c9490"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9215/1389215-h-890bebaa4c8a",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9217/1389217-v-c29b53bc1557",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260015028"
+                ],
+                "parentalRating": 3,
+                "parentalRatingName": "A",
+                "crisp": "Violence, Coarse Language, Some Drug Use",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260015028",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260026183": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Geetha Govindam",
+                "contentId": 1260026183,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=684738&contentId=1260026183&offset=0&size=20&tao=0&tas=5",
+                "id": 684738,
+                "description": "Don't believe in love at first sight? Vijay and Geetha's hilarious love story will reinstate your faith in romance.",
+                "duration": 8401,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "VTPL",
+                "cpDisplayName": "VTPL",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Romance"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Lovesick",
+                                "engValue": "Lovesick"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Opposites Attract",
+                                "engValue": "Opposites Attract"
+                            },
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Tamil Nadu",
+                                "engValue": "Tamil Nadu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Vijay Deverakonda Fans",
+                                "engValue": "For Vijay Deverakonda Fans"
+                            },
+                            {
+                                "value": "Tollywood Dub Fans",
+                                "engValue": "Tollywood Dub Fans"
+                            },
+                            {
+                                "value": "For Rashmika Mandanna Fans",
+                                "engValue": "For Rashmika Mandanna Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "India",
+                                "engValue": "India"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1609437600,
+                "endDate": 2057941740,
+                "year": 2018,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260026183",
+                "images": {
+                    "b": "sources/r1/cms/prod/840/1370840-b-02d3963f85af",
+                    "h": "sources/r1/cms/prod/7598/677598-h",
+                    "i": "sources/r1/cms/prod/839/1370839-i-dbee7ee9ee39",
+                    "t": "sources/r1/cms/prod/841/1370841-t-59ccf9f619f0",
+                    "v": "sources/r1/cms/prod/7599/677599-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/840/1370840-b-02d3963f85af",
+                        "h": "sources/r1/cms/prod/7598/677598-h",
+                        "i": "sources/r1/cms/prod/839/1370839-i-dbee7ee9ee39",
+                        "t": "sources/r1/cms/prod/841/1370841-t-59ccf9f619f0",
+                        "v": "sources/r1/cms/prod/7599/677599-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7598/677598-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7599/677599-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/839/1370839-i-dbee7ee9ee39",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/840/1370840-b-02d3963f85af",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/841/1370841-t-59ccf9f619f0",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 37,
+                "studioName": "Star Vijay",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260038783"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Scenes of Intimacy",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260038783",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260054414": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Arjun Varma",
+                "contentId": 1260054414,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=854589&contentId=1260054414&offset=0&size=20&tao=0&tas=5",
+                "id": 854589,
+                "description": "A surgeon with a nasty temper turns to drugs and alcohol when his girlfriend is forced to marry another. But there's more to this love story than meets the eye.",
+                "duration": 10824,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "VTPL",
+                "cpDisplayName": "VTPL",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Romance",
+                    "Drama"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Tragedy",
+                                "engValue": "Tragedy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Campus Caper",
+                                "engValue": "Campus Caper"
+                            },
+                            {
+                                "value": "Controversial",
+                                "engValue": "Controversial"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Drugs",
+                                "engValue": "Drugs"
+                            },
+                            {
+                                "value": "Dysfunctional Relationships",
+                                "engValue": "Dysfunctional Relationships"
+                            },
+                            {
+                                "value": "Mental Health",
+                                "engValue": "Mental Health"
+                            },
+                            {
+                                "value": "Unrequited Love",
+                                "engValue": "Unrequited Love"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Telangana",
+                                "engValue": "Telangana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "College",
+                                "engValue": "College"
+                            },
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            },
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Hopeless Romantics",
+                                "engValue": "For Hopeless Romantics"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1617906600,
+                "endDate": 2079023340,
+                "year": 2020,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260054414",
+                "images": {
+                    "b": "sources/r1/cms/prod/8568/1368568-b-1d7489898068",
+                    "h": "sources/r1/cms/prod/7834/907834-h",
+                    "i": "sources/r1/cms/prod/8567/1368567-i-0096d922f72e",
+                    "t": "sources/r1/cms/prod/8571/1368571-t-dafb21b82082",
+                    "v": "sources/r1/cms/prod/7835/907835-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8568/1368568-b-1d7489898068",
+                        "h": "sources/r1/cms/prod/7834/907834-h",
+                        "i": "sources/r1/cms/prod/8567/1368567-i-0096d922f72e",
+                        "t": "sources/r1/cms/prod/8571/1368571-t-dafb21b82082",
+                        "v": "sources/r1/cms/prod/7835/907835-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7834/907834-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7835/907835-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8567/1368567-i-0096d922f72e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8568/1368568-b-1d7489898068",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8571/1368571-t-dafb21b82082",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 495
+                    }
+                ],
+                "studioId": 37,
+                "studioName": "Star Vijay",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260057807"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "crisp": "Violence, Drug Use, Coarse Language",
+                "detail": "Strong sexual content, Drug usage, Strong violence, Mild sexual references, Some coarse language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260057807",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260102913": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Heropanti",
+                "contentId": 1260102913,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1005224&contentId=1260102913&offset=0&size=20&tao=0&tas=5",
+                "id": 1005224,
+                "description": "To trace down his runaway daughter and her lover, Chaudhary kidnaps their friend Bablu. Chaos ensues when Bablu falls for Chaudhary’s younger daughter, Dimpy",
+                "duration": 8152,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Action",
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Romance"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1652957119,
+                "endDate": 1805653799,
+                "year": 2014,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260102913",
+                "images": {
+                    "b": "sources/r1/cms/prod/482/1410482-b-f6d28dbc5190",
+                    "h": "sources/r1/cms/prod/8891/1248891-h-4b3285303d4b",
+                    "i": "sources/r1/cms/prod/481/1410481-i-52fc4c1ec882",
+                    "t": "sources/r1/cms/prod/483/1410483-t-95f9c6fe85cb",
+                    "v": "sources/r1/cms/prod/8892/1248892-v-dbb3b4655a1c"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/482/1410482-b-f6d28dbc5190",
+                        "h": "sources/r1/cms/prod/8891/1248891-h-4b3285303d4b",
+                        "i": "sources/r1/cms/prod/481/1410481-i-52fc4c1ec882",
+                        "t": "sources/r1/cms/prod/483/1410483-t-95f9c6fe85cb",
+                        "v": "sources/r1/cms/prod/8892/1248892-v-dbb3b4655a1c"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/481/1410481-i-52fc4c1ec882",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/482/1410482-b-f6d28dbc5190",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/483/1410483-t-95f9c6fe85cb",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8891/1248891-h-4b3285303d4b",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8892/1248892-v-dbb3b4655a1c",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Violence, Some Coarse Language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260118054": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Rocky",
+                "contentId": 1260118054,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1030553&contentId=1260118054&offset=0&size=20&tao=0&tas=5",
+                "id": 1030553,
+                "description": "Rocky is a common young man whose life turns 360 degrees and makes him a deliverer of vengeance.",
+                "duration": 6995,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Action",
+                    "Drama",
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Drama",
+                    "Romance"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1664960716,
+                "endDate": 1940178599,
+                "year": 2019,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260118054",
+                "images": {
+                    "b": "sources/r1/cms/prod/3281/1413281-b-7070e02a8cb9",
+                    "h": "sources/r1/cms/prod/7390/1367390-h-d7bd9a2457ff",
+                    "i": "sources/r1/cms/prod/3280/1413280-i-519d43adb5b0",
+                    "t": "sources/r1/cms/prod/3282/1413282-t-10970fe9bfcc",
+                    "v": "sources/r1/cms/prod/7391/1367391-v-84d5e12d4c3d"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3281/1413281-b-7070e02a8cb9",
+                        "h": "sources/r1/cms/prod/7390/1367390-h-d7bd9a2457ff",
+                        "i": "sources/r1/cms/prod/3280/1413280-i-519d43adb5b0",
+                        "t": "sources/r1/cms/prod/3282/1413282-t-10970fe9bfcc",
+                        "v": "sources/r1/cms/prod/7391/1367391-v-84d5e12d4c3d"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3280/1413280-i-519d43adb5b0",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3281/1413281-b-7070e02a8cb9",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3282/1413282-t-10970fe9bfcc",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7390/1367390-h-d7bd9a2457ff",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7391/1367391-v-84d5e12d4c3d",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "crisp": "Violence, Coarse Language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false
+            },
+            "1260119494": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bidyarana",
+                "contentId": 1260119494,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1033572&contentId=1260119494&offset=0&size=20&tao=0&tas=5",
+                "id": 1033572,
+                "description": "Disowned by his father, Siddhamahavir grows up to be a fearless rouge. Eventually, he falls in love with Mithi, but his identity puts the relationship at stake.",
+                "duration": 7934,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Action",
+                    "Romance"
+                ],
+                "engGenre": [
+                    "Action",
+                    "Romance"
+                ],
+                "lang": [
+                    "Odia"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1666102451,
+                "endDate": 4102424940,
+                "year": 2022,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260119494",
+                "images": {
+                    "b": "sources/r1/cms/prod/5387/1405387-b-ff125c23857c",
+                    "h": "sources/r1/cms/prod/7207/1387207-h-2a913b125540",
+                    "i": "sources/r1/cms/prod/5385/1405385-i-33f592d8d2a0",
+                    "t": "sources/r1/cms/prod/5388/1405388-t-50fee94e7a6d",
+                    "v": "sources/r1/cms/prod/7208/1387208-v-9bf16080d8a0"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5387/1405387-b-ff125c23857c",
+                        "h": "sources/r1/cms/prod/7207/1387207-h-2a913b125540",
+                        "i": "sources/r1/cms/prod/5385/1405385-i-33f592d8d2a0",
+                        "t": "sources/r1/cms/prod/5388/1405388-t-50fee94e7a6d",
+                        "v": "sources/r1/cms/prod/7208/1387208-v-9bf16080d8a0"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5385/1405385-i-33f592d8d2a0",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5387/1405387-b-ff125c23857c",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5388/1405388-t-50fee94e7a6d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7207/1387207-h-2a913b125540",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7208/1387208-v-9bf16080d8a0",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 350,
+                "studioName": "Star Kiran",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 991,
+                        "name": "Odia",
+                        "iso3code": "ori",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=991&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260119881"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260119881",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false
+            },
+            "1260123526": {
+                "imageAttributes": "script_lang=hin,callout_lang=hin,variant=ucb_61315_G,logic=lang",
+                "title": "Sita Ramam",
+                "contentId": 1260123526,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1040559&contentId=1260123526&offset=0&size=20&tao=0&tas=5",
+                "id": 1040559,
+                "description": "On a letter-delivering task, Afreen learns of a 20-year-old romance set amidst a war. Her quest to trace the lovers makes her embrace humanity beyond borders.",
+                "duration": 9181,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Novi Digital",
+                "cpDisplayName": "Hotstar",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance",
+                    "Drama"
+                ],
+                "engGenre": [
+                    "Romance",
+                    "Drama"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": true,
+                "live": false,
+                "hboContent": false,
+                "vip": true,
+                "encrypted": true,
+                "startDate": 1668709800,
+                "endDate": 4102424940,
+                "year": 2022,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260123526",
+                "images": {
+                    "h": "sources/r1/cms/prod/7600/1487600-h-8bfea11513e7",
+                    "v": "sources/r1/cms/prod/7601/1487601-v-5b01c37f70e1"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7600/1487600-h-8bfea11513e7",
+                        "v": "sources/r1/cms/prod/7601/1487601-v-5b01c37f70e1"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4855/1414855-h-d3c144f8834a",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4856/1414856-v-fa398217196a",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5567/1415567-t-b02f9a2104d3",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 346
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5568/1415568-i-edc74b80acf5",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5569/1415569-b-f6e9d012045a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 416,
+                "studioName": "Pen India Limited",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Drama",
+                        "engName": "Drama",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "NO_COMPROMISE",
+                "downloadDrmClass": "NO_COMPROMISE",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "labels": [
+                    "VIP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260123608"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260123608",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false
+            },
+            "1260126989": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "The 100th",
+                "contentId": 1260126989,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1048070&contentId=1260126989&offset=0&size=20&tao=0&tas=5",
+                "id": 1048070,
+                "description": "After meeting on a dating site, Purab and Malvika plan a special date night. Soon, the casual hook-up blossoms into love as past stories come to the surface.",
+                "duration": 2100,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Shorted",
+                "cpDisplayName": "Shorted",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance",
+                    "Shorts"
+                ],
+                "engGenre": [
+                    "Romance",
+                    "Shorts"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1672047958,
+                "endDate": 1735151399,
+                "year": 2021,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260126989",
+                "images": {
+                    "b": "sources/r1/cms/prod/9092/1439092-b-3d028eb88ded",
+                    "h": "sources/r1/cms/prod/9088/1439088-h-541438e09215",
+                    "i": "sources/r1/cms/prod/9091/1439091-i-63461099fbdd",
+                    "t": "sources/r1/cms/prod/9090/1439090-t-a606120955ad",
+                    "v": "sources/r1/cms/prod/9089/1439089-v-075573595754"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9092/1439092-b-3d028eb88ded",
+                        "h": "sources/r1/cms/prod/9088/1439088-h-541438e09215",
+                        "i": "sources/r1/cms/prod/9091/1439091-i-63461099fbdd",
+                        "t": "sources/r1/cms/prod/9090/1439090-t-a606120955ad",
+                        "v": "sources/r1/cms/prod/9089/1439089-v-075573595754"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9088/1439088-h-541438e09215",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9089/1439089-v-075573595754",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9090/1439090-t-a606120955ad",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 180,
+                        "width": 1080
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9091/1439091-i-63461099fbdd",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9092/1439092-b-3d028eb88ded",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 391,
+                "studioName": "Shorted",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "id": 15060,
+                        "name": "Shorts",
+                        "engName": "Shorts",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15060&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 16+",
+                "crisp": "Mature Theme, Scenes of Intimacy, Sexual References, Some Coarse Language",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260132193": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Deewana",
+                "contentId": 1260132193,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1059311&contentId=1260132193&offset=0&size=20&tao=0&tas=5",
+                "id": 1059311,
+                "description": "A grieving widow Kajal crosses paths with Raja, who falls head over heels in love with her. But chaos ensues when her husband Ravi returns from the dead.",
+                "duration": 9471,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Romance",
+                    "Action"
+                ],
+                "engGenre": [
+                    "Romance",
+                    "Action"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1678127400,
+                "endDate": 1899052199,
+                "year": 1992,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1260132193",
+                "images": {
+                    "b": "sources/r1/cms/prod/7389/1477389-b-fc52dcbf8f2e",
+                    "h": "sources/r1/cms/prod/7385/1477385-h-cfabecf29b31",
+                    "i": "sources/r1/cms/prod/7388/1477388-i-503133a9897b",
+                    "t": "sources/r1/cms/prod/7387/1477387-t-3feaf89170d5",
+                    "v": "sources/r1/cms/prod/7386/1477386-v-ea59f4c35a7f"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7389/1477389-b-fc52dcbf8f2e",
+                        "h": "sources/r1/cms/prod/7385/1477385-h-cfabecf29b31",
+                        "i": "sources/r1/cms/prod/7388/1477388-i-503133a9897b",
+                        "t": "sources/r1/cms/prod/7387/1477387-t-3feaf89170d5",
+                        "v": "sources/r1/cms/prod/7386/1477386-v-ea59f4c35a7f"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7385/1477385-h-cfabecf29b31",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7386/1477386-v-ea59f4c35a7f",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7387/1477387-t-3feaf89170d5",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 281,
+                        "width": 783
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7388/1477388-i-503133a9897b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7389/1477389-b-fc52dcbf8f2e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": true,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 4,
+                        "name": "Romance",
+                        "engName": "Romance",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=4&offset=0&size=20"
+                    },
+                    {
+                        "id": 15,
+                        "name": "Action",
+                        "engName": "Action",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            }
+        },
+        "updated_at": 1679640853,
+        "next_page_url": "/v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/reco-collection?content_type=movie&fallback=true&genre=Romance&offset=20"
+    },
+    "status": true
+}

@@ -1,0 +1,3647 @@
+{
+    "data": {
+        "itemids": [
+            "1260000646",
+            "12",
+            "1260052109",
+            "435",
+            "1877",
+            "6363",
+            "1260011373",
+            "1260003097",
+            "1260071767",
+            "1260001263",
+            "1260026469",
+            "1260010974",
+            "1260002518",
+            "10554",
+            "1260071152",
+            "11147",
+            "4122",
+            "18341",
+            "15439"
+        ],
+        "items": {
+            "12": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Mahadev",
+                "categoryId": 12,
+                "contentId": 12,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=4&avsCategoryId=12&contentId=12&offset=0&size=20&tao=0&tas=5",
+                "id": 4,
+                "description": "He is the supreme being and the destroyer of evil. Witness lord Shiva's story, his avatars, and a union that shaped the universe - his marriage to Parvati.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Period",
+                                "engValue": "Period"
+                            },
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Power Struggle",
+                                "engValue": "Power Struggle"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Supernatural",
+                                "engValue": "Supernatural"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            },
+                            {
+                                "value": "Modern History",
+                                "engValue": "Modern History"
+                            },
+                            {
+                                "value": "Religion",
+                                "engValue": "Religion"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 820,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8977/1378977-b-68c951d21522",
+                    "h": "sources/r1/cms/prod/587/860587-h",
+                    "i": "sources/r1/cms/prod/8976/1378976-i-7e26d648962a",
+                    "t": "sources/r1/cms/prod/8978/1378978-t-af33668fb12c",
+                    "v": "sources/r1/cms/prod/2876/862876-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8977/1378977-b-68c951d21522",
+                        "h": "sources/r1/cms/prod/587/860587-h",
+                        "i": "sources/r1/cms/prod/8976/1378976-i-7e26d648962a",
+                        "t": "sources/r1/cms/prod/8978/1378978-t-af33668fb12c",
+                        "v": "sources/r1/cms/prod/2876/862876-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2876/862876-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/587/860587-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8976/1378976-i-7e26d648962a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8977/1378977-b-68c951d21522",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8978/1378978-t-af33668fb12c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000184786"
+                ],
+                "seasonCnt": 36,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000184786",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "435": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Mahabharat",
+                "categoryId": 434,
+                "contentId": 435,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=28&avsCategoryId=434&contentId=435&offset=0&size=20&tao=0&tas=5",
+                "id": 28,
+                "description": "The mother of all wars, the epitome of all rivalries, the cauldron of emotions, insecurities, jealousies, and power play - Mahabharat!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Period",
+                                "engValue": "Period"
+                            },
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Conspiracy",
+                                "engValue": "Conspiracy"
+                            },
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Epic",
+                                "engValue": "Epic"
+                            },
+                            {
+                                "value": "Gambling",
+                                "engValue": "Gambling"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Power Struggle",
+                                "engValue": "Power Struggle"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Revenge",
+                                "engValue": "Revenge"
+                            },
+                            {
+                                "value": "Rivalry",
+                                "engValue": "Rivalry"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            },
+                            {
+                                "value": "War",
+                                "engValue": "War"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Ancient History",
+                                "engValue": "Ancient History"
+                            },
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            },
+                            {
+                                "value": "Religion",
+                                "engValue": "Religion"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 267,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3133/1383133-b-34ba3dda1ae5",
+                    "h": "sources/r1/cms/prod/7456/267456-h",
+                    "i": "sources/r1/cms/prod/3132/1383132-i-011cefc50da9",
+                    "m": "sources/r1/cms/prod/7529/267529-m",
+                    "t": "sources/r1/cms/prod/3134/1383134-t-aeff48613307",
+                    "v": "sources/r1/cms/prod/7527/267527-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3133/1383133-b-34ba3dda1ae5",
+                        "h": "sources/r1/cms/prod/7456/267456-h",
+                        "i": "sources/r1/cms/prod/3132/1383132-i-011cefc50da9",
+                        "m": "sources/r1/cms/prod/7529/267529-m",
+                        "t": "sources/r1/cms/prod/3134/1383134-t-aeff48613307",
+                        "v": "sources/r1/cms/prod/7527/267527-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3132/1383132-i-011cefc50da9",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3133/1383133-b-34ba3dda1ae5",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3134/1383134-t-aeff48613307",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7456/267456-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7527/267527-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7529/267529-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000184784"
+                ],
+                "seasonCnt": 28,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000184784",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1877": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Mahabharatham",
+                "categoryId": 1840,
+                "contentId": 1877,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=110&avsCategoryId=1840&contentId=1877&offset=0&size=20&tao=0&tas=5",
+                "id": 110,
+                "description": "The legendary rivalry of the Pandavas and Kauravas culminates in Kurukshetra as this epic war, driven by the sharp strategies of Krishna, the master puppeteer.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Hard-hitting",
+                                "engValue": "Hard-hitting"
+                            },
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Intense",
+                                "engValue": "Intense"
+                            },
+                            {
+                                "value": "Sentimental",
+                                "engValue": "Sentimental"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            },
+                            {
+                                "value": "Gold Awards",
+                                "engValue": "Gold Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Dubbed Delights",
+                                "engValue": "Dubbed Delights"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Historical",
+                                "engValue": "Historical"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Bromance",
+                                "engValue": "Bromance"
+                            },
+                            {
+                                "value": "Buddy",
+                                "engValue": "Buddy"
+                            },
+                            {
+                                "value": "Conspiracy",
+                                "engValue": "Conspiracy"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Epic",
+                                "engValue": "Epic"
+                            },
+                            {
+                                "value": "Gambling",
+                                "engValue": "Gambling"
+                            },
+                            {
+                                "value": "Girl Power",
+                                "engValue": "Girl Power"
+                            },
+                            {
+                                "value": "Parenthood",
+                                "engValue": "Parenthood"
+                            },
+                            {
+                                "value": "Power Struggle",
+                                "engValue": "Power Struggle"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Revenge",
+                                "engValue": "Revenge"
+                            },
+                            {
+                                "value": "Rivalry",
+                                "engValue": "Rivalry"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            },
+                            {
+                                "value": "Tough Guys",
+                                "engValue": "Tough Guys"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            },
+                            {
+                                "value": "War",
+                                "engValue": "War"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 267,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9303/1379303-b-cc81133b4f6f",
+                    "h": "sources/r1/cms/prod/7765/267765-h",
+                    "i": "sources/r1/cms/prod/9302/1379302-i-8b2978201de8",
+                    "m": "sources/r1/cms/prod/7771/267771-m",
+                    "t": "sources/r1/cms/prod/9304/1379304-t-f7ce5019aa01",
+                    "v": "sources/r1/cms/prod/7770/267770-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9303/1379303-b-cc81133b4f6f",
+                        "h": "sources/r1/cms/prod/7765/267765-h",
+                        "i": "sources/r1/cms/prod/9302/1379302-i-8b2978201de8",
+                        "m": "sources/r1/cms/prod/7771/267771-m",
+                        "t": "sources/r1/cms/prod/9304/1379304-t-f7ce5019aa01",
+                        "v": "sources/r1/cms/prod/7770/267770-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7765/267765-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7770/267770-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7771/267771-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9302/1379302-i-8b2978201de8",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9303/1379303-b-cc81133b4f6f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9304/1379304-t-f7ce5019aa01",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Vijay",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260011253"
+                ],
+                "seasonCnt": 23,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260011253",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "4122": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Mahabharatham",
+                "categoryId": 4054,
+                "contentId": 4122,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=257&avsCategoryId=4054&contentId=4122&offset=0&size=20&tao=0&tas=5",
+                "id": 257,
+                "description": "Watch the rivalry of the Pandavas and Kauravas culminate in the Kurukshetra war in Mahabharatham, driven by the razor-sharp strategies of Krishna, the master puppeteer.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 198,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7923/1377923-b-d15c2d38022d",
+                    "h": "sources/r1/cms/prod/8978/768978-h",
+                    "i": "sources/r1/cms/prod/7922/1377922-i-355043cbc4b5",
+                    "m": "sources/r1/cms/prod/9823/309823-m",
+                    "t": "sources/r1/cms/prod/7924/1377924-t-d60f1b63262f",
+                    "v": "sources/r1/cms/prod/8980/768980-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7923/1377923-b-d15c2d38022d",
+                        "h": "sources/r1/cms/prod/8978/768978-h",
+                        "i": "sources/r1/cms/prod/7922/1377922-i-355043cbc4b5",
+                        "m": "sources/r1/cms/prod/9823/309823-m",
+                        "t": "sources/r1/cms/prod/7924/1377924-t-d60f1b63262f",
+                        "v": "sources/r1/cms/prod/8980/768980-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7922/1377922-i-355043cbc4b5",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7923/1377923-b-d15c2d38022d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7924/1377924-t-d60f1b63262f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8978/768978-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8980/768980-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9823/309823-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2015",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "6363": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Siya Ke Ram",
+                "categoryId": 6279,
+                "contentId": 6363,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=402&avsCategoryId=6279&contentId=6363&offset=0&size=20&tao=0&tas=5",
+                "id": 402,
+                "description": "A classic epic Ramayana, the story of Ram and Sita, retold through the eyes of the righteous, beautiful and brave Sita.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Television Academy Awards",
+                                "engValue": "Indian Television Academy Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Conspiracy",
+                                "engValue": "Conspiracy"
+                            },
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Epic",
+                                "engValue": "Epic"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Revenge",
+                                "engValue": "Revenge"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            },
+                            {
+                                "value": "War",
+                                "engValue": "War"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 305,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8625/1418625-b-5053959da58f",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/6363/6363/6363-h",
+                    "i": "sources/r1/cms/prod/8624/1418624-i-0f6ee3c023c1",
+                    "m": "sources/r1/cms/prod/5550/195550-m",
+                    "t": "sources/r1/cms/prod/8626/1418626-t-8e49ab6c1151",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/6363/6363/6363-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8625/1418625-b-5053959da58f",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/6363/6363/6363-h",
+                        "i": "sources/r1/cms/prod/8624/1418624-i-0f6ee3c023c1",
+                        "m": "sources/r1/cms/prod/5550/195550-m",
+                        "t": "sources/r1/cms/prod/8626/1418626-t-8e49ab6c1151",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/6363/6363/6363-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5550/195550-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8624/1418624-i-0f6ee3c023c1",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8625/1418625-b-5053959da58f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8626/1418626-t-8e49ab6c1151",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 670
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/6363/6363/6363-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/6363/6363/6363-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000189335"
+                ],
+                "seasonCnt": 6,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000189335",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "10554": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Krishnotsav",
+                "categoryId": 10416,
+                "contentId": 10554,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=750&avsCategoryId=10416&contentId=10554&offset=0&size=20&tao=0&tas=5",
+                "id": 750,
+                "description": "Mischievous, witty and enigmatic. The story of Lord Krishna, from his birth to becoming Arjun's saarthi in Mahabharata.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Utsav",
+                "episodeCnt": 280,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2795/1402795-b-f2e1bdb7edc3",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/554/10554/10554-h",
+                    "i": "sources/r1/cms/prod/2794/1402794-i-bedd5888502f",
+                    "t": "sources/r1/cms/prod/2796/1402796-t-7f8e518f7c3f",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/554/10554/10554-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2795/1402795-b-f2e1bdb7edc3",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/554/10554/10554-h",
+                        "i": "sources/r1/cms/prod/2794/1402794-i-bedd5888502f",
+                        "t": "sources/r1/cms/prod/2796/1402796-t-7f8e518f7c3f",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/554/10554/10554-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2794/1402794-i-bedd5888502f",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2795/1402795-b-f2e1bdb7edc3",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2796/1402796-t-7f8e518f7c3f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/554/10554/10554-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/554/10554/10554-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 13,
+                    "name": "Star Utsav",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=13&offset=0&size=20"
+                },
+                "seasonCnt": 5,
+                "yearLatestSeason": "2017",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "11147": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ramleela",
+                "categoryId": 11004,
+                "contentId": 11147,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=837&avsCategoryId=11004&contentId=11147&offset=0&size=20&tao=0&tas=5",
+                "id": 837,
+                "description": "Narrated by Ajay Devgn, an epic retelling of the grandest war between the noble king Rama and Ravana as a musical.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Utsav",
+                "episodeCnt": 4,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8572/1418572-b-cb7599441c3a",
+                    "h": "sources/r1/cms/prod/4063/664063-h",
+                    "i": "sources/r1/cms/prod/8571/1418571-i-3cdc528ff943",
+                    "t": "sources/r1/cms/prod/8573/1418573-t-43e15731d823",
+                    "v": "sources/r1/cms/prod/4064/664064-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8572/1418572-b-cb7599441c3a",
+                        "h": "sources/r1/cms/prod/4063/664063-h",
+                        "i": "sources/r1/cms/prod/8571/1418571-i-3cdc528ff943",
+                        "t": "sources/r1/cms/prod/8573/1418573-t-43e15731d823",
+                        "v": "sources/r1/cms/prod/4064/664064-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4063/664063-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4064/664064-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8571/1418571-i-3cdc528ff943",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8572/1418572-b-cb7599441c3a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8573/1418573-t-43e15731d823",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 13,
+                    "name": "Star Utsav",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=13&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2016",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "15439": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Vithu Mauli",
+                "categoryId": 15264,
+                "contentId": 15439,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1268&avsCategoryId=15264&contentId=15439&offset=0&size=20&tao=0&tas=5",
+                "id": 1268,
+                "description": "A devotional story of Lord Vitthal and his devotee Pundalik, who is credited for bringing Maharashtra's most beloved deity, Lord Vitthal to Pandharpur.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Marathi"
+                ],
+                "channelName": "Star Pravah",
+                "episodeCnt": 783,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7142/1377142-b-6f318773b177",
+                    "h": "sources/r1/cms/prod/5551/595551-h",
+                    "i": "sources/r1/cms/prod/7141/1377141-i-09147e23c8f5",
+                    "t": "sources/r1/cms/prod/7143/1377143-t-9cb7e8619673",
+                    "v": "sources/r1/cms/prod/5552/595552-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7142/1377142-b-6f318773b177",
+                        "h": "sources/r1/cms/prod/5551/595551-h",
+                        "i": "sources/r1/cms/prod/7141/1377141-i-09147e23c8f5",
+                        "t": "sources/r1/cms/prod/7143/1377143-t-9cb7e8619673",
+                        "v": "sources/r1/cms/prod/5552/595552-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5551/595551-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5552/595552-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7141/1377141-i-09147e23c8f5",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7142/1377142-b-6f318773b177",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7143/1377143-t-9cb7e8619673",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 15,
+                    "name": "Star Pravah",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=15&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000191215"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": true,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000191215",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 4,
+                    "name": "Marathi",
+                    "iso3code": "mar",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                }
+            },
+            "18341": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Divya Ravivaar",
+                "categoryId": 18150,
+                "contentId": 18341,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1591&avsCategoryId=18150&contentId=18341&offset=0&size=20&tao=0&tas=5",
+                "id": 1591,
+                "description": "Soak in the valuable pearls of wisdom from the epic war between the hundred Kauravas and five Pandavas by revisiting the magnificent tale of Bharata dynasty.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 1,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7429/1437429-b-acb93c9b597e",
+                    "h": "sources/r1/cms/prod/5566/195566-h",
+                    "i": "sources/r1/cms/prod/7428/1437428-i-749a60bbdcfb",
+                    "m": "sources/r1/cms/prod/5586/195586-m",
+                    "t": "sources/r1/cms/prod/7430/1437430-t-ab2ac1f03525",
+                    "v": "sources/r1/cms/prod/5585/195585-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7429/1437429-b-acb93c9b597e",
+                        "h": "sources/r1/cms/prod/5566/195566-h",
+                        "i": "sources/r1/cms/prod/7428/1437428-i-749a60bbdcfb",
+                        "m": "sources/r1/cms/prod/5586/195586-m",
+                        "t": "sources/r1/cms/prod/7430/1437430-t-ab2ac1f03525",
+                        "v": "sources/r1/cms/prod/5585/195585-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5566/195566-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5585/195585-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5586/195586-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7428/1437428-i-749a60bbdcfb",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7429/1437429-b-acb93c9b597e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7430/1437430-t-ab2ac1f03525",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 436
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 0,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260000646": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "RadhaKrishn",
+                "categoryId": 1260000646,
+                "contentId": 1260000646,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1695&avsCategoryId=1260000646&contentId=1260000646&offset=0&size=20&tao=0&tas=5",
+                "id": 1695,
+                "description": "Radha and Krishna are the epitome of eternal love and sacrifice, transcending eras and emotions. Here's a never-seen-before retelling of this supreme romance.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Period",
+                                "engValue": "Period"
+                            },
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            },
+                            {
+                                "value": "Romance",
+                                "engValue": "Romance"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 1145,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/3233/1423233-b-989003ed5983",
+                    "h": "sources/r1/cms/prod/3227/1423227-h-1e07ce45fc2e",
+                    "i": "sources/r1/cms/prod/3232/1423232-i-050f622bde39",
+                    "m": "sources/r1/cms/prod/8947/38947-m",
+                    "t": "sources/r1/cms/prod/3230/1423230-t-ba8a293e17af",
+                    "v": "sources/r1/cms/prod/3229/1423229-v-38316a3e497f"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3233/1423233-b-989003ed5983",
+                        "h": "sources/r1/cms/prod/3227/1423227-h-1e07ce45fc2e",
+                        "i": "sources/r1/cms/prod/3232/1423232-i-050f622bde39",
+                        "m": "sources/r1/cms/prod/8947/38947-m",
+                        "t": "sources/r1/cms/prod/3230/1423230-t-ba8a293e17af",
+                        "v": "sources/r1/cms/prod/3229/1423229-v-38316a3e497f"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3227/1423227-h-1e07ce45fc2e",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3229/1423229-v-38316a3e497f",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3230/1423230-t-ba8a293e17af",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 883
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3232/1423232-i-050f622bde39",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3233/1423233-b-989003ed5983",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8947/38947-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260129351"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260129351",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260001263": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Karn Sangini",
+                "categoryId": 1260001263,
+                "contentId": 1260001263,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1761&avsCategoryId=1260001263&contentId=1260001263&offset=0&size=20&tao=0&tas=5",
+                "id": 1761,
+                "description": "Based on the book 'Karna's Wife: The Outcast's Queen', this story is about princess Uruvi's bravery, shattering class barriers, and her immense love for Karn.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            },
+                            {
+                                "value": "Heart-Warming",
+                                "engValue": "Heart-Warming"
+                            },
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Historical",
+                                "engValue": "Historical"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Bromance",
+                                "engValue": "Bromance"
+                            },
+                            {
+                                "value": "Conspiracy",
+                                "engValue": "Conspiracy"
+                            },
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Power Struggle",
+                                "engValue": "Power Struggle"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Rivalry",
+                                "engValue": "Rivalry"
+                            },
+                            {
+                                "value": "Siblings",
+                                "engValue": "Siblings"
+                            },
+                            {
+                                "value": "War",
+                                "engValue": "War"
+                            },
+                            {
+                                "value": "Period",
+                                "engValue": "Period"
+                            },
+                            {
+                                "value": "Drama",
+                                "engValue": "Drama"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Books",
+                                "engValue": "Books"
+                            },
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Alternate History",
+                                "engValue": "Set in Alternate History"
+                            },
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            },
+                            {
+                                "value": "For History Nuts",
+                                "engValue": "For History Nuts"
+                            },
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 90,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7228/1417228-b-32ff68740478",
+                    "h": "sources/r1/cms/prod/1862/311862-h",
+                    "i": "sources/r1/cms/prod/7227/1417227-i-67228e457bbc",
+                    "m": "sources/r1/cms/prod/3831/313831-m",
+                    "t": "sources/r1/cms/prod/7229/1417229-t-1c180f541dd3",
+                    "v": "sources/r1/cms/prod/1863/311863-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7228/1417228-b-32ff68740478",
+                        "h": "sources/r1/cms/prod/1862/311862-h",
+                        "i": "sources/r1/cms/prod/7227/1417227-i-67228e457bbc",
+                        "m": "sources/r1/cms/prod/3831/313831-m",
+                        "t": "sources/r1/cms/prod/7229/1417229-t-1c180f541dd3",
+                        "v": "sources/r1/cms/prod/1863/311863-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1862/311862-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1863/311863-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3831/313831-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7227/1417227-i-67228e457bbc",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7228/1417228-b-32ff68740478",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7229/1417229-t-1c180f541dd3",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000219339"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000219339",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260002518": {
+                "imageAttributes": "script_lang=tam,callout_lang=tam,variant=ucb_imdb,logic=lang",
+                "title": "Radha Krishna",
+                "categoryId": 1260002518,
+                "contentId": 1260002518,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1892&avsCategoryId=1260002518&contentId=1260002518&offset=0&size=20&tao=0&tas=5",
+                "id": 1892,
+                "description": "The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions. Here's a never-seen-before retelling of the supreme romance.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Awestruck",
+                                "engValue": "Awestruck"
+                            },
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            },
+                            {
+                                "value": "Lovesick",
+                                "engValue": "Lovesick"
+                            },
+                            {
+                                "value": "Mind-Blowing",
+                                "engValue": "Mind-Blowing"
+                            },
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Indian Telly Awards",
+                                "engValue": "Indian Telly Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Romance",
+                                "engValue": "Romance"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Couples",
+                                "engValue": "Couples"
+                            },
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "First Love",
+                                "engValue": "First Love"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Tough Gals",
+                                "engValue": "Tough Gals"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Ancient History",
+                                "engValue": "Ancient History"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "channelName": "Star Vijay",
+                "episodeCnt": 186,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/7050/1317050-h-90064bb1cd28",
+                    "v": "sources/r1/cms/prod/7051/1317051-v-2a68fff57a3b"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7050/1317050-h-90064bb1cd28",
+                        "v": "sources/r1/cms/prod/7051/1317051-v-2a68fff57a3b"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2604/382604-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2605/382605-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2606/382606-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7177/1377177-i-66b93ee45350",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7178/1377178-b-78256373088f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7179/1377179-t-b4ddff6008ca",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 12,
+                    "name": "Star Vijay",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=12&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000227589"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000227589",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1260003097": {
+                "imageAttributes": "script_lang=tel,callout_lang=tel,variant=ucb_Radhakrishnaimdb,logic=lang",
+                "title": "RadhaKrishna",
+                "categoryId": 1260003097,
+                "contentId": 1260003097,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=1939&avsCategoryId=1260003097&contentId=1260003097&offset=0&size=20&tao=0&tas=5",
+                "id": 1939,
+                "description": "Radha's love for Lord Krishna knows no bounds. Their eternal love has stood the test of time. Here's a soulful re-telling of this supreme tale of romance and sacrifice.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Romantic",
+                                "engValue": "Romantic"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Chick Flick",
+                                "engValue": "Chick Flick"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Epic",
+                                "engValue": "Epic"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Prehistoric Times",
+                                "engValue": "Set in Prehistoric Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Chick Flick Lovers",
+                                "engValue": "For Chick Flick Lovers"
+                            },
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "UK",
+                                "engValue": "UK"
+                            },
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            },
+                            {
+                                "value": "Europe",
+                                "engValue": "Europe"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "channelName": "Star Maa",
+                "episodeCnt": 381,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "h": "sources/r1/cms/prod/7034/1317034-h-4ff30995cc03",
+                    "v": "sources/r1/cms/prod/7035/1317035-v-2dbf89e321ce"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/7034/1317034-h-4ff30995cc03",
+                        "v": "sources/r1/cms/prod/7035/1317035-v-2dbf89e321ce"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/4607/214607-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4609/214609-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/4610/214610-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9460/1379460-i-2b70cca05890",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9461/1379461-b-8f04b8bc70ff",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9462/1379462-t-997d9a74ef8f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 10,
+                    "name": "Star Maa",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=10&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1260010974": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Namah Laxmi Narayan",
+                "categoryId": 1260010974,
+                "contentId": 1260010974,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2341&avsCategoryId=1260010974&contentId=1260010974&offset=0&size=20&tao=0&tas=5",
+                "id": 2341,
+                "description": "He is the supreme lord and the ultimate soul of the universe. The creator, the preserver and the annihilator. Watch legends of Lord Narayan and his avatars.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "StarPlus",
+                "episodeCnt": 65,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7262/1417262-b-dcd230af5c8e",
+                    "h": "sources/r1/cms/prod/834/580834-h",
+                    "i": "sources/r1/cms/prod/7261/1417261-i-5f2460834330",
+                    "t": "sources/r1/cms/prod/7263/1417263-t-d4e977a6895b",
+                    "v": "sources/r1/cms/prod/835/580835-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7262/1417262-b-dcd230af5c8e",
+                        "h": "sources/r1/cms/prod/834/580834-h",
+                        "i": "sources/r1/cms/prod/7261/1417261-i-5f2460834330",
+                        "t": "sources/r1/cms/prod/7263/1417263-t-d4e977a6895b",
+                        "v": "sources/r1/cms/prod/835/580835-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7261/1417261-i-5f2460834330",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7262/1417262-b-dcd230af5c8e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7263/1417263-t-d4e977a6895b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/834/580834-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/835/580835-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "StarPlus",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 3,
+                    "name": "StarPlus",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=3&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260010842"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260010842",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260011373": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Maa Vaishnodevi",
+                "categoryId": 1260011373,
+                "contentId": 1260011373,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2353&avsCategoryId=1260011373&contentId=1260011373&offset=0&size=20&tao=0&tas=5",
+                "id": 2353,
+                "description": "A riveting story of Goddess Vaishno Devi, an amalgamation of supreme powers to fight every battle against evil and save the mankind.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            },
+                            {
+                                "value": "Uplifting",
+                                "engValue": "Uplifting"
+                            },
+                            {
+                                "value": "Thought-provoking",
+                                "engValue": "Thought-provoking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Historical",
+                                "engValue": "Historical"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Reincarnation",
+                                "engValue": "Reincarnation"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            },
+                            {
+                                "value": "Tough Gals",
+                                "engValue": "Tough Gals"
+                            },
+                            {
+                                "value": "Visually Striking",
+                                "engValue": "Visually Striking"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Folk Legends",
+                                "engValue": "Folk Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 207,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9105/1379105-b-c3f27d71e839",
+                    "h": "sources/r1/cms/prod/8355/718355-h",
+                    "i": "sources/r1/cms/prod/9104/1379104-i-139f9d1b9858",
+                    "t": "sources/r1/cms/prod/9106/1379106-t-e6f2cbb1691b",
+                    "v": "sources/r1/cms/prod/8357/718357-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9105/1379105-b-c3f27d71e839",
+                        "h": "sources/r1/cms/prod/8355/718355-h",
+                        "i": "sources/r1/cms/prod/9104/1379104-i-139f9d1b9858",
+                        "t": "sources/r1/cms/prod/9106/1379106-t-e6f2cbb1691b",
+                        "v": "sources/r1/cms/prod/8357/718357-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/8355/718355-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8357/718357-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9104/1379104-i-139f9d1b9858",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9105/1379105-b-c3f27d71e839",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9106/1379106-t-e6f2cbb1691b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260036307"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2020",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260036307",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260026469": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Radha Krishna",
+                "categoryId": 1260026469,
+                "contentId": 1260026469,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2638&avsCategoryId=1260026469&contentId=1260026469&offset=0&size=20&tao=0&tas=5",
+                "id": 2638,
+                "description": "Radha and Krishna's story is the epitome of eternal love, which transcends eras and emotions. Watch the epic retelling of this supreme romance.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "channelName": "Star Jalsha",
+                "episodeCnt": 1036,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/8959/1378959-b-8a1ad8c8a8fc",
+                    "h": "sources/r1/cms/prod/382/680382-h",
+                    "i": "sources/r1/cms/prod/8958/1378958-i-02f0bbca63c2",
+                    "t": "sources/r1/cms/prod/8960/1378960-t-174bc5e0a28b",
+                    "v": "sources/r1/cms/prod/383/680383-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/8959/1378959-b-8a1ad8c8a8fc",
+                        "h": "sources/r1/cms/prod/382/680382-h",
+                        "i": "sources/r1/cms/prod/8958/1378958-i-02f0bbca63c2",
+                        "t": "sources/r1/cms/prod/8960/1378960-t-174bc5e0a28b",
+                        "v": "sources/r1/cms/prod/383/680383-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/382/680382-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/383/680383-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8958/1378958-i-02f0bbca63c2",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8959/1378959-b-8a1ad8c8a8fc",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8960/1378960-t-174bc5e0a28b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Jalsha",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 7,
+                    "name": "Star Jalsha",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=7&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260026730"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2023",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260026730",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": false,
+                "showType": "SEASONAL",
+                "btv": true,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 2,
+                    "name": "Bengali",
+                    "iso3code": "ben",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                }
+            },
+            "1260052109": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "The Legend of Hanuman",
+                "categoryId": 1260052109,
+                "contentId": 1260052109,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3198&avsCategoryId=1260052109&contentId=1260052109&offset=0&size=20&tao=0&tas=5",
+                "id": 3198,
+                "description": "Hanuman has realised his limitless powers, and now he must journey alone to Lanka to face the might of the demon king Ravan, his fierce sons and his armies.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology",
+                    "Animation"
+                ],
+                "engGenre": [
+                    "Mythology",
+                    "Animation"
+                ],
+                "genome": [
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Webseries",
+                                "engValue": "Webseries"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            },
+                            {
+                                "value": "Creatures & Monsters",
+                                "engValue": "Creatures & Monsters"
+                            },
+                            {
+                                "value": "Fantasy",
+                                "engValue": "Fantasy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            },
+                            {
+                                "value": "Religious",
+                                "engValue": "Religious"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Ancient Times",
+                                "engValue": "Set in Ancient Times"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Hotstar Specials",
+                "episodeCnt": 26,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2212/1042212-h-0e83e926cfc1",
+                    "v": "sources/r1/cms/prod/2213/1042213-v-1416e8e25397"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2212/1042212-h-0e83e926cfc1",
+                        "v": "sources/r1/cms/prod/2213/1042213-v-1416e8e25397"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2206/1042206-h-49a31f1cb664",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2207/1042207-v-658575358753",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5136/1405136-i-ae3081ec00b2",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5137/1405137-b-71a356eb6309",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5138/1405138-t-8c5c2a22ee5d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Novi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    },
+                    {
+                        "id": 15061,
+                        "name": "Animation",
+                        "engName": "Animation",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15061&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 54,
+                    "name": "Hotstar Specials",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=54&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260066080"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260066080",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1260066081",
+                        "playbackType": "INTERNAL",
+                        "orientation": "VERTICAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260071152": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bolo Ambe Maa Ki Jai",
+                "categoryId": 1260071152,
+                "contentId": 1260071152,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3528&avsCategoryId=1260071152&contentId=1260071152&offset=0&size=20&tao=0&tas=5",
+                "id": 3528,
+                "description": "Narrated by Saptarishi, celebrate Navratri with these auspicious stories about the nine avatars of Goddess Durga.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 5,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1082/1441082-b-420285564f25",
+                    "h": "sources/r1/cms/prod/6774/1066774-h-231f1014ad3c",
+                    "i": "sources/r1/cms/prod/1081/1441081-i-171a436e412e",
+                    "t": "sources/r1/cms/prod/1083/1441083-t-26b86ffbd9a7",
+                    "v": "sources/r1/cms/prod/6775/1066775-v-5f59edfe2d9c"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1082/1441082-b-420285564f25",
+                        "h": "sources/r1/cms/prod/6774/1066774-h-231f1014ad3c",
+                        "i": "sources/r1/cms/prod/1081/1441081-i-171a436e412e",
+                        "t": "sources/r1/cms/prod/1083/1441083-t-26b86ffbd9a7",
+                        "v": "sources/r1/cms/prod/6775/1066775-v-5f59edfe2d9c"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1081/1441081-i-171a436e412e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1082/1441082-b-420285564f25",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1083/1441083-t-26b86ffbd9a7",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6774/1066774-h-231f1014ad3c",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6775/1066775-v-5f59edfe2d9c",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": false,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260071767": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Jai Kanhaiya Lal Ki",
+                "categoryId": 1260071767,
+                "contentId": 1260071767,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3535&avsCategoryId=1260071767&contentId=1260071767&offset=0&size=20&tao=0&tas=5",
+                "id": 3535,
+                "description": "To teach the world that good always prevails over evil, Lord Vishnu takes birth as Krishna. Watch the tales and miracles from his childhood.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Mythology"
+                ],
+                "engGenre": [
+                    "Mythology"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 185,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/1425/1441425-b-e3530f9797e0",
+                    "h": "sources/r1/cms/prod/8754/1308754-h-dd42a1e6370b",
+                    "i": "sources/r1/cms/prod/1424/1441424-i-00000064ca4a",
+                    "t": "sources/r1/cms/prod/1426/1441426-t-10305034828b",
+                    "v": "sources/r1/cms/prod/8755/1308755-v-020275ee46a7"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/1425/1441425-b-e3530f9797e0",
+                        "h": "sources/r1/cms/prod/8754/1308754-h-dd42a1e6370b",
+                        "i": "sources/r1/cms/prod/1424/1441424-i-00000064ca4a",
+                        "t": "sources/r1/cms/prod/1426/1441426-t-10305034828b",
+                        "v": "sources/r1/cms/prod/8755/1308755-v-020275ee46a7"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1424/1441424-i-00000064ca4a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1425/1441425-b-e3530f9797e0",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1426/1441426-t-10305034828b",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8754/1308754-h-dd42a1e6370b",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8755/1308755-v-020275ee46a7",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Star Bharat",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 2,
+                        "name": "Mythology",
+                        "engName": "Mythology",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260071758"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2022",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260071758",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/b1c2bd1ae87c4964a631c2b1fecbc969/trays/popular?availability=All&content_type=All&genre=Mythology&offset=tam%2C2%2Ctel%2C2%2Cben%2C1%2Chin%2C13%2Cmar%2C1%2Ceng%2C1&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

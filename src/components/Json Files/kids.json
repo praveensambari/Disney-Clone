@@ -1,0 +1,4080 @@
+{
+    "data": {
+        "itemids": [
+            "132",
+            "1260020929",
+            "9580",
+            "1000182054",
+            "1260021004",
+            "1000058496",
+            "1000070417",
+            "1000192025",
+            "1000192003",
+            "1260024619",
+            "1260003658",
+            "1000229141",
+            "1260052718",
+            "1000192026",
+            "1260016958",
+            "1000216197",
+            "1000013702",
+            "1260066788",
+            "1260043394",
+            "1000102128"
+        ],
+        "items": {
+            "132": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Adventures of Hatim",
+                "categoryId": 131,
+                "contentId": 132,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=7&avsCategoryId=131&contentId=132&offset=0&size=20&tao=0&tas=5",
+                "id": 7,
+                "description": "Hatim, a young prince goes from a regular, uneventful life to becoming a force that saves the world from the evil Zargham.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Kids",
+                    "Adventure",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Kids",
+                    "Adventure",
+                    "Fantasy"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Curious",
+                                "engValue": "Curious"
+                            },
+                            {
+                                "value": "Gripping",
+                                "engValue": "Gripping"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Reboots & Remakes",
+                                "engValue": "Reboots & Remakes"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Fantasy",
+                                "engValue": "Fantasy"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Historical",
+                                "engValue": "Historical"
+                            },
+                            {
+                                "value": "Magical",
+                                "engValue": "Magical"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Personalities",
+                                "engValue": "Personalities"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Medieval India",
+                                "engValue": "Medieval India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Daily Soap Fans",
+                                "engValue": "Daily Soap Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Bharat",
+                "episodeCnt": 68,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/9272/1379272-b-c210bf51f386",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/132/132/132-h",
+                    "i": "sources/r1/cms/prod/9270/1379270-i-33de36b01f5e",
+                    "t": "sources/r1/cms/prod/9273/1379273-t-c1e18debe191",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/132/132/132-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/9272/1379272-b-c210bf51f386",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/132/132/132-h",
+                        "i": "sources/r1/cms/prod/9270/1379270-i-33de36b01f5e",
+                        "t": "sources/r1/cms/prod/9273/1379273-t-c1e18debe191",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/132/132/132-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/9270/1379270-i-33de36b01f5e",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9272/1379272-b-c210bf51f386",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9273/1379273-t-c1e18debe191",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/132/132/132-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/132/132/132-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15063,
+                        "name": "Adventure",
+                        "engName": "Adventure",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15063&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 35,
+                    "name": "Star Bharat",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=35&offset=0&size=20"
+                },
+                "trailers": [
+                    "1000189579",
+                    "1000229552"
+                ],
+                "seasonCnt": 13,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000189579",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    },
+                    {
+                        "contentId": "1000229552",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "9580": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Shaka Laka Boom Boom",
+                "categoryId": 9462,
+                "contentId": 9580,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=634&avsCategoryId=9462&contentId=9580&offset=0&size=20&tao=0&tas=5",
+                "id": 634,
+                "description": "Sanju finds a magical pencil, which has the power to bring anything he draws to life. While Fun at first, the pencil opens more mystical adventures.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Kids",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Kids",
+                    "Fantasy"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Star Utsav",
+                "episodeCnt": 158,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/2957/1402957-b-9084a9a43696",
+                    "h": "sources/r1/cms/prod/old_images/SHOW/9580/9580/9580-h",
+                    "i": "sources/r1/cms/prod/2956/1402956-i-d7dd4f1be64d",
+                    "t": "sources/r1/cms/prod/2958/1402958-t-4dc4f10490ff",
+                    "v": "sources/r1/cms/prod/old_images/vertical/SHOW/9580/9580/9580-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/2957/1402957-b-9084a9a43696",
+                        "h": "sources/r1/cms/prod/old_images/SHOW/9580/9580/9580-h",
+                        "i": "sources/r1/cms/prod/2956/1402956-i-d7dd4f1be64d",
+                        "t": "sources/r1/cms/prod/2958/1402958-t-4dc4f10490ff",
+                        "v": "sources/r1/cms/prod/old_images/vertical/SHOW/9580/9580/9580-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2956/1402956-i-d7dd4f1be64d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2957/1402957-b-9084a9a43696",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/2958/1402958-t-4dc4f10490ff",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/SHOW/9580/9580/9580-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/SHOW/9580/9580/9580-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 13,
+                    "name": "Star Utsav",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=13&offset=0&size=20"
+                },
+                "seasonCnt": 3,
+                "yearLatestSeason": "2003",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000013702": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Ferrari Ki Sawaari",
+                "contentId": 1000013702,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=73&contentId=1000013702&offset=0&size=20&tao=0&tas=5",
+                "id": 73,
+                "description": "To fulfil the dream of watching his son play at Lord's stadium, Rusy is willing to go to any extent, even if it means stealing Sachin Tendulkar's Ferrari.",
+                "duration": 8034,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Vinod Chopra Productions",
+                "cpDisplayName": "Vinod Chopra Productions",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Critically Acclaimed",
+                                "engValue": "Critically Acclaimed"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Father and Son",
+                                "engValue": "Father and Son"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Parenthood",
+                                "engValue": "Parenthood"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Regional",
+                        "data": [
+                            {
+                                "value": "Maharashtra",
+                                "engValue": "Maharashtra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "For Cricket Fanatics",
+                                "engValue": "For Cricket Fanatics"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1410610380,
+                "endDate": 1818268140,
+                "year": 2012,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000013702",
+                "images": {
+                    "b": "sources/r1/cms/prod/6045/1366045-b-d46e69321c3e",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/3702/1000013702/1000013702-h",
+                    "i": "sources/r1/cms/prod/6044/1366044-i-698c06a30dd1",
+                    "t": "sources/r1/cms/prod/6046/1366046-t-af29d0f79124",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/3702/1000013702/1000013702-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6045/1366045-b-d46e69321c3e",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/3702/1000013702/1000013702-h",
+                        "i": "sources/r1/cms/prod/6044/1366044-i-698c06a30dd1",
+                        "t": "sources/r1/cms/prod/6046/1366046-t-af29d0f79124",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/3702/1000013702/1000013702-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6044/1366044-i-698c06a30dd1",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6045/1366045-b-d46e69321c3e",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6046/1366046-t-af29d0f79124",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/3702/1000013702/1000013702-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/3702/1000013702/1000013702-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260013906"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Mild Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260013906",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000058496": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Saivam",
+                "contentId": 1000058496,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=724&contentId=1000058496&offset=0&size=20&tao=0&tas=5",
+                "id": 724,
+                "description": "Kathiresan's family decides to sacrifice a rooster to evade bad luck. However, the rooster disappears, ensuing chaos and panic.",
+                "duration": 6929,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Think Big Studios",
+                "cpDisplayName": "Think Big Studios",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Exhilarating",
+                                "engValue": "Exhilarating"
+                            },
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            },
+                            {
+                                "value": "Heartfelt",
+                                "engValue": "Heartfelt"
+                            },
+                            {
+                                "value": "Touching",
+                                "engValue": "Touching"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            },
+                            {
+                                "value": "National Awards",
+                                "engValue": "National Awards"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Critically Acclaimed",
+                                "engValue": "Critically Acclaimed"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Childhood",
+                                "engValue": "Childhood"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Humour",
+                                "engValue": "Humour"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in a Village",
+                                "engValue": "Set in a Village"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Tamil"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1412188200,
+                "endDate": 4536584940,
+                "year": 2014,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000058496",
+                "images": {
+                    "b": "sources/r1/cms/prod/6237/1366237-b-27eb348c70dd",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/8496/1000058496/1000058496-h",
+                    "i": "sources/r1/cms/prod/6236/1366236-i-ce95e3419e53",
+                    "t": "sources/r1/cms/prod/6238/1366238-t-226f8003ffc5",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/8496/1000058496/1000058496-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/6237/1366237-b-27eb348c70dd",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/8496/1000058496/1000058496-h",
+                        "i": "sources/r1/cms/prod/6236/1366236-i-ce95e3419e53",
+                        "t": "sources/r1/cms/prod/6238/1366238-t-226f8003ffc5",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/8496/1000058496/1000058496-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/6236/1366236-i-ce95e3419e53",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6237/1366237-b-27eb348c70dd",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6238/1366238-t-226f8003ffc5",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/8496/1000058496/1000058496-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/8496/1000058496/1000058496-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 5,
+                    "name": "Tamil",
+                    "iso3code": "tam",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                }
+            },
+            "1000070417": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Sisindri",
+                "contentId": 1000070417,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1217&contentId=1000070417&offset=0&size=20&tao=0&tas=5",
+                "id": 1217,
+                "description": "A plan to make quick money by abducting a rich baby goes astray when the kid turns out to be smarter than his kidnappers.",
+                "duration": 7866,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Great India Entertainments",
+                "cpDisplayName": "Great India Entertainments",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Awards",
+                        "data": [
+                            {
+                                "value": "Filmfare Awards South",
+                                "engValue": "Filmfare Awards South"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 1990s",
+                                "engValue": "From the 1990s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Chase",
+                                "engValue": "Chase"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Movie",
+                                "engValue": "Movie"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            },
+                            {
+                                "value": "Nagaarjuna Fans",
+                                "engValue": "Nagaarjuna Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Telugu"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1435689000,
+                "endDate": 4102338600,
+                "year": 1995,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000070417",
+                "images": {
+                    "b": "sources/r1/cms/prod/412/1370412-b-e867be817b29",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/417/1000070417/1000070417-h",
+                    "i": "sources/r1/cms/prod/411/1370411-i-553da32c36c4",
+                    "t": "sources/r1/cms/prod/414/1370414-t-acd304a7a002",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/417/1000070417/1000070417-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/412/1370412-b-e867be817b29",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/417/1000070417/1000070417-h",
+                        "i": "sources/r1/cms/prod/411/1370411-i-553da32c36c4",
+                        "t": "sources/r1/cms/prod/414/1370414-t-acd304a7a002",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/417/1000070417/1000070417-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/411/1370411-i-553da32c36c4",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/412/1370412-b-e867be817b29",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/414/1370414-t-acd304a7a002",
+                        "imageType": "t",
+                        "theme": "DEFAULT",
+                        "height": 285,
+                        "width": 551
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/417/1000070417/1000070417-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/417/1000070417/1000070417-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 25,
+                "studioName": "Star MAA",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000242047"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Violence, Mild Language",
+                "detail": "Suitable for all ",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000242047",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 10,
+                    "name": "Telugu",
+                    "iso3code": "tel",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                }
+            },
+            "1000102128": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "My Friend Ganesha 3",
+                "contentId": 1000102128,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=1956&contentId=1000102128&offset=0&size=20&tao=0&tas=5",
+                "id": 1956,
+                "description": "Ganya, an orphan, is troubled by his evil uncle and aunt for the property that he has inherited from his family. Who will come to his rescue?",
+                "duration": 7453,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "PVR Pictures",
+                "cpDisplayName": "PVR Pictures",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Exhilarating",
+                                "engValue": "Exhilarating"
+                            },
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            },
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            },
+                            {
+                                "value": "Young Adult",
+                                "engValue": "Young Adult"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Magical",
+                                "engValue": "Magical"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in Metropolis/Big City",
+                                "engValue": "Set in Metropolis/Big City"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            },
+                            {
+                                "value": "Animation Fans",
+                                "engValue": "Animation Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1468456200,
+                "endDate": 1940524140,
+                "year": 2010,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000102128",
+                "images": {
+                    "b": "sources/r1/cms/prod/5775/1365775-b-acbac84999eb",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/2128/1000102128/1000102128-h",
+                    "i": "sources/r1/cms/prod/5774/1365774-i-9fca459279c6",
+                    "t": "sources/r1/cms/prod/5776/1365776-t-cf0c81f2b81d",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2128/1000102128/1000102128-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5775/1365775-b-acbac84999eb",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/2128/1000102128/1000102128-h",
+                        "i": "sources/r1/cms/prod/5774/1365774-i-9fca459279c6",
+                        "t": "sources/r1/cms/prod/5776/1365776-t-cf0c81f2b81d",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2128/1000102128/1000102128-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5774/1365774-i-9fca459279c6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5775/1365775-b-acbac84999eb",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5776/1365776-t-cf0c81f2b81d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2128/1000102128/1000102128-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2128/1000102128/1000102128-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260013581"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Mild Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260013581",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000182054": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Hanuman Da’Damdaar",
+                "contentId": 1000182054,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=3152&contentId=1000182054&offset=0&size=20&tao=0&tas=5",
+                "id": 3152,
+                "description": "To prove that he is a brave boy, Maruti, a young boy sets out on a jungle adventure and transforms into India's original superhero, Hanuman.",
+                "duration": 5988,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "R.A.T Films",
+                "cpDisplayName": "R.A.T Films",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1499646600,
+                "endDate": 1814466540,
+                "year": 2017,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000182054",
+                "images": {
+                    "b": "sources/r1/cms/prod/5343/1375343-b-f6bd5e0beccc",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/2054/1000182054/1000182054-h",
+                    "i": "sources/r1/cms/prod/5342/1375342-i-273b161b21ef",
+                    "t": "sources/r1/cms/prod/5344/1375344-t-8acbb8b9f2ac",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2054/1000182054/1000182054-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5343/1375343-b-f6bd5e0beccc",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/2054/1000182054/1000182054-h",
+                        "i": "sources/r1/cms/prod/5342/1375342-i-273b161b21ef",
+                        "t": "sources/r1/cms/prod/5344/1375344-t-8acbb8b9f2ac",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2054/1000182054/1000182054-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5342/1375342-i-273b161b21ef",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5343/1375343-b-f6bd5e0beccc",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5344/1375344-t-8acbb8b9f2ac",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2054/1000182054/1000182054-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2054/1000182054/1000182054-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000177464"
+                ],
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 13+",
+                "crisp": "Some Violence",
+                "detail": "Mild Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000177464",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000192003": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Little Krishna II - The Legendary Warrior",
+                "contentId": 1000192003,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=3211&contentId=1000192003&offset=0&size=20&tao=0&tas=5",
+                "id": 3211,
+                "description": "It is about Lord Krishna’s fight against his evil uncle Kansa.",
+                "duration": 5445,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "BIG Animation",
+                "cpDisplayName": "BIG Animation",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Franchise",
+                                "engValue": "Franchise"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Magical",
+                                "engValue": "Magical"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Vedic India",
+                                "engValue": "Vedic India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1508977800,
+                "endDate": 1728930540,
+                "year": 2009,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000192003",
+                "images": {
+                    "b": "sources/r1/cms/prod/5232/1375232-b-40cfc906447a",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/2003/1000192003/1000192003-h",
+                    "i": "sources/r1/cms/prod/5231/1375231-i-afe46311f156",
+                    "t": "sources/r1/cms/prod/5233/1375233-t-8526d0849fa2",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2003/1000192003/1000192003-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5232/1375232-b-40cfc906447a",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/2003/1000192003/1000192003-h",
+                        "i": "sources/r1/cms/prod/5231/1375231-i-afe46311f156",
+                        "t": "sources/r1/cms/prod/5233/1375233-t-8526d0849fa2",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2003/1000192003/1000192003-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5231/1375231-i-afe46311f156",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5232/1375232-b-40cfc906447a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5233/1375233-t-8526d0849fa2",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2003/1000192003/1000192003-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2003/1000192003/1000192003-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Mild Language , Mild Violence",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000192025": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Little Krishna - The Darling of Vrindavan",
+                "contentId": 1000192025,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=3215&contentId=1000192025&offset=0&size=20&tao=0&tas=5",
+                "id": 3215,
+                "description": "Follow the story of Lord Krishna's birth and his naughty childhood adventures in Vrindavan.",
+                "duration": 5413,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "BIG Animation",
+                "cpDisplayName": "BIG Animation",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Magical",
+                                "engValue": "Magical"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Vedic India",
+                                "engValue": "Vedic India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1508977800,
+                "endDate": 1728930540,
+                "year": 2009,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000192025",
+                "images": {
+                    "b": "sources/r1/cms/prod/7984/1427984-b-41386e356092",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/2025/1000192025/1000192025-h",
+                    "i": "sources/r1/cms/prod/7983/1427983-i-8741fc3e316d",
+                    "t": "sources/r1/cms/prod/7985/1427985-t-d32e7128f3f9",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2025/1000192025/1000192025-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7984/1427984-b-41386e356092",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/2025/1000192025/1000192025-h",
+                        "i": "sources/r1/cms/prod/7983/1427983-i-8741fc3e316d",
+                        "t": "sources/r1/cms/prod/7985/1427985-t-d32e7128f3f9",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2025/1000192025/1000192025-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7983/1427983-i-8741fc3e316d",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7984/1427984-b-41386e356092",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7985/1427985-t-d32e7128f3f9",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2025/1000192025/1000192025-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2025/1000192025/1000192025-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Strong Violence ",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000192026": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Little Krishna III - The Wondrous Feats",
+                "contentId": 1000192026,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=3218&contentId=1000192026&offset=0&size=20&tao=0&tas=5",
+                "id": 3218,
+                "description": "The story of Lord Krishna fighting dangerous demons like Aghasura, dreadful Vatsasura, and wicked Vyomasura.",
+                "duration": 5665,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "BIG Animation",
+                "cpDisplayName": "BIG Animation",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Franchise",
+                                "engValue": "Franchise"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2000s",
+                                "engValue": "From the 2000s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            },
+                            {
+                                "value": "Magical",
+                                "engValue": "Magical"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Vedic India",
+                                "engValue": "Vedic India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1508977800,
+                "endDate": 1728930540,
+                "year": 2009,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000192026",
+                "images": {
+                    "b": "sources/r1/cms/prod/5157/1375157-b-8a571e31d3ba",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/2026/1000192026/1000192026-h",
+                    "i": "sources/r1/cms/prod/5156/1375156-i-f61db7814fb6",
+                    "t": "sources/r1/cms/prod/5158/1375158-t-551e87c66a4f",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2026/1000192026/1000192026-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5157/1375157-b-8a571e31d3ba",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/2026/1000192026/1000192026-h",
+                        "i": "sources/r1/cms/prod/5156/1375156-i-f61db7814fb6",
+                        "t": "sources/r1/cms/prod/5158/1375158-t-551e87c66a4f",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/2026/1000192026/1000192026-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5156/1375156-i-f61db7814fb6",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5157/1375157-b-8a571e31d3ba",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5158/1375158-t-551e87c66a4f",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/2026/1000192026/1000192026-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/2026/1000192026/1000192026-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Strong Language, Strong Violence ",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000216197": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Bal Ganesh 3",
+                "contentId": 1000216197,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=432771&contentId=1000216197&offset=0&size=20&tao=0&tas=5",
+                "id": 432771,
+                "description": "A group of alien kids visits Earth to find out more about Bal Ganesh. They meet three mice, Dhoti, Topi and Suit Boot, who share Bal Ganesh's adventurous tales.",
+                "duration": 4125,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "Shemaroo Entertainment",
+                "cpDisplayName": "Shemaroo Entertainment",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Exhilarating",
+                                "engValue": "Exhilarating"
+                            },
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            },
+                            {
+                                "value": "Spiritual",
+                                "engValue": "Spiritual"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Something For Everyone",
+                                "engValue": "Something For Everyone"
+                            },
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Fantasyland",
+                                "engValue": "Fantasyland"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            },
+                            {
+                                "value": "Animation Fans",
+                                "engValue": "Animation Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1532565000,
+                "endDate": 1730399340,
+                "year": 2015,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000216197",
+                "images": {
+                    "b": "sources/r1/cms/prod/3605/1373605-b-69c60216943d",
+                    "h": "sources/r1/cms/prod/old_images/MOVIE/6197/1000216197/1000216197-h",
+                    "i": "sources/r1/cms/prod/3604/1373604-i-47f099e0567b",
+                    "t": "sources/r1/cms/prod/3606/1373606-t-76a06715c55c",
+                    "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/6197/1000216197/1000216197-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/3605/1373605-b-69c60216943d",
+                        "h": "sources/r1/cms/prod/old_images/MOVIE/6197/1000216197/1000216197-h",
+                        "i": "sources/r1/cms/prod/3604/1373604-i-47f099e0567b",
+                        "t": "sources/r1/cms/prod/3606/1373606-t-76a06715c55c",
+                        "v": "sources/r1/cms/prod/old_images/vertical/MOVIE/6197/1000216197/1000216197-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3604/1373604-i-47f099e0567b",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3605/1373605-b-69c60216943d",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3606/1373606-t-76a06715c55c",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/MOVIE/6197/1000216197/1000216197-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/old_images/vertical/MOVIE/6197/1000216197/1000216197-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioId": 17,
+                "studioName": "Star Gold",
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1260010114"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Suitable for All",
+                "detail": "Suitable for All",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260010114",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1000229141": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Hanuman Vs Mahiravana",
+                "contentId": 1000229141,
+                "uri": "https://api.hotstar.com/o/v1/movie/detail?id=515701&contentId=1000229141&offset=0&size=20&tao=0&tas=5",
+                "id": 515701,
+                "description": "The story of Hanuman saving Rama and Lakshmana from Mahiravana, Ravana's brother, and a dark and powerful sorcerer.",
+                "duration": 5237,
+                "entityType": "MOVIE",
+                "contentType": "MOVIE",
+                "contentProvider": "SIPL",
+                "cpDisplayName": "SIPL",
+                "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+                "assetType": "MOVIE",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Inspirational",
+                                "engValue": "Inspirational"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "Movies",
+                                "engValue": "Movies"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Casual Viewing",
+                                "engValue": "Casual Viewing"
+                            },
+                            {
+                                "value": "Magical",
+                                "engValue": "Magical"
+                            },
+                            {
+                                "value": "Myth & Legend",
+                                "engValue": "Myth & Legend"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Vedic India",
+                                "engValue": "Vedic India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "For Mythical Lovers",
+                                "engValue": "For Mythical Lovers"
+                            },
+                            {
+                                "value": "Animation Fans",
+                                "engValue": "Animation Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "premium": false,
+                "live": false,
+                "hboContent": false,
+                "vip": false,
+                "encrypted": false,
+                "startDate": 1549175100,
+                "endDate": 1862850599,
+                "year": 2018,
+                "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1000229141",
+                "images": {
+                    "b": "sources/r1/cms/prod/5454/1375454-b-81221ed168a4",
+                    "h": "sources/r1/cms/prod/8629/258629-h",
+                    "i": "sources/r1/cms/prod/5453/1375453-i-bd57f11ae803",
+                    "m": "sources/r1/cms/prod/8631/258631-m",
+                    "t": "sources/r1/cms/prod/5455/1375455-t-283c0777a0be",
+                    "v": "sources/r1/cms/prod/8630/258630-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/5454/1375454-b-81221ed168a4",
+                        "h": "sources/r1/cms/prod/8629/258629-h",
+                        "i": "sources/r1/cms/prod/5453/1375453-i-bd57f11ae803",
+                        "m": "sources/r1/cms/prod/8631/258631-m",
+                        "t": "sources/r1/cms/prod/5455/1375455-t-283c0777a0be",
+                        "v": "sources/r1/cms/prod/8630/258630-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/5453/1375453-i-bd57f11ae803",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5454/1375454-b-81221ed168a4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5455/1375455-t-283c0777a0be",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8629/258629-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8630/258630-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8631/258631-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "contentDownloadable": false,
+                "playbackType": "INTERNAL",
+                "monetisable": true,
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "languageSelector": 1,
+                "drmClass": "BEST_EFFORT",
+                "downloadDrmClass": "BEST_EFFORT",
+                "contentStartPointSeconds": 0,
+                "badges": [
+                    "NP"
+                ],
+                "clipType": "VOD",
+                "trailers": [
+                    "1000119432"
+                ],
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "crisp": "Action Sequences",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "orientation": "HORIZONTAL",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1000119432",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "isSubTagged": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260003658": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Thakumar Jhuli",
+                "categoryId": 1260003658,
+                "contentId": 1260003658,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2022&avsCategoryId=1260003658&contentId=1260003658&offset=0&size=20&tao=0&tas=5",
+                "id": 2022,
+                "description": "Explore the world of fantasy through the stories from Thakumar Jhuli, a collection of Bengali folk tales and fairy tales.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Kids",
+                    "Adventure",
+                    "Fantasy"
+                ],
+                "engGenre": [
+                    "Kids",
+                    "Adventure",
+                    "Fantasy"
+                ],
+                "lang": [
+                    "Bengali"
+                ],
+                "channelName": "Star Jalsha",
+                "episodeCnt": 37,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7192/1377192-b-873ed764de38",
+                    "h": "sources/r1/cms/prod/1638/291638-h",
+                    "i": "sources/r1/cms/prod/7191/1377191-i-37f64a5d3dfe",
+                    "m": "sources/r1/cms/prod/1640/291640-m",
+                    "t": "sources/r1/cms/prod/7193/1377193-t-b8fc7418fd77",
+                    "v": "sources/r1/cms/prod/1639/291639-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7192/1377192-b-873ed764de38",
+                        "h": "sources/r1/cms/prod/1638/291638-h",
+                        "i": "sources/r1/cms/prod/7191/1377191-i-37f64a5d3dfe",
+                        "m": "sources/r1/cms/prod/1640/291640-m",
+                        "t": "sources/r1/cms/prod/7193/1377193-t-b8fc7418fd77",
+                        "v": "sources/r1/cms/prod/1639/291639-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/1638/291638-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1639/291639-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/1640/291640-m",
+                        "imageType": "m",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7191/1377191-i-37f64a5d3dfe",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7192/1377192-b-873ed764de38",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7193/1377193-t-b8fc7418fd77",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 2,
+                        "name": "Bengali",
+                        "iso3code": "ben",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15063,
+                        "name": "Adventure",
+                        "engName": "Adventure",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15063&offset=0&size=20"
+                    },
+                    {
+                        "id": 15064,
+                        "name": "Fantasy",
+                        "engName": "Fantasy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15064&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 7,
+                    "name": "Star Jalsha",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=7&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260010779"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260010779",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 2,
+                    "name": "Bengali",
+                    "iso3code": "ben",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=2&offset=0&size=20"
+                }
+            },
+            "1260016958": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Simple Samosa",
+                "categoryId": 1260016958,
+                "contentId": 1260016958,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2464&avsCategoryId=1260016958&contentId=1260016958&offset=0&size=20&tao=0&tas=5",
+                "id": 2464,
+                "description": "Samosa, a vibrant and energetic hero, exaggerates his heroic tales sometimes, but he’ll always step up to remedy the situation, and help save the day!",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Kids",
+                    "Animation"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Kids",
+                    "Animation"
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 104,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/4046/674046-h",
+                    "v": "sources/r1/cms/prod/4048/674048-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/4046/674046-h",
+                        "v": "sources/r1/cms/prod/4048/674048-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3733/673733-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3734/673734-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7481/1377481-i-211aeda7b152",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7482/1377482-b-a21cca15c28f",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7483/1377483-t-56cd4a32aa06",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15061,
+                        "name": "Animation",
+                        "engName": "Animation",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15061&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260073590"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2018",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260073590",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260020929": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Shin-chan",
+                "categoryId": 1260020929,
+                "contentId": 1260020929,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2496&avsCategoryId=1260020929&contentId=1260020929&offset=0&size=20&tao=0&tas=5",
+                "id": 2496,
+                "description": "Shin-chan follows the journey of five-year-old, Shinnosuke \"Shin\" Nohara and his family, his pet dog Shiro, neighbours, and friends in Kasukabe, Japan.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Mindless",
+                                "engValue": "Mindless"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 1990s",
+                                "engValue": "From the 1990s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            },
+                            {
+                                "value": "Anime",
+                                "engValue": "Anime"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Childhood",
+                                "engValue": "Childhood"
+                            },
+                            {
+                                "value": "Slice of Life",
+                                "engValue": "Slice of Life"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Cartoons",
+                                "engValue": "Cartoons"
+                            },
+                            {
+                                "value": "Foreign series",
+                                "engValue": "Foreign series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in a Small Town",
+                                "engValue": "Set in a Small Town"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Anime/Manga Fans",
+                                "engValue": "Anime/Manga Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Japanese",
+                                "engValue": "Japanese"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 208,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2603/742603-h",
+                    "i": "sources/r1/cms/prod/5059/795059-i",
+                    "t": "sources/r1/cms/prod/5060/795060-t",
+                    "v": "sources/r1/cms/prod/2604/742604-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2603/742603-h",
+                        "i": "sources/r1/cms/prod/5059/795059-i",
+                        "t": "sources/r1/cms/prod/5060/795060-t",
+                        "v": "sources/r1/cms/prod/2604/742604-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3127/1383127-i-df580f3b5a2a",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3128/1383128-b-3a1646f6b6b5",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3129/1383129-t-b773591de0ec",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3555/753555-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3556/753556-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "TV Asahi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260022940"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2019",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260022940",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260021004": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Doraemon",
+                "categoryId": 1260021004,
+                "contentId": 1260021004,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2498&avsCategoryId=1260021004&contentId=1260021004&offset=0&size=20&tao=0&tas=5",
+                "id": 2498,
+                "description": "Trouble seems to follow Nobita around. Fortunately for him, he’s got Doraemon, a trusty cat-type robot from the 22nd century.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Curious",
+                                "engValue": "Curious"
+                            },
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 1970s",
+                                "engValue": "From the 1970s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            },
+                            {
+                                "value": "Anime",
+                                "engValue": "Anime"
+                            },
+                            {
+                                "value": "Light-hearted",
+                                "engValue": "Light-hearted"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Childhood",
+                                "engValue": "Childhood"
+                            },
+                            {
+                                "value": "Family-Friendly",
+                                "engValue": "Family-Friendly"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Cartoons",
+                                "engValue": "Cartoons"
+                            },
+                            {
+                                "value": "Quests",
+                                "engValue": "Quests"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Set in a Small Town",
+                                "engValue": "Set in a Small Town"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Anime/Manga Fans",
+                                "engValue": "Anime/Manga Fans"
+                            },
+                            {
+                                "value": "Comedy Fans",
+                                "engValue": "Comedy Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Japanese",
+                                "engValue": "Japanese"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 208,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2138/742138-h",
+                    "i": "sources/r1/cms/prod/5056/795056-i",
+                    "t": "sources/r1/cms/prod/5058/795058-t",
+                    "v": "sources/r1/cms/prod/3953/673953-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2138/742138-h",
+                        "i": "sources/r1/cms/prod/5056/795056-i",
+                        "t": "sources/r1/cms/prod/5058/795058-t",
+                        "v": "sources/r1/cms/prod/3953/673953-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/3118/1383118-i-7b1826112dff",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3119/1383119-b-fb1967cf4381",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3120/1383120-t-ff21f64e807d",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3422/753422-v",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/3423/753423-h",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "TV Asahi",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260022958"
+                ],
+                "seasonCnt": 4,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260022958",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260024619": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Selfie with Bajrangi",
+                "categoryId": 1260024619,
+                "contentId": 1260024619,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=2581&avsCategoryId=1260024619&contentId=1260024619&offset=0&size=20&tao=0&tas=5",
+                "id": 2581,
+                "description": "Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him. Together, they learn the importance of togetherness, friendship, and trust.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Kids"
+                ],
+                "genome": [
+                    {
+                        "type": "Mood",
+                        "data": [
+                            {
+                                "value": "Curious",
+                                "engValue": "Curious"
+                            },
+                            {
+                                "value": "Feel-Good",
+                                "engValue": "Feel-Good"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Format",
+                        "data": [
+                            {
+                                "value": "TV Show/Series",
+                                "engValue": "TV Show/Series"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Extra Callouts",
+                        "data": [
+                            {
+                                "value": "Watch With Your Family",
+                                "engValue": "Watch With Your Family"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Time Period",
+                        "data": [
+                            {
+                                "value": "From the 2010s",
+                                "engValue": "From the 2010s"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Sub-Genre",
+                        "data": [
+                            {
+                                "value": "Animation",
+                                "engValue": "Animation"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Adjectives/Themes",
+                        "data": [
+                            {
+                                "value": "Childhood",
+                                "engValue": "Childhood"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Descriptors",
+                        "data": [
+                            {
+                                "value": "Legends",
+                                "engValue": "Legends"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Area or Period",
+                        "data": [
+                            {
+                                "value": "Urban India",
+                                "engValue": "Urban India"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "User Persona",
+                        "data": [
+                            {
+                                "value": "Superhero Fans",
+                                "engValue": "Superhero Fans"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "International",
+                        "data": [
+                            {
+                                "value": "Indian",
+                                "engValue": "Indian"
+                            }
+                        ]
+                    }
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 356,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/751/1000751-h",
+                    "v": "sources/r1/cms/prod/752/1000752-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/751/1000751-h",
+                        "v": "sources/r1/cms/prod/752/1000752-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/746/1000746-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/748/1000748-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8089/1428089-i-44f58f823cb9",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8090/1428090-b-f16e60d64168",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/8091/1428091-t-5075c3c1c858",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Cosmos Animation Singapore Pte. Ltd",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260047867"
+                ],
+                "seasonCnt": 3,
+                "yearLatestSeason": "2021",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260047867",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260043394": {
+                "imageAttributes": "script_lang=eng,callout_lang=hin,logic=lang",
+                "title": "Chacha Bhatija",
+                "categoryId": 1260043394,
+                "contentId": 1260043394,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3045&avsCategoryId=1260043394&contentId=1260043394&offset=0&size=20&tao=0&tas=5",
+                "id": 3045,
+                "description": "Chacha and Bhatija, the uncle-nephew duo ‘world-famous’ in Funtoosh Nagar, solve complicated problems in their uncanny and funny ways.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Kids"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Marathi"
+                ],
+                "channelName": "Select Picks",
+                "episodeCnt": 104,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "h": "sources/r1/cms/prod/2475/792475-h",
+                    "v": "sources/r1/cms/prod/2476/792476-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "h": "sources/r1/cms/prod/2475/792475-h",
+                        "v": "sources/r1/cms/prod/2476/792476-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/2474/792474-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/265/1440265-i-1a284f149f44",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/266/1440266-b-11c8b4236688",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/267/1440267-t-09e8fe4feb49",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/5442/815442-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Cosmos Animation Singapore Pte. Ltd",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 4,
+                        "name": "Marathi",
+                        "iso3code": "mar",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=4&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 22,
+                    "name": "Select Picks",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=22&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260050020"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2020",
+                "parentalRating": 1,
+                "parentalRatingName": "U",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260050020",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            },
+            "1260052718": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Pixar Popcorn",
+                "categoryId": 1260052718,
+                "contentId": 1260052718,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3199&avsCategoryId=1260052718&contentId=1260052718&offset=0&size=20&tao=0&tas=5",
+                "id": 3199,
+                "description": "Grab a quick snack of Pixar with this collection of mini shorts starring your favorite characters.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Comedy",
+                    "Kids",
+                    "Shorts",
+                    "Animation"
+                ],
+                "engGenre": [
+                    "Comedy",
+                    "Kids",
+                    "Shorts",
+                    "Animation"
+                ],
+                "lang": [
+                    "English"
+                ],
+                "channelName": "Pixar",
+                "episodeCnt": 11,
+                "premium": false,
+                "vip": false,
+                "images": {
+                    "b": "sources/r1/cms/prod/7287/1417287-b-06962e04932a",
+                    "h": "sources/r1/cms/prod/9415/889415-h",
+                    "i": "sources/r1/cms/prod/7286/1417286-i-82676bfe0464",
+                    "t": "sources/r1/cms/prod/7288/1417288-t-e61196bdab23",
+                    "v": "sources/r1/cms/prod/9417/889417-v"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/7287/1417287-b-06962e04932a",
+                        "h": "sources/r1/cms/prod/9415/889415-h",
+                        "i": "sources/r1/cms/prod/7286/1417286-i-82676bfe0464",
+                        "t": "sources/r1/cms/prod/7288/1417288-t-e61196bdab23",
+                        "v": "sources/r1/cms/prod/9417/889417-v"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/7286/1417286-i-82676bfe0464",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7287/1417287-b-06962e04932a",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/7288/1417288-t-e61196bdab23",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9415/889415-h",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/9417/889417-v",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Pixar",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 3,
+                        "name": "English",
+                        "iso3code": "eng",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    },
+                    {
+                        "id": 15060,
+                        "name": "Shorts",
+                        "engName": "Shorts",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15060&offset=0&size=20"
+                    },
+                    {
+                        "id": 15061,
+                        "name": "Animation",
+                        "engName": "Animation",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=15061&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 61,
+                    "name": "Pixar",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=61&offset=0&size=20"
+                },
+                "trailers": [
+                    "1260051384"
+                ],
+                "seasonCnt": 1,
+                "yearLatestSeason": "2021",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260051384",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEASONAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 3,
+                    "name": "English",
+                    "iso3code": "eng",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+                }
+            },
+            "1260066788": {
+                "imageAttributes": "artwork_logic=default_fallback",
+                "title": "Best of Luck Nikki",
+                "categoryId": 1260066788,
+                "contentId": 1260066788,
+                "uri": "https://api.hotstar.com/o/v1/show/detail?id=3464&avsCategoryId=1260066788&contentId=1260066788&offset=0&size=20&tao=0&tas=5",
+                "id": 3464,
+                "description": "Dolly creates a video diary about their family and friends containing advice for Nikki when she grows up.",
+                "entityType": "SHOW",
+                "assetType": "SHOW",
+                "genre": [
+                    "Family",
+                    "Teen",
+                    "Comedy",
+                    "Kids"
+                ],
+                "engGenre": [
+                    "Family",
+                    "Teen",
+                    "Comedy",
+                    "Kids"
+                ],
+                "lang": [
+                    "Hindi",
+                    "Tamil",
+                    "Telugu"
+                ],
+                "channelName": "Disney",
+                "episodeCnt": 52,
+                "premium": true,
+                "vip": true,
+                "images": {
+                    "b": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                    "h": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                    "i": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                    "t": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                    "v": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb"
+                },
+                "imageSets": {
+                    "DARK_THEME": null,
+                    "DEFAULT": {
+                        "b": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                        "h": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                        "i": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                        "t": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                        "v": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb"
+                    }
+                },
+                "imageSetV2": [
+                    {
+                        "publicUri": "sources/r1/cms/prod/434/1440434-i-a480f97b9529",
+                        "imageType": "i",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/435/1440435-b-278998eb83f4",
+                        "imageType": "b",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/436/1440436-t-f09c8a6474ae",
+                        "imageType": "t",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6379/1046379-h-fe0141c9e1b6",
+                        "imageType": "h",
+                        "theme": "DEFAULT"
+                    },
+                    {
+                        "publicUri": "sources/r1/cms/prod/6380/1046380-v-5eef83337fdb",
+                        "imageType": "v",
+                        "theme": "DEFAULT"
+                    }
+                ],
+                "studioName": "Disney",
+                "langObjs": [
+                    {
+                        "hide": false,
+                        "id": 9,
+                        "name": "Hindi",
+                        "iso3code": "hin",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 5,
+                        "name": "Tamil",
+                        "iso3code": "tam",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+                    },
+                    {
+                        "hide": false,
+                        "id": 10,
+                        "name": "Telugu",
+                        "iso3code": "tel",
+                        "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+                    }
+                ],
+                "genreObjs": [
+                    {
+                        "id": 7,
+                        "name": "Family",
+                        "engName": "Family",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=7&offset=0&size=20"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Teen",
+                        "engName": "Teen",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=6&offset=0&size=20"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Comedy",
+                        "engName": "Comedy",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=8&offset=0&size=20"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kids",
+                        "engName": "Kids",
+                        "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=20&offset=0&size=20"
+                    }
+                ],
+                "channelObj": {
+                    "id": 60,
+                    "name": "Disney",
+                    "detailUrl": "https://api.hotstar.com/o/v1/channel/detail?id=60&offset=0&size=20"
+                },
+                "labels": [
+                    "VIP"
+                ],
+                "trailers": [
+                    "1260069486"
+                ],
+                "seasonCnt": 2,
+                "yearLatestSeason": "2014",
+                "parentalRating": 2,
+                "parentalRatingName": "U/A 7+",
+                "isSocialEnabled": false,
+                "loginNudgeStatus": "DEFAULT",
+                "autoplayObjs": [
+                    {
+                        "contentId": "1260069486",
+                        "playbackType": "INTERNAL",
+                        "orientation": "HORIZONTAL"
+                    }
+                ],
+                "archived": true,
+                "collections": [
+                    {
+                        "name": "Disney+"
+                    }
+                ],
+                "showType": "SEQUENTIAL",
+                "btv": false,
+                "originalLanguage": {
+                    "hide": false,
+                    "id": 9,
+                    "name": "Hindi",
+                    "iso3code": "hin",
+                    "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+                }
+            }
+        },
+        "next_page_url": "v1/users/d8b2d42ea81c4f238d3c1e761d198853/trays/popular?availability=All&content_type=All&genre=Kids&offset=tam%2C2%2Cben%2C1%2Ctel%2C2%2Cmar%2C1%2Ceng%2C1%2Chin%2C15&profile=kids&size=20",
+        "updated_at": 0
+    },
+    "status": true
+}

@@ -1,0 +1,208 @@
+{
+    "data": {
+        "itemids": [
+            "1540022631",
+            "10183"
+        ],
+        "items": {
+"1540022631": {
+    "imageAttributes": "artwork_logic=default_fallback",
+    "title": "Resolute Lions Too Good for Giants",
+    "contentId": 1540022631,
+    "uri": "https://api.hotstar.com/o/v1/match/detail?id=1061466&contentId=1540022631&siMatchId=707981&offset=0&size=20&tao=0&tas=5",
+    "id": 1061466,
+    "description": "Asia Lions dominated in all departments as they dismantled World Giants in a rain curtailed match in Legends League Cricket Masters 2023",
+    "duration": 570,
+    "entityType": "MATCH",
+    "contentType": "SPORT_MATCH_HIGHLIGHTS",
+    "contentProvider": "Star",
+    "cpDisplayName": "Star",
+    "cpLogoUrl": "https://secure-media.hotstar.com/static/NewsV2/PartnerLogos/hotstar.png",
+    "assetType": "MATCH",
+    "genre": [
+        "Cricket"
+    ],
+    "engGenre": [
+        "Cricket"
+    ],
+    "lang": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+    ],
+    "gameName": "CRICKET",
+    "sportsSeasonId": 985,
+    "sportsSeasonName": "Legends League Cricket Masters 2023",
+    "siMatchId": "707981",
+    "premium": false,
+    "highlight": true,
+    "replay": false,
+    "live": false,
+    "hboContent": false,
+    "vip": false,
+    "encrypted": true,
+    "startDate": 1678732950,
+    "endDate": 4102444799,
+    "broadCastDate": 1678732950,
+    "line1": "Legends League Cricket Masters 2023",
+    "line2": "Resolute Lions Too Good for Giants",
+    "line3": "9 min",
+    "playbackUri": "https://api.hotstar.com/h/v1/play?contentId=1540022631",
+    "images": {
+        "b": "sources/r1/cms/prod/7283/1487283-b-c55c848c52aa",
+        "h": "sources/r1/cms/prod/7282/1487282-h-43980a6f183b",
+        "i": "sources/r1/cms/prod/7284/1487284-i-ce3578173690",
+        "t": "sources/r1/cms/prod/7285/1487285-t-d9813aaa7f75"
+    },
+    "imageSets": {
+        "DARK_THEME": null,
+        "DEFAULT": {
+            "b": "sources/r1/cms/prod/7283/1487283-b-c55c848c52aa",
+            "h": "sources/r1/cms/prod/7282/1487282-h-43980a6f183b",
+            "i": "sources/r1/cms/prod/7284/1487284-i-ce3578173690",
+            "t": "sources/r1/cms/prod/7285/1487285-t-d9813aaa7f75"
+        }
+    },
+    "imageSetV2": [
+        {
+            "publicUri": "sources/r1/cms/prod/7282/1487282-h-43980a6f183b",
+            "imageType": "h",
+            "theme": "DEFAULT"
+        },
+        {
+            "publicUri": "sources/r1/cms/prod/7283/1487283-b-c55c848c52aa",
+            "imageType": "b",
+            "theme": "DEFAULT"
+        },
+        {
+            "publicUri": "sources/r1/cms/prod/7284/1487284-i-ce3578173690",
+            "imageType": "i",
+            "theme": "DEFAULT"
+        },
+        {
+            "publicUri": "sources/r1/cms/prod/7285/1487285-t-d9813aaa7f75",
+            "imageType": "t",
+            "theme": "DEFAULT",
+            "height": 250,
+            "width": 848
+        }
+    ],
+    "contentDownloadable": false,
+    "playbackType": "INTERNAL",
+    "monetisable": true,
+    "langObjs": [
+        {
+            "hide": false,
+            "id": 3,
+            "name": "English",
+            "iso3code": "eng",
+            "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=3&offset=0&size=20"
+        },
+        {
+            "hide": false,
+            "id": 9,
+            "name": "Hindi",
+            "iso3code": "hin",
+            "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=9&offset=0&size=20"
+        },
+        {
+            "hide": false,
+            "id": 5,
+            "name": "Tamil",
+            "iso3code": "tam",
+            "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=5&offset=0&size=20"
+        },
+        {
+            "hide": false,
+            "id": 10,
+            "name": "Telugu",
+            "iso3code": "tel",
+            "detailUrl": "https://api.hotstar.com/o/v1/language/detail?id=10&offset=0&size=20"
+        }
+    ],
+    "genreObjs": [
+        {
+            "id": 26,
+            "name": "Cricket",
+            "engName": "Cricket",
+            "detailUrl": "https://api.hotstar.com/o/v1/genre/detail?id=26&offset=0&size=20"
+        }
+    ],
+    "languageSelector": 2,
+    "drmClass": "BEST_EFFORT",
+    "downloadDrmClass": "BEST_EFFORT",
+    "contentStartPointSeconds": 0,
+    "badges": [
+        "NP"
+    ],
+    "clipType": "VOD",
+    "parentalRating": 1,
+    "parentalRatingName": "U",
+    "isSocialEnabled": false,
+    "loginNudgeStatus": "DEFAULT",
+    "orientation": "HORIZONTAL",
+    "isSubTagged": false
+},
+
+"10183":{
+    "title": "Star Sports 1",
+    "categoryId": 10047,
+    "contentId": 10183,
+    "uri": "https://api.hotstar.com/o/v1/channel/detail?id=30&avsCategoryId=10047&contentId=10183&offset=0&size=20&pageNo=1&perPage=20",
+    "id": 30,
+    "description": "Star Sports 1 showcases the best of live Indian and International cricket and related programs in English.",
+    "entityType": "CHANNEL",
+    "assetType": "CHANNEL",
+    "genre": [
+        "LiveTV"
+    ],
+    "lang": [
+        "English"
+    ],
+    "showCnt": 39,
+    "movieCnt": 0,
+    "clipCount": 0,
+    "live": false,
+    "images": {
+        "a": "sources/r1/cms/prod/4942/1424942-a-6e211260a748",
+        "h": "sources/r1/cms/prod/1167/661167-h"
+    },
+    "imageSets": {
+        "DARK_THEME": {
+            "v": "sources/r1/cms/prod/7075/597075-v",
+            "h": "sources/r1/cms/prod/7074/597074-h"
+        },
+        "DEFAULT": {
+            "a": "sources/r1/cms/prod/4942/1424942-a-6e211260a748",
+            "h": "sources/r1/cms/prod/1167/661167-h"
+        }
+    },
+    "imageSetV2": [
+        {
+            "publicUri": "sources/r1/cms/prod/1167/661167-h",
+            "imageType": "h",
+            "theme": "DEFAULT"
+        },
+        {
+            "publicUri": "sources/r1/cms/prod/4942/1424942-a-6e211260a748",
+            "imageType": "a",
+            "theme": "DEFAULT"
+        },
+        {
+            "publicUri": "sources/r1/cms/prod/7074/597074-h",
+            "imageType": "h",
+            "theme": "DARK_THEME"
+        },
+        {
+            "publicUri": "sources/r1/cms/prod/7075/597075-v",
+            "imageType": "v",
+            "theme": "DARK_THEME"
+        }
+    ],
+    "pageType": "CHANNEL_DETAIL",
+    "liveClipContentId": "1260000035",
+    "isSocialEnabled": false,
+    "loginNudgeStatus": "DISABLED"
+}
+        }}}

@@ -1,0 +1,16 @@
+html{
+  height: 100%;
+  scroll-behavior: smooth;
+}
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  font-family: "Roboto","HelveticaNeue-Light",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: linear-gradient(to bottom, #141b29, #0c111b 300px); */
+  color:white;
+  background: #030b17;
+}
